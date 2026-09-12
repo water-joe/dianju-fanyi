@@ -1,0 +1,706 @@
+{
+ "year": 2022,
+ "text": 2,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "More Americans are opting to work well into retirement, a growing trend that threatens to upend the old workforce model.",
+   "zh": "越来越多的美国人选择工作到退休后很久，这一日益增长的趋势可能会颠覆旧有的劳动力模式。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "More Americans are opting to work well into retirement, a growing trend that threatens to upend the old workforce model."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "One in three Americans who are at least 40 have or plan to have a job in retirement to prepare for a longer life, according to a survey conducted by Harris Poll for TD Ameritrade. Even more surprising is that more than half of \"unretirees\"—those who plan to work in retirement or went back to work after retiring—said they would be employed in their later years even if they had enough money to settle down, the survey showed.",
+   "zh": "根据HarrisPoll为TDAmeritrade进行的一项调查，年龄至少40岁的美国人中有三分之一已经或计划在退休后找一份工作，为更长的寿命做准备。更令人惊讶的是，调查显示，超过半数的\"不退休者\"——那些计划在退休后工作或退休后重返工作岗位的人——表示即使有足够的钱安顿下来，他们也会在晚年继续工作。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "One in three Americans who are at least 40 have or plan to have a job in retirement to prepare for a longer life, according to a survey conducted by Harris Poll for TD Ameritrade."
+    },
+    {
+     "id": "P2S2",
+     "en": "Even more surprising is that more than half of \"unretirees\"—those who plan to work in retirement or went back to work after retiring—said they would be employed in their later years even if they had enough money to settle down, the survey showed."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "Financial needs aren't the only culprit for the \"unretirement\" trend. Other reasons, according to the study, include personal fulfillment such as staying mentally fit, preventing boredom or avoiding depression. About 72% of \"unretiree\" respondents said that they would return to work once retired to keep mentally fit while 59% said it would be tied to making ends meet.",
+   "zh": "经济需求并非\"不退休\"趋势的唯一原因。根据该研究，其他原因包括个人成就感，如保持精神健康、防止无聊或避免抑郁。约72%的\"不退休者\"受访者表示，他们会在退休后重返工作以保持精神健康，而59%的人表示这与维持生计有关。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "Financial needs aren't the only culprit for the \"unretirement\" trend."
+    },
+    {
+     "id": "P3S2",
+     "en": "Other reasons, according to the study, include personal fulfillment such as staying mentally fit, preventing boredom or avoiding depression."
+    },
+    {
+     "id": "P3S3",
+     "en": "About 72% of \"unretiree\" respondents said that they would return to work once retired to keep mentally fit while 59% said it would be tied to making ends meet."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "\"The concept of retirement is evolving,\" said Christine Russell, senior manager of retirement at TD Ameritrade. \"It's not just about finances. The value of work is also driving folks to continue working past retirement.\"",
+   "zh": "TDAmeritrade退休业务高级经理ChristineRussell表示:\"退休的概念正在演变。这不仅仅关乎财务。工作的价值也在驱使人们在退休后继续工作。\"",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "\"The concept of retirement is evolving,\" said Christine Russell, senior manager of retirement at TD Ameritrade."
+    },
+    {
+     "id": "P4S2",
+     "en": "\"It's not just about finances."
+    },
+    {
+     "id": "P4S3",
+     "en": "The value of work is also driving folks to continue working past retirement.\""
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "One reason for the change in retirement patterns: Americans are living longer. The share of the population 65 and older was 16% in 2018, up 32% from the prior year, according to the U.S. Census Bureau. That's also up 30.2% since 2010. Older Americans are also the fastest-growing segment of the US workforce, and boomers are expected to live longer than previous generations. The percentage of retirement-age people in the labor force has doubled over the past three decades. About 20% of people 65 and older were in the workforce in February, up from an all-time low of 10% in January 1985, according to money manager United Income.",
+   "zh": "退休模式改变的一个原因是:美国人的寿命更长了。根据美国人口普查局的数据，2018年65岁及以上人口占总人口的16%，比前一年增长32%。这也比2010年增长了30.2%。老年美国人也是美国劳动力中增长最快的群体，婴儿潮一代预计比前几代人更长寿。过去三十年中，退休年龄人口在劳动力中的比例翻了一番。根据资产管理公司UnitedIncome的数据，2月份约有20%的65岁及以上人口在劳动力队伍中，高于1985年1月10%的历史最低水平。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "One reason for the change in retirement patterns: Americans are living longer."
+    },
+    {
+     "id": "P5S2",
+     "en": "The share of the population 65 and older was 16% in 2018, up 32% from the prior year, according to the U.S."
+    },
+    {
+     "id": "P5S3",
+     "en": "Census Bureau."
+    },
+    {
+     "id": "P5S4",
+     "en": "That's also up 30.2% since 2010."
+    },
+    {
+     "id": "P5S5",
+     "en": "Older Americans are also the fastest-growing segment of the US workforce, and boomers are expected to live longer than previous generations."
+    },
+    {
+     "id": "P5S6",
+     "en": "The percentage of retirement-age people in the labor force has doubled over the past three decades."
+    },
+    {
+     "id": "P5S7",
+     "en": "About 20% of people 65 and older were in the workforce in February, up from an all-time low of 10% in January 1985, according to money manager United Income."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "en": "Because of longer life spans, Americans are also boosting their savings to preserve their nest eggs, the TD Ameritrade study showed, which surveyed 2000 adults between 40 and 79. Six in 10 \"unretirees\" are increasing their savings in anticipation of a longer life, according to the survey. Among the most popular ways they are doing this, the company said, is by reducing their overall expenses, securing life insurance or maximizing their contributions to retirement accounts.",
+   "zh": "TDAmeritrade的研究显示，由于寿命延长，美国人也在增加储蓄以保护他们的养老金，该研究调查了2000名年龄在40至79岁之间的成年人。根据调查，十分之六的\"不退休者\"正在增加储蓄以应对更长的寿命。该公司表示，他们这样做的最流行方式包括减少总体开支、购买人寿保险或最大化他们对退休账户的缴款。",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "Because of longer life spans, Americans are also boosting their savings to preserve their nest eggs, the TD Ameritrade study showed, which surveyed 2000 adults between 40 and 79."
+    },
+    {
+     "id": "P6S2",
+     "en": "Six in 10 \"unretirees\" are increasing their savings in anticipation of a longer life, according to the survey."
+    },
+    {
+     "id": "P6S3",
+     "en": "Among the most popular ways they are doing this, the company said, is by reducing their overall expenses, securing life insurance or maximizing their contributions to retirement accounts."
+    }
+   ]
+  },
+  {
+   "id": "P7",
+   "en": "Unfortunately, many people who are opting to work in retirement are preparing to do so because they are worried about making ends meet in their later years, said Brent Weiss, a co-founder at Baltimore-based financial-planning firm Facet Wealth. He suggested that preretirees should speak with a financial adviser to set long-term financial goals.",
+   "zh": "位于Baltimore的财务规划公司FacetWealth的联合创始人BrentWeiss表示，不幸的是，许多选择在退休后工作的人准备这样做是因为他们担心晚年无法维持生计。他建议即将退休的人应该与财务顾问交谈以设定长期财务目标。",
+   "sentences": [
+    {
+     "id": "P7S1",
+     "en": "Unfortunately, many people who are opting to work in retirement are preparing to do so because they are worried about making ends meet in their later years, said Brent Weiss, a co-founder at Baltimore-based financial-planning firm Facet Wealth."
+    },
+    {
+     "id": "P7S2",
+     "en": "He suggested that preretirees should speak with a financial adviser to set long-term financial goals."
+    }
+   ]
+  },
+  {
+   "id": "P8",
+   "en": "\"The most challenging moments in life are getting married, starting a family and ultimately retiring,\" Weiss said. \"It's not just a financial decision, but an emotional one. Many people believe they can't retire.\"",
+   "zh": "Weiss说:\"人生中最具挑战性的时刻是结婚、组建家庭以及最终退休。这不仅仅是一个财务决定，而且是一个情感决定。许多人认为他们无法退休。\"",
+   "sentences": [
+    {
+     "id": "P8S1",
+     "en": "\"The most challenging moments in life are getting married, starting a family and ultimately retiring,\" Weiss said."
+    },
+    {
+     "id": "P8S2",
+     "en": "\"It's not just a financial decision, but an emotional one."
+    },
+    {
+     "id": "P8S3",
+     "en": "Many people believe they can't retire.\""
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 1,
+   "en": "More Americans are opting to work well into retirement, a growing trend that threatens to upend the old workforce model.",
+   "note": "本句展示了主句加限制性定语从句的常见结构，同位语加定语从句的组合在考试阅读中频繁出现。不定式作宾语和关系代词引导定语从句都是四六级和考研的高频考点，结构典型性较高。"
+  },
+  {
+   "para": 2,
+   "sent": 2,
+   "en": "Even more surprising is that more than half of \"unretirees\"—those who plan to work in retirement or went back to work after retiring—said they would be employed in their later years even if they had enough money to settle down, the survey showed.",
+   "note": "涵盖了倒装结构、长主语从句、同位语、定语从句、省略that的宾语从句、虚拟让步状语从句以及插入式说明语。是极佳的综合成分拆解练习句。"
+  },
+  {
+   "para": 3,
+   "sent": 1,
+   "en": "Financial needs aren't the only culprit for the \"unretirement\" trend.",
+   "note": "主系表加状语的简单句在真题中较为常见，具有一定代表性；但本句用词较为口语化（\"culprit\"、\"unretirement\"等新造词），且结构过于简单，迁移价值低于包含从句或复杂修饰的典型句式。"
+  },
+  {
+   "para": 3,
+   "sent": 2,
+   "en": "Other reasons, according to the study, include personal fulfillment such as staying mentally fit, preventing boredom or avoiding depression.",
+   "note": "主谓宾加插入语、宾语后跟同位语解释的结构在四六级和考研阅读中高频出现，\"suchas\"引导同位语列举也是标准考点句式。掌握本句的分析方法可直接迁移到大量真题句子中。"
+  },
+  {
+   "para": 3,
+   "sent": 3,
+   "en": "About 72% of \"unretiree\" respondents said that they would return to work once retired to keep mentally fit while 59% said it would be tied to making ends meet.",
+   "note": "并列主句+宾语从句是四六级和考研阅读中的高频句式；间接引语中的时态呼应（主句过去时、从句过去将来时）以及\"while\"引导的对比并列结构都是典型考点；被动语态\"wouldbetiedto\"的使用也符合学术和调查报告文体的常见模式。"
+  },
+  {
+   "para": 5,
+   "sent": 2,
+   "en": "The share of the population 65 and older was 16% in 2018, up 32% from the prior year, according to the U.S. Census Bureau.",
+   "note": "主系表结构加介词短语修饰是英语中的高频基础句式,在数据报告、说明文等文体中极为常见,具有较强的代表性和实用性。"
+  },
+  {
+   "para": 5,
+   "sent": 3,
+   "en": "That's also up 30.2% since 2010.",
+   "note": "主系表结构是常见基础句式，但本句使用up作表语较为口语化，不如be+形容词/名词典型，代表性中等。"
+  },
+  {
+   "para": 7,
+   "sent": 1,
+   "en": "Unfortunately, many people who are opting to work in retirement are preparing to do so because they are worried about making ends meet in their later years, said Brent Weiss, a co-founder at Baltimore-based financial-planning firm Facet Wealth.",
+   "note": "本句涵盖主语（含定语从句修饰）、谓语、宾语（不定式）、状语（句首副词、原因状语从句、时间状语）等多种成分；定语从句中关系代词\"who\"在从句内作主语，是学生常错的考点；主句宾语\"todoso\"中的\"so\"指代较为隐晦，需理解上下文；成分种类较丰富，适合练习修饰成分的识别与剥离"
+  },
+  {
+   "para": 7,
+   "sent": 2,
+   "en": "He suggested that preretirees should speak with a financial adviser to set long- term financial goals.",
+   "note": "\"主句+that引导的宾语从句\"是四六级和考研阅读中的高频句式，从句内含情态动词、介词短语和不定式作状语，贴近真题常见结构，典型性较强，掌握后可大量复用。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "retirement",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "退休",
+   "count": 15,
+   "freq": 19
+  },
+  {
+   "word": "accord",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "（国家、团体间的）协议",
+   "count": 4,
+   "freq": 172
+  },
+  {
+   "word": "financial",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "财政的",
+   "count": 4,
+   "freq": 59
+  },
+  {
+   "word": "workforce",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "（一国或一地区的）劳动力，劳动人口",
+   "count": 4,
+   "freq": 21
+  },
+  {
+   "word": "retire",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "退休",
+   "count": 4,
+   "freq": 12
+  },
+  {
+   "word": "would",
+   "level": "A1",
+   "pos": "aux.",
+   "cn": "（will 的过去式）将要，会",
+   "count": 3,
+   "freq": 304
+  },
+  {
+   "word": "pattern",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "模式",
+   "count": 2,
+   "freq": 47
+  },
+  {
+   "word": "labor",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "劳动",
+   "count": 2,
+   "freq": 41
+  },
+  {
+   "word": "trend",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "趋势",
+   "count": 2,
+   "freq": 40
+  },
+  {
+   "word": "later",
+   "level": "A1",
+   "pos": "adv.",
+   "cn": "以后，later",
+   "count": 2,
+   "freq": 38
+  },
+  {
+   "word": "conduct",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "组织并实施",
+   "count": 2,
+   "freq": 31
+  },
+  {
+   "word": "poll",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "民意调查",
+   "count": 2,
+   "freq": 10
+  },
+  {
+   "word": "less",
+   "level": "A1",
+   "pos": "det.",
+   "cn": "较少的",
+   "count": 1,
+   "freq": 150
+  },
+  {
+   "word": "growth",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "增长",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "reduce",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "减少，降低（数量、大小、程度等）",
+   "count": 1,
+   "freq": 75
+  },
+  {
+   "word": "economy",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "经济",
+   "count": 1,
+   "freq": 73
+  },
+  {
+   "word": "tend",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "倾向于，往往会",
+   "count": 1,
+   "freq": 71
+  },
+  {
+   "word": "firm",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "坚固的",
+   "count": 1,
+   "freq": 66
+  },
+  {
+   "word": "least",
+   "level": "A2",
+   "pos": "det.",
+   "cn": "最少的",
+   "count": 1,
+   "freq": 63
+  },
+  {
+   "word": "decade",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "十年",
+   "count": 1,
+   "freq": 61
+  },
+  {
+   "word": "generation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "一代人",
+   "count": 1,
+   "freq": 60
+  },
+  {
+   "word": "united",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "联合的",
+   "count": 1,
+   "freq": 52
+  },
+  {
+   "word": "account",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "账户",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "mental",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "精神的",
+   "count": 1,
+   "freq": 37
+  },
+  {
+   "word": "according",
+   "level": "B1",
+   "pos": "prep.",
+   "cn": "根据",
+   "count": 1,
+   "freq": 35
+  },
+  {
+   "word": "contribute",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "捐献",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "emotional",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "情绪的",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "overall",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "总体的",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "due",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "预期的",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "income",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "收入",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "preserve",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "保护",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "concept",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "概念",
+   "count": 1,
+   "freq": 29
+  },
+  {
+   "word": "boost",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "提高",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "insurance",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "保险",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "invest",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "投资（金钱、时间等以期获得回报）",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "previous",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "先前的",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "threaten",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "威胁;恐吓",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "indicate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "表明",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "willing",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "愿意的，乐意的",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "stock",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "库存",
+   "count": 1,
+   "freq": 22
+  },
+  {
+   "word": "senior",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "级别高的",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "secure",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "安全的",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "employ",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "雇用",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "evolve",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "逐渐发展;进化",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "shortage",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "短缺",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "contribution",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "贡献",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "challenging",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "有挑战性的",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "odd",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "奇怪的",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "partly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "部分地",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "percentage",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "百分比，百分率",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "overlook",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "忽略，没注意到",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "depression",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "抑郁症",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "expense",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "花费",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "finance",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "财政",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "relieve",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "减轻、缓解（疼痛、焦虑等不适）",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "settle",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "解决（争端、问题）",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "unfortunately",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "不幸地",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "folk",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "人们",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "prior",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "先前的，之前的",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "surprising",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "令人惊讶的",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "ultimately",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "最终;终归",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2022-english-two/section2-part-a-2/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2022-english-two/section2-part-a-2/"
+}

@@ -1,0 +1,638 @@
+{
+ "year": 2019,
+ "text": 1,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "Unlike so-called basic emotions such as sadness, fear, and anger, guilt emerges a little later, in conjunction with a child's growing grasp of social and moral norms. Children aren't born knowing how to say \"I'm sorry\"; rather, they learn over time that such statements appease parents and friends – and their own consciences. This is why researchers generally regard so-called moral guilt, in the right amount, to be a good thing.",
+   "zh": "与所谓的悲伤、恐惧和愤怒等基本情绪不同，内疚出现得稍晚一些，与儿童对社会和道德规范的理解不断增强相伴而生。孩子们并非生来就知道如何说\"对不起\"；相反，他们随着时间推移逐渐了解到这样的表述能够安抚父母和朋友——以及他们自己的良心。这就是为什么研究人员普遍认为，适量的所谓道德内疚是一件好事。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "Unlike so-called basic emotions such as sadness, fear, and anger, guilt emerges a little later, in conjunction with a child's growing grasp of social and moral norms."
+    },
+    {
+     "id": "P1S2",
+     "en": "Children aren't born knowing how to say \"I'm sorry\"; rather, they learn over time that such statements appease parents and friends – and their own consciences."
+    },
+    {
+     "id": "P1S3",
+     "en": "This is why researchers generally regard so-called moral guilt, in the right amount, to be a good thing."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "In the popular imagination, of course, guilt still gets a bad rap. It is deeply uncomfortable – it's the emotional equivalent of wearing a jacket weighted with stones. Yet this understanding is outdated. \"There has been a kind of revival or a rethinking about what guilt is and what role guilt can serve,\" says Amrisha Vaish, a psychology researcher at the University of Virginia, adding that this revival is part of a larger recognition that emotions aren't binary – feelings that may be advantageous in one context may be harmful in another. Jealousy and anger, for example, may have evolved to alert us to important inequalities. Too much happiness can be destructive.",
+   "zh": "当然，在大众想象中，内疚仍然名声不佳。它令人深感不适——就像穿着一件装满石头的沉重外套。然而这种理解已经过时了。\"人们对内疚是什么以及内疚能发挥什么作用进行了某种复兴或重新思考，\"弗吉尼亚大学的心理学研究员AmrishaVaish说道，并补充说这种复兴是更广泛认识的一部分，即情绪不是二元的——在某种情境下可能有利的情感在另一种情境下可能有害。例如，嫉妒和愤怒可能是进化出来提醒我们注意重要的不平等现象的。过多的快乐可能具有破坏性。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "In the popular imagination, of course, guilt still gets a bad rap."
+    },
+    {
+     "id": "P2S2",
+     "en": "It is deeply uncomfortable – it's the emotional equivalent of wearing a jacket weighted with stones."
+    },
+    {
+     "id": "P2S3",
+     "en": "Yet this understanding is outdated."
+    },
+    {
+     "id": "P2S4",
+     "en": "\"There has been a kind of revival or a rethinking about what guilt is and what role guilt can serve,\" says Amrisha Vaish, a psychology researcher at the University of Virginia, adding that this revival is part of a larger recognition that emotions aren't binary – feelings that may be advantageous in one context may be harmful in another."
+    },
+    {
+     "id": "P2S5",
+     "en": "Jealousy and anger, for example, may have evolved to alert us to important inequalities."
+    },
+    {
+     "id": "P2S6",
+     "en": "Too much happiness can be destructive."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "And guilt, by prompting us to think more deeply about our goodness, can encourage humans to make up for errors and fix relationships. Guilt, in other words, can help hold a cooperative species together. It is a kind of social glue.",
+   "zh": "而内疚，通过促使我们更深入地思考自己的善良，可以鼓励人类弥补错误和修复关系。换句话说，内疚可以帮助维系一个合作型物种。它是一种社会黏合剂。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "And guilt, by prompting us to think more deeply about our goodness, can encourage humans to make up for errors and fix relationships."
+    },
+    {
+     "id": "P3S2",
+     "en": "Guilt, in other words, can help hold a cooperative species together."
+    },
+    {
+     "id": "P3S3",
+     "en": "It is a kind of social glue."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "Viewed in this light, guilt is an opportunity. Work by Tina Malti, a psychology professor at the University of Toronto, suggests that guilt may compensate for an emotional deficiency. In a number of studies, Malti and others have shown that guilt and sympathy may represent different pathways to cooperation and sharing. Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt, which can rein in their nastier impulses. And vice versa: High sympathy can substitute for low guilt.",
+   "zh": "从这个角度来看，内疚是一个机会。多伦多大学心理学教授TinaMalti的研究表明，内疚可能弥补情感上的不足。在多项研究中，Malti和其他研究者已经表明，内疚和同情可能代表通往合作和分享的不同途径。一些同情心较低的孩子可能通过体验更多内疚来弥补这一缺陷，这可以约束他们更恶劣的冲动。反之亦然:高同情心可以替代低内疚感。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "Viewed in this light, guilt is an opportunity."
+    },
+    {
+     "id": "P4S2",
+     "en": "Work by Tina Malti, a psychology professor at the University of Toronto, suggests that guilt may compensate for an emotional deficiency."
+    },
+    {
+     "id": "P4S3",
+     "en": "In a number of studies, Malti and others have shown that guilt and sympathy may represent different pathways to cooperation and sharing."
+    },
+    {
+     "id": "P4S4",
+     "en": "Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt, which can rein in their nastier impulses."
+    },
+    {
+     "id": "P4S5",
+     "en": "And vice versa: High sympathy can substitute for low guilt."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "In a 2014 study, for example, Malti looked at 244 children. Using caregiver assessments and the children's self-observations, she rated each child's overall sympathy level and his or her tendency to feel negative emotions after moral transgressions. Then the kids were handed chocolate coins, and given a chance to share them with an anonymous child. For the low-sympathy kids, how much they shared appeared to turn on how inclined they were to feel guilty. The guilt-prone ones shared more, even though they hadn't magically become more sympathetic to the other child's deprivation.",
+   "zh": "例如，在2014年的一项研究中，Malti观察了244名儿童。利用看护者评估和儿童的自我观察，她评定了每个孩子的整体同情心水平以及他或她在道德过失后感受负面情绪的倾向。然后孩子们得到了巧克力硬币，并有机会与一个匿名儿童分享。对于同情心较低的孩子，他们分享多少似乎取决于他们有多倾向于感到内疚。容易感到内疚的孩子分享得更多，尽管他们并没有神奇地对另一个孩子的匮乏变得更有同情心。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "In a 2014 study, for example, Malti looked at 244 children."
+    },
+    {
+     "id": "P5S2",
+     "en": "Using caregiver assessments and the children's self-observations, she rated each child's overall sympathy level and his or her tendency to feel negative emotions after moral transgressions."
+    },
+    {
+     "id": "P5S3",
+     "en": "Then the kids were handed chocolate coins, and given a chance to share them with an anonymous child."
+    },
+    {
+     "id": "P5S4",
+     "en": "For the low-sympathy kids, how much they shared appeared to turn on how inclined they were to feel guilty."
+    },
+    {
+     "id": "P5S5",
+     "en": "The guilt-prone ones shared more, even though they hadn't magically become more sympathetic to the other child's deprivation."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "en": "\"That's good news,\" Malti says. \"We can be prosocial because we caused harm and we feel regret.\"",
+   "zh": "\"这是个好消息，\"Malti说。\"我们可以表现出亲社会行为，因为我们造成了伤害并感到后悔。\"",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "\"That's good news,\" Malti says."
+    },
+    {
+     "id": "P6S2",
+     "en": "\"We can be prosocial because we caused harm and we feel regret.\""
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 2,
+   "en": "Children aren't born knowing how to say \"I'm sorry\"; rather, they learn over time that such statements appease parents and friends – and their own consciences.",
+   "note": "本句成分较为丰富,包含主语、谓语、宾语、宾语从句、伴随状语、时间状语等多种成分,且涉及两个并列主句的划分。第一个主句中\"knowinghowtosay\"的伴随状语容易被误判为谓语,第二个主句中时间状语\"overtime\"插在谓语和宾语之间,都是值得练习的易错点。此外,两个宾语从句的识别和划分也有助于巩固从句概念"
+  },
+  {
+   "para": 2,
+   "sent": 3,
+   "en": "Yet this understanding is outdated.",
+   "note": "主系表结构是基础句型，但本句过于简短、无修饰成分，作为考试真题句式的代表性较弱，难以迁移到复杂语境。"
+  },
+  {
+   "para": 2,
+   "sent": 4,
+   "en": "\"There has been a kind of revival or a rethinking about what guilt is and what role guilt can serve,\" says Amrisha Vaish, a psychology researcher at the University of Virginia, adding that this revival is part of a larger recognition that emotions aren't binary – feelings that may be advantageous in one context may be harmful in another.",
+   "note": "涵盖了倒装、同位语短语、非谓语动词作状语、多种从句及破折号用法，是练习成分分析的极佳素材。"
+  },
+  {
+   "para": 2,
+   "sent": 5,
+   "en": "Jealousy and anger, for example, may have evolved to alert us to important inequalities.",
+   "note": "情态动词加完成式的结构在四六级和考研阅读中频繁出现，目的状语不定式也是常考句式，本句作为此类结构的代表性较强，学习后可迁移到大量类似句子。"
+  },
+  {
+   "para": 3,
+   "sent": 1,
+   "en": "And guilt, by prompting us to think more deeply about our goodness, can encourage humans to make up for errors and fix relationships.",
+   "note": "\"主语+插入状语+情态动词+谓语+宾语+宾语补足语\"的结构在四六级和考研阅读中非常典型，插入状语的使用和\"encouragesbtodosth\"的搭配都是高频考点。掌握本句的分析方法后，可以迁移到大量类似句式，代表性较强。"
+  },
+  {
+   "para": 3,
+   "sent": 2,
+   "en": "Guilt, in other words, can help hold a cooperative species together.",
+   "note": "本句覆盖了主语、谓语（情态动词结构）、宾语、宾语补足语、状语（插入语）五种成分，成分种类较为丰富。特别是\"canhelphold\"这个三词谓语结构和\"together\"作宾语补足语的用法，对学习者有一定练习价值。但句子整体较短，缺少定语从句、状语从句等更复杂的修饰成分，训练深度有限。"
+  },
+  {
+   "para": 4,
+   "sent": 2,
+   "en": "Work by Tina Malti, a psychology professor at the University of Toronto, suggests that guilt may compensate for an emotional deficiency.",
+   "note": "本句的'主语+谓语+宾语从句'结构在四六级和考研阅读中极为常见，特别是学术类文章中引述研究结果时经常使用这种句式，具有较高的典型性和复用价值。"
+  },
+  {
+   "para": 4,
+   "sent": 4,
+   "en": "Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt, which can rein in their nastier impulses.",
+   "note": "句子结构是典型的\"主句加双定语从句\"模式,限制性与非限制性定语从句并存,方式状语用介词by加动名词表达,这些都是四六级和考研阅读中高频出现的句式。掌握这个句子的拆分方法,可以直接迁移到大量类似长句的分析,代表性很强。"
+  },
+  {
+   "para": 5,
+   "sent": 1,
+   "en": "In a 2014 study, for example, Malti looked at 244 children.",
+   "note": "简单句在各类考试中常见，句首状语+主谓宾的结构也是典型的叙述句式，但过于简单，缺少考试中更常考的从句、非谓语等复杂结构，代表性有限。"
+  },
+  {
+   "para": 5,
+   "sent": 3,
+   "en": "Then the kids were handed chocolate coins, and given a chance to share them with an anonymous child.",
+   "note": "并列谓语结构（尤其含省略）和被动语态都是四六级、考研阅读中的高频句式。本句展示了典型的\"主语+be+过去分词+宾语\"被动结构，以及\"and\"连接并列谓语时的省略规则，具有较强的代表性和迁移价值。"
+  },
+  {
+   "para": 5,
+   "sent": 4,
+   "en": "For the low-sympathy kids, how much they shared appeared to turn on how inclined they were to feel guilty.",
+   "note": "本句涵盖主语从句、宾语从句、介词短语状语、系表结构、不定式状语等多种成分类型,且主语从句和宾语从句由疑问词\"how\"引导,需区分引导词在从句内外的双重身份(引导整个从句+充当从句内部成分),是练习名词性从句成分划分的优质例句"
+  },
+  {
+   "para": 5,
+   "sent": 5,
+   "en": "The guilt-prone ones shared more, even though they hadn't magically become more sympathetic to the other child's deprivation.",
+   "note": "让步状语从句(eventhough引导)是四六级和考研阅读中的高频句式,常用于表达对比或转折逻辑。过去完成时在从句中的使用也符合真题中常见的时态对比模式。该句结构清晰且逻辑关系典型,学生掌握后可直接迁移到大量类似句式中,代表性较强。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "guilt",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "内疚;罪恶感",
+   "count": 16,
+   "freq": 16
+  },
+  {
+   "word": "emotional",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "情绪的",
+   "count": 5,
+   "freq": 34
+  },
+  {
+   "word": "sympathy",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "同情",
+   "count": 5,
+   "freq": 12
+  },
+  {
+   "word": "moral",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "道德的",
+   "count": 4,
+   "freq": 33
+  },
+  {
+   "word": "researcher",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "研究人员",
+   "count": 3,
+   "freq": 112
+  },
+  {
+   "word": "cooperation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "合作",
+   "count": 2,
+   "freq": 15
+  },
+  {
+   "word": "psychology",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "心理学",
+   "count": 2,
+   "freq": 14
+  },
+  {
+   "word": "revival",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "复兴",
+   "count": 2,
+   "freq": 11
+  },
+  {
+   "word": "deeply",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "深深地",
+   "count": 2,
+   "freq": 8
+  },
+  {
+   "word": "accord",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "（国家、团体间的）协议",
+   "count": 1,
+   "freq": 172
+  },
+  {
+   "word": "view",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "观点，看法",
+   "count": 1,
+   "freq": 91
+  },
+  {
+   "word": "benefit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "好处",
+   "count": 1,
+   "freq": 88
+  },
+  {
+   "word": "rate",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "速度",
+   "count": 1,
+   "freq": 72
+  },
+  {
+   "word": "opportunity",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "机会",
+   "count": 1,
+   "freq": 50
+  },
+  {
+   "word": "intellectual",
+   "level": "C1",
+   "pos": "adj.",
+   "cn": "智力的",
+   "count": 1,
+   "freq": 47
+  },
+  {
+   "word": "happiness",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "幸福",
+   "count": 1,
+   "freq": 38
+  },
+  {
+   "word": "later",
+   "level": "A1",
+   "pos": "adv.",
+   "cn": "以后，later",
+   "count": 1,
+   "freq": 38
+  },
+  {
+   "word": "professor",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "教授（大学教师的最高职称）",
+   "count": 1,
+   "freq": 38
+  },
+  {
+   "word": "species",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "物种",
+   "count": 1,
+   "freq": 36
+  },
+  {
+   "word": "generally",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "通常，一般地",
+   "count": 1,
+   "freq": 35
+  },
+  {
+   "word": "negative",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "否定的",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "overall",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "总体的",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "amount",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "数量",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "relationship",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "关系",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "positive",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "积极的",
+   "count": 1,
+   "freq": 27
+  },
+  {
+   "word": "emerge",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "出现;浮现",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "represent",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "代表",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "statement",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "声明",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "understanding",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "理解;领悟",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "harm",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "伤害",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "evolve",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "逐渐发展;进化",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "growing",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "增长的",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "outcome",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "结果",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "teaching",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "教学工作;教书",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "norm",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "常态",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "context",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "（事情发生的）背景、环境",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "inequality",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "不平等",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "prompt",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "促使",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "awareness",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "意识",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "harmful",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "有害的",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "regulate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "管理",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "unlike",
+   "level": "B1",
+   "pos": "prep.",
+   "cn": "不像",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "alert",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "警觉的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "error",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "错误",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "foster",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "培养",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "imagination",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "想象力",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "outdated",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "过时的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "recognition",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "认可",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "restriction",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "限制",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "tendency",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "倾向",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "assessment",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "评估",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "guilty",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "有罪的",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2019-english-two/section2-part-a-1/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2019-english-two/section2-part-a-1/"
+}

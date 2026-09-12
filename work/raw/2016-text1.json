@@ -1,0 +1,454 @@
+{
+ "year": 2016,
+ "text": 1,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "It's true that high-school coding classes aren't essential for learning computer science in college. Students without experience can catch up after a few introductory courses, said Tom Cortina, the assistant dean at Carnegie Mellon's School of Computer Science.",
+   "zh": "诚然，高中编程课程对于在大学学习计算机科学并非必不可少。卡内基梅隆大学计算机科学学院的副院长TomCortina表示，没有经验的学生在学习几门入门课程后就能赶上进度。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "It's true that high-school coding classes aren't essential for learning computer science in college."
+    },
+    {
+     "id": "P1S2",
+     "en": "Students without experience can catch up after a few introductory courses, said Tom Cortina, the assistant dean at Carnegie Mellon's School of Computer Science."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "However, Cortina said, early exposure is beneficial. When younger kids learn computer science, they learn that it's not just a confusing, endless string of letters and numbers – but a tool to build apps, or create artwork, or test hypotheses. It's not as hard for them to transform their thought processes as it is for older students. Breaking down problems into bite-sized chunks and using code to solve them becomes normal. Giving more children this training could increase the number of people interested in the field and help fill the jobs gap, Cortina said.",
+   "zh": "然而，Cortina说，早期接触是有益的。当年幼的孩子学习计算机科学时，他们会了解到这不仅仅是令人困惑的、无穷无尽的字母和数字串，而是构建应用程序、创作艺术作品或检验假设的工具。对他们来说，转变思维过程并不像对年龄较大的学生那样困难。将问题分解成小块并使用代码解决它们成为常态。Cortina说，让更多儿童接受这种训练可以增加对该领域感兴趣的人数，并有助于填补就业缺口。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "However, Cortina said, early exposure is beneficial."
+    },
+    {
+     "id": "P2S2",
+     "en": "When younger kids learn computer science, they learn that it's not just a confusing, endless string of letters and numbers – but a tool to build apps, or create artwork, or test hypotheses."
+    },
+    {
+     "id": "P2S3",
+     "en": "It's not as hard for them to transform their thought processes as it is for older students."
+    },
+    {
+     "id": "P2S4",
+     "en": "Breaking down problems into bite-sized chunks and using code to solve them becomes normal."
+    },
+    {
+     "id": "P2S5",
+     "en": "Giving more children this training could increase the number of people interested in the field and help fill the jobs gap, Cortina said."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "Students also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the less-experienced or less-determined students away.",
+   "zh": "学生在上大学之前学习一些编程知识也会受益，因为大学的计算机科学入门课程人满为患，这可能会让经验较少或决心不够坚定的学生望而却步。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "Students also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the less-experienced or less-determined students away."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "The Flatiron School, where people pay to learn programming, started as one of the many coding bootcamps that have become popular for adults looking for a career change. The high-schoolers get the same curriculum, but \"we try to gear lessons toward things they're interested in,\" said Victoria Friedman, an instructor. For instance, one of the apps the students are developing suggests movies based on your mood.",
+   "zh": "FlatironSchool是一所人们付费学习编程的学校，最初是众多编程训练营之一，这些训练营在寻求职业转变的成年人中变得流行起来。高中生接受同样的课程，但教师VictoriaFriedman说，\"我们试图让课程面向他们感兴趣的事物\"。例如，学生正在开发的一个应用程序根据你的心情推荐电影。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "The Flatiron School, where people pay to learn programming, started as one of the many coding bootcamps that have become popular for adults looking for a career change."
+    },
+    {
+     "id": "P4S2",
+     "en": "The high-schoolers get the same curriculum, but \"we try to gear lessons toward things they're interested in,\" said Victoria Friedman, an instructor."
+    },
+    {
+     "id": "P4S3",
+     "en": "For instance, one of the apps the students are developing suggests movies based on your mood."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "The students in the Flatiron class probably won't drop out of high school and build the next Facebook. Programming languages have a quick turnover, so the \"Ruby on Rails\" language they learned may not even be relevant by the time they enter the job market. But the skills they learn – how to think logically through a problem and organize the results – apply to any coding language, said Deborah Seehorn, an education consultant for the state of North Carolina.",
+   "zh": "Flatiron班级的学生可能不会从高中辍学去创建下一个Facebook。编程语言更新换代很快，因此他们学习的RubyonRails语言到他们进入就业市场时甚至可能已经不再相关。但北卡罗来纳州教育顾问DeborahSeehorn说，他们学到的技能——如何从逻辑上思考问题并组织结果——适用于任何编程语言。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "The students in the Flatiron class probably won't drop out of high school and build the next Facebook."
+    },
+    {
+     "id": "P5S2",
+     "en": "Programming languages have a quick turnover, so the \"Ruby on Rails\" language they learned may not even be relevant by the time they enter the job market."
+    },
+    {
+     "id": "P5S3",
+     "en": "But the skills they learn – how to think logically through a problem and organize the results – apply to any coding language, said Deborah Seehorn, an education consultant for the state of North Carolina."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "en": "Indeed, the Flatiron students might not go into IT at all. But creating a future army of coders is not the sole purpose of the classes. These kids are going to be surrounded by computers – in their pockets, in their offices, in their homes – for the rest of their lives. The younger they learn how computers think, how to coax the machine into producing what they want – the earlier they learn that they have the power to do that – the better.",
+   "zh": "事实上，Flatiron的学生可能根本不会进入IT行业。但培养未来的程序员大军并非这些课程的唯一目的。这些孩子在他们余生中都将被计算机包围——在他们的口袋里、办公室里、家里。他们越早学会计算机如何思考，如何哄骗机器产出他们想要的东西——越早学会他们有能力做到这一点——就越好。",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "Indeed, the Flatiron students might not go into IT at all."
+    },
+    {
+     "id": "P6S2",
+     "en": "But creating a future army of coders is not the sole purpose of the classes."
+    },
+    {
+     "id": "P6S3",
+     "en": "These kids are going to be surrounded by computers – in their pockets, in their offices, in their homes – for the rest of their lives."
+    },
+    {
+     "id": "P6S4",
+     "en": "The younger they learn how computers think, how to coax the machine into producing what they want – the earlier they learn that they have the power to do that – the better."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 1,
+   "en": "It's true that high-school coding classes aren't essential for learning computer science in college.",
+   "note": "\"Itistruethat...\"属于英语中非常常见的评价框架，考试阅读和写作里都很典型。掌握后可迁移到\"Itisclearthat\"等大量同类句式。"
+  },
+  {
+   "para": 2,
+   "sent": 1,
+   "en": "However, Cortina said, early exposure is beneficial.",
+   "note": "“某人说＋后接一个完整判断内容”是非常常见的阅读句式，后半段又是典型主系表。掌握这种识别路径后，能迁移到大量类似句子。"
+  },
+  {
+   "para": 2,
+   "sent": 4,
+   "en": "Breaking down problems into bite-sized chunks and using code to solve them becomes normal.",
+   "note": "“动名词短语作主语+系动词+表语”是英语里很常见、也很值得掌握的句型。句首并列两个动作来充当主语，也有较强迁移价值。"
+  },
+  {
+   "para": 2,
+   "sent": 5,
+   "en": "Giving more children this training could increase the number of people interested in the field and help fill the jobs gap, Cortina said.",
+   "note": "\"引述动词+宾语从句\"和\"动名词短语作主语+情态动词谓语+并列结构\"都是四六级和考研阅读中的高频句式,掌握后可在大量真题中复用,具有较强的代表性"
+  },
+  {
+   "para": 3,
+   "sent": 1,
+   "en": "Students also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the less-experienced or less-determined students away.",
+   "note": "本句覆盖主语、谓语、宾语（含动名词短语作宾语）、状语（时间状语从句、程度状语、方式状语）、定语从句（非限制性）等多种成分。动名词短语\"learningsomethingaboutcoding\"作宾语、\"bepackedtothebrim\"的被动结构、关系副词where和关系代词which的区分、情态动词can的识别，都是值得练习的知识点。成分种类丰富，适合作为划分练习句。"
+  },
+  {
+   "para": 4,
+   "sent": 1,
+   "en": "The Flatiron School, where people pay to learn programming, started as one of the many coding bootcamps that have become popular for adults looking for a career change.",
+   "note": "主句嵌套两层定语从句的结构在四六级和考研阅读中高频出现，非限制性与限制性定语从句的对比、关系副词where和关系代词that的用法都是典型考点，学习迁移价值高。"
+  },
+  {
+   "para": 4,
+   "sent": 2,
+   "en": "The high-schoolers get the same curriculum, but \"we try to gear lessons toward things they're interested in,\" said Victoria Friedman, an instructor.",
+   "note": "“事实陈述+but转折+直接引语/引述来源”是新闻报道和说明文里很常见的句式；名词后接限制性修饰结构也极有代表性，学会后迁移性强。"
+  },
+  {
+   "para": 4,
+   "sent": 3,
+   "en": "For instance, one of the apps the students are developing suggests movies based on your mood.",
+   "note": "这句结构典型、难度适中，既不会简单到没有训练价值，也不会复杂到一上来就劝退。对于练习抓主干、识别定语从句和区分两个时态，很值得优先纳入训练。"
+  },
+  {
+   "para": 5,
+   "sent": 2,
+   "en": "Programming languages have a quick turnover, so the \"Ruby on Rails\" language they learned may not even be relevant by the time they enter the job market.",
+   "note": "因果并列句+定语从句+时间状语从句的组合是四六级和考研阅读中的高频句式。情态动词推测、定语从句省略关系代词、时间从句用一般现在时代替将来时，这些都是标准考点，掌握后可迁移到大量类似句子。"
+  },
+  {
+   "para": 5,
+   "sent": 3,
+   "en": "But the skills they learn – how to think logically through a problem and organize the results – apply to any coding language, said Deborah Seehorn, an education consultant for the state of North Carolina.",
+   "note": "本句的结构特征（主语含定语从句修饰、插入同位语说明、主句陈述观点）在四六级和考研阅读中较为常见，尤其是定语从句嵌入主语、关系代词省略的用法是高频考点。转折连词\"But\"开头也是典型的论述句式。掌握本句结构对理解类似长难句有较好的迁移价值。"
+  },
+  {
+   "para": 6,
+   "sent": 1,
+   "en": "Indeed, the Flatiron students might not go into IT at all.",
+   "note": "“主语+情态动词+否定+动词原形+介词短语”是很常见、可迁移的英语句型。掌握这种骨架后，处理大量含可能性判断的句子都会更顺手。"
+  },
+  {
+   "para": 6,
+   "sent": 4,
+   "en": "The younger they learn how computers think, how to coax the machine into producing what they want – the earlier they learn that they have the power to do that – the better.",
+   "note": "覆盖主语、谓语、宾语、状语、表语等多种成分，且存在省略主语和系动词、宾语从句充当宾语、不定式作定语等多个易错点，非常适合作为成分划分的综合练习句。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "career",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "职业",
+   "count": 2,
+   "freq": 42
+  },
+  {
+   "word": "app",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "应用程序",
+   "count": 2,
+   "freq": 16
+  },
+  {
+   "word": "exposure",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "暴露",
+   "count": 2,
+   "freq": 12
+  },
+  {
+   "word": "interested",
+   "level": "A1",
+   "pos": "adj.",
+   "cn": "感兴趣的",
+   "count": 2,
+   "freq": 12
+  },
+  {
+   "word": "accord",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "（国家、团体间的）协议",
+   "count": 1,
+   "freq": 172
+  },
+  {
+   "word": "power",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "权力",
+   "count": 1,
+   "freq": 90
+  },
+  {
+   "word": "benefit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "好处",
+   "count": 1,
+   "freq": 88
+  },
+  {
+   "word": "process",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "过程",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "better",
+   "level": "A1",
+   "pos": "adj.",
+   "cn": "更好的（good 的比较级）",
+   "count": 1,
+   "freq": 70
+  },
+  {
+   "word": "challenge",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "挑战",
+   "count": 1,
+   "freq": 57
+  },
+  {
+   "word": "gap",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "间隙",
+   "count": 1,
+   "freq": 45
+  },
+  {
+   "word": "base",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "基础",
+   "count": 1,
+   "freq": 43
+  },
+  {
+   "word": "production",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "生产",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "apply",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "申请",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "thinking",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "思考",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "academic",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "学术的",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "essential",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "必不可少的",
+   "count": 1,
+   "freq": 27
+  },
+  {
+   "word": "prospect",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "可能性",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "indeed",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "确实，的确（强调肯定）",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "instance",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "例子",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "solve",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "解决（问题、困难）",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "upgrade",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "升级",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "code",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "代码",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "enable",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "使能够",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "deliver",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "递送，运送（货物、信件等）",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "relevant",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "相关的",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "transform",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "使彻底改变;使转变",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "mood",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "心情",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "compete",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "竞争",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "innovative",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "创新的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "assistant",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "助手",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "organize",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "组织，安排（活动、会议等）",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2016-english-two/section2-part-a-1/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2016-english-two/section2-part-a-1/"
+}

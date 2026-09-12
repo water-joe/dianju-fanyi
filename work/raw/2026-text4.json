@@ -1,0 +1,644 @@
+{
+ "year": 2026,
+ "text": 4,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "In 2023, Chicago lost one of its most beloved street festivals. The Silver Room Block Party, staged by Hyde Park community leader Eric Williams, announced it would not return in 2024. What began as a small neighborhood gathering blossomed into a massive cultural event, welcoming tens of thousands of people each year over nearly two decades before abruptly shutting down.",
+   "zh": "2023年，芝加哥失去了最受欢迎的街头节日之一。由HydePark社区领袖EricWilliams举办的SilverRoom街区派对宣布不会在2024年回归。这个节日最初只是一个小型社区聚会，后来发展成为一项大规模文化活动，在近二十年间每年迎接数万人，然后突然停办。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "In 2023, Chicago lost one of its most beloved street festivals."
+    },
+    {
+     "id": "P1S2",
+     "en": "The Silver Room Block Party, staged by Hyde Park community leader Eric Williams, announced it would not return in 2024."
+    },
+    {
+     "id": "P1S3",
+     "en": "What began as a small neighborhood gathering blossomed into a massive cultural event, welcoming tens of thousands of people each year over nearly two decades before abruptly shutting down."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "Williams pointed to rising production costs and declining attendee donations as primary reasons the Silver Room Block Party could not continue, highlighting a reality that all street festival organizers face right now. The cost of producing a street festival in Chicago has skyrocketed. Security, entertainment, portable restrooms, insurance and even basics such as fencing and staffing have all become significantly more expensive. At the same time, donations at festival gates have dropped dramatically.",
+   "zh": "Williams指出，不断上涨的制作成本和不断下降的参与者捐款是SilverRoom街区派对无法继续举办的主要原因，这凸显了所有街头节日组织者目前面临的现实。在芝加哥举办街头节日的成本已经飙升。安保、娱乐、便携式卫生间、保险甚至围栏和人员配备等基本费用都变得显著昂贵。与此同时，节日入口处的捐款却大幅下降。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "Williams pointed to rising production costs and declining attendee donations as primary reasons the Silver Room Block Party could not continue, highlighting a reality that all street festival organizers face right now."
+    },
+    {
+     "id": "P2S2",
+     "en": "The cost of producing a street festival in Chicago has skyrocketed."
+    },
+    {
+     "id": "P2S3",
+     "en": "Security, entertainment, portable restrooms, insurance and even basics such as fencing and staffing have all become significantly more expensive."
+    },
+    {
+     "id": "P2S4",
+     "en": "At the same time, donations at festival gates have dropped dramatically."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "Chicago's summer festivals are about more than just entertainment; they are economic engines that directly benefit the neighborhoods they're in and the city of Chicago as a whole. Street festivals drive foot traffic to local businesses and foster the kind of cultural vibrancy that makes our city special.",
+   "zh": "芝加哥的夏季节日不仅仅是娱乐活动，它们是经济引擎，直接惠及所在社区和整个芝加哥市。街头节日为本地商业带来客流量，培育使我们城市与众不同的文化活力。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "Chicago's summer festivals are about more than just entertainment; they are economic engines that directly benefit the neighborhoods they're in and the city of Chicago as a whole."
+    },
+    {
+     "id": "P3S2",
+     "en": "Street festivals drive foot traffic to local businesses and foster the kind of cultural vibrancy that makes our city special."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "We often hear people ask why we solicit donations at our entry points, especially when the city's largest festivals like the Chicago Jazz Festival do not request donations. The fact is, unlike those large, city-produced music festivals, your neighborhood street festivals receive no city funding and rely on a combination of sponsorships, vendor fees and gate donations to cover their costs.",
+   "zh": "我们经常听到人们问为什么我们在入口处请求捐款，尤其是当芝加哥爵士音乐节等该市最大型节日不要求捐款时。事实是，与那些由市政府制作的大型音乐节不同，你们社区的街头节日没有得到市政拨款，依靠赞助、摊位费和入口捐款的组合来支付成本。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "We often hear people ask why we solicit donations at our entry points, especially when the city's largest festivals like the Chicago Jazz Festival do not request donations."
+    },
+    {
+     "id": "P4S2",
+     "en": "The fact is, unlike those large, city-produced music festivals, your neighborhood street festivals receive no city funding and rely on a combination of sponsorships, vendor fees and gate donations to cover their costs."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "Wicker Park Fest has long been one of Chicago's most anticipated summer festivals, drawing upward of 70,000 attendees for a full weekend of live indie music, local art, small business vendors and, most importantly, community connection. In 2024, Wicker Park Fest saw record-breaking attendance. Despite the turnout, gate donations reached their lowest point in our history. This year, we've been forced to scale back the footprint of the fest. We are eliminating a stage, booking fewer performers and making additional cuts to reduce our costs, all while striving to keep the festival as vibrant as ever, as supportive of local artists and businesses, and as true to Wicker Park's unique spirit and reputation as festgoers have come to expect.",
+   "zh": "WickerPark音乐节长期以来一直是芝加哥最受期待的夏季节日之一，在整个周末吸引超过7万名参与者，呈现现场独立音乐、本地艺术、小型商业摊位，以及最重要的社区联结。2024年，WickerPark音乐节的参与人数创下纪录。尽管参与人数众多，入口捐款却降至我们历史上的最低点。今年，我们被迫缩小节日的规模。我们取消了一个舞台，预订了更少的表演者，并进行了额外削减以降低成本，同时努力保持节日一如既往的活力，一如既往地支持本地艺术家和商业，并一如既往地忠于参与者所期待的WickerPark独特精神和声誉。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "Wicker Park Fest has long been one of Chicago's most anticipated summer festivals, drawing upward of 70,000 attendees for a full weekend of live indie music, local art, small business vendors and, most importantly, community connection."
+    },
+    {
+     "id": "P5S2",
+     "en": "In 2024, Wicker Park Fest saw record-breaking attendance."
+    },
+    {
+     "id": "P5S3",
+     "en": "Despite the turnout, gate donations reached their lowest point in our history."
+    },
+    {
+     "id": "P5S4",
+     "en": "This year, we've been forced to scale back the footprint of the fest."
+    },
+    {
+     "id": "P5S5",
+     "en": "We are eliminating a stage, booking fewer performers and making additional cuts to reduce our costs, all while striving to keep the festival as vibrant as ever, as supportive of local artists and businesses, and as true to Wicker Park's unique spirit and reputation as festgoers have come to expect."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "en": "This summer, as you enjoy your favorite neighborhood street festival, I hope you'll remember that they exist because of community support. A thriving summer festival season doesn't happen by accident; it happens when we all chip in.",
+   "zh": "今年夏天，当你享受你最喜爱的社区街头节日时，我希望你会记得它们的存在源于社区支持。一个繁荣的夏季节日季不会偶然发生，它的实现需要我们所有人共同出力。",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "This summer, as you enjoy your favorite neighborhood street festival, I hope you'll remember that they exist because of community support."
+    },
+    {
+     "id": "P6S2",
+     "en": "A thriving summer festival season doesn't happen by accident; it happens when we all chip in."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 3,
+   "en": "What began as a small neighborhood gathering blossomed into a massive cultural event, welcoming tens of thousands of people each year over nearly two decades before abruptly shutting down.",
+   "note": "What引导的主语从句是四六级和考研阅读中的高频句式，尤其是What在从句中充当主语成分这一用法，在学术文章和新闻报道中非常常见。本句的结构（What从句+主句谓语+分词短语作状语）代表了一种典型的复杂句模式，掌握后可以迁移到大量类似句子的理解中。唯一不够极致典型的是blossominto这一搭配不如become、turninto等常见。"
+  },
+  {
+   "para": 3,
+   "sent": 1,
+   "en": "Chicago's summer festivals are about more than just entertainment; they are economic engines that directly benefit the neighborhoods they're in and the city of Chicago as a whole.",
+   "note": "分号连接并列主句、定语从句修饰表语、关系代词省略等结构都是四六级和考研真题中的常见句式。学生掌握本句后可将方法迁移到大量类似句子，具有较高的典型性和复用价值。"
+  },
+  {
+   "para": 5,
+   "sent": 3,
+   "en": "Despite the turnout, gate donations reached their lowest point in our history.",
+   "note": "主句+让步状语的结构在四六级和考研阅读中较为常见，\"Despite\"引导让步也是典型考点。但本句结构相对简单，未涉及从句或复杂修饰，作为句式代表性中等偏上。"
+  },
+  {
+   "para": 5,
+   "sent": 5,
+   "en": "We are eliminating a stage, booking fewer performers and making additional cuts to reduce our costs, all while striving to keep the festival as vibrant as ever, as supportive of local artists and businesses, and as true to Wicker Park's unique spirit and reputation as festgoers have come to expect.",
+   "note": "包含并列谓语、目的状语、复杂的伴随状语以及'as...as'比较从句，是练习划分长难句成分、识别多重并列关系的极佳素材。"
+  },
+  {
+   "para": 6,
+   "sent": 1,
+   "en": "This summer, as you enjoy your favorite neighborhood street festival, I hope you'll remember that they exist because of community support.",
+   "note": "\"主句+状语从句+宾语从句嵌套\"是四六级和考研阅读中的高频句式，特别是hope/think/believe等动词后跟宾语从句、再嵌套一层that从句的结构非常典型，掌握后可大量迁移。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "donation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "捐赠",
+   "count": 7,
+   "freq": 8
+  },
+  {
+   "word": "neighborhood",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "街区",
+   "count": 6,
+   "freq": 14
+  },
+  {
+   "word": "local",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "当地的",
+   "count": 4,
+   "freq": 65
+  },
+  {
+   "word": "community",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "社区",
+   "count": 3,
+   "freq": 71
+  },
+  {
+   "word": "cultural",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "文化的",
+   "count": 3,
+   "freq": 32
+  },
+  {
+   "word": "reduce",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "减少，降低（数量、大小、程度等）",
+   "count": 2,
+   "freq": 75
+  },
+  {
+   "word": "security",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "安全",
+   "count": 2,
+   "freq": 38
+  },
+  {
+   "word": "reality",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "现实",
+   "count": 2,
+   "freq": 31
+  },
+  {
+   "word": "reputation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "名声",
+   "count": 2,
+   "freq": 16
+  },
+  {
+   "word": "stage",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "阶段",
+   "count": 2,
+   "freq": 13
+  },
+  {
+   "word": "would",
+   "level": "A1",
+   "pos": "aux.",
+   "cn": "（will 的过去式）将要，会",
+   "count": 1,
+   "freq": 304
+  },
+  {
+   "word": "author",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "作者",
+   "count": 1,
+   "freq": 209
+  },
+  {
+   "word": "accord",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "（国家、团体间的）协议",
+   "count": 1,
+   "freq": 172
+  },
+  {
+   "word": "economic",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "经济的",
+   "count": 1,
+   "freq": 98
+  },
+  {
+   "word": "benefit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "好处",
+   "count": 1,
+   "freq": 88
+  },
+  {
+   "word": "support",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "支持",
+   "count": 1,
+   "freq": 87
+  },
+  {
+   "word": "economy",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "经济",
+   "count": 1,
+   "freq": 73
+  },
+  {
+   "word": "measure",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "测量",
+   "count": 1,
+   "freq": 65
+  },
+  {
+   "word": "decade",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "十年",
+   "count": 1,
+   "freq": 61
+  },
+  {
+   "word": "financial",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "财政的",
+   "count": 1,
+   "freq": 59
+  },
+  {
+   "word": "fund",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "资金",
+   "count": 1,
+   "freq": 45
+  },
+  {
+   "word": "gain",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "获得;赢得",
+   "count": 1,
+   "freq": 43
+  },
+  {
+   "word": "production",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "生产",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "event",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "事件",
+   "count": 1,
+   "freq": 36
+  },
+  {
+   "word": "management",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "管理",
+   "count": 1,
+   "freq": 36
+  },
+  {
+   "word": "contribute",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "捐献",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "despite",
+   "level": "B1",
+   "pos": "prep.",
+   "cn": "尽管",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "funding",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "资金",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "feature",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "特征",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "performance",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "表演",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "rely",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "依赖;依靠",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "replace",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "替换，更换（用新的代替旧的）",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "exist",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "存在;实际上有",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "insurance",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "保险",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "connection",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "联系",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "imply",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "暗示，暗指",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "unique",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "独特的",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "directly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "直接地",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "lifestyle",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "生活方式",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "variety",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "多样化",
+   "count": 1,
+   "freq": 22
+  },
+  {
+   "word": "eliminate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "消除",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "scale",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "规模",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "various",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "各种各样的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "amateur",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "业余爱好者",
+   "count": 1,
+   "freq": 18
+  },
+  {
+   "word": "highlight",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "最精彩的部分",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "urban",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "城市的，都市的",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "additional",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "额外的",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "performer",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "表演者，演员",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "request",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "请求",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "typical",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "典型的",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "massive",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "巨大的，大量的",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "unlike",
+   "level": "B1",
+   "pos": "prep.",
+   "cn": "不像",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "announce",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "宣布",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "foster",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "培养",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "relieve",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "减轻、缓解（疼痛、焦虑等不适）",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "sufficient",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "足够的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "supportive",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "给予支持的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "facility",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "设施",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "participation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "参与",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "strive",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "努力，奋斗，力求",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "tackle",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "处理",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2026-english-two/section2-part-a-4/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2026-english-two/section2-part-a-4/"
+}

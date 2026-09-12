@@ -1,0 +1,686 @@
+{
+ "year": 2019,
+ "text": 4,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "Arnold Schwarzenegger, Dia Mirza and Adrian Grenier have a message for you: It's easy to beat plastic. They're part of a bunch of celebrities starring in a new video for World Environment Day – encouraging you, the consumer, to swap out your single-use plastic staples like straws and cutlery to combat the plastics crisis.",
+   "zh": "ArnoldSchwarzenegger、DiaMirza和AdrianGrenier向你传递一个信息:战胜塑料很容易。他们是为世界环境日拍摄新视频的一群名人中的一部分，该视频鼓励你这样的消费者，用可替代品取代你的一次性塑料必需品，如吸管和餐具，以应对塑料危机。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "Arnold Schwarzenegger, Dia Mirza and Adrian Grenier have a message for you: It's easy to beat plastic."
+    },
+    {
+     "id": "P1S2",
+     "en": "They're part of a bunch of celebrities starring in a new video for World Environment Day – encouraging you, the consumer, to swap out your single-use plastic staples like straws and cutlery to combat the plastics crisis."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "The key messages that have been put together for World Environment Day do include a call for governments to enact legislation to curb single-use plastics. But the overarching message is directed at individuals.",
+   "zh": "为世界环境日整合的关键信息确实包括呼吁政府制定法律来遏制一次性塑料。但总体信息是针对个人的。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "The key messages that have been put together for World Environment Day do include a call for governments to enact legislation to curb single-use plastics."
+    },
+    {
+     "id": "P2S2",
+     "en": "But the overarching message is directed at individuals."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "My concern with leaving it up to the individual, however, is our limited sense of what needs to be achieved. On their own, taking our own bags to the grocery store or quitting plastic straws, for example, will accomplish little and require very little of us. They could even be detrimental, satisfying a need to have \"done our bit\" without ever progressing onto bigger, bolder, more effective actions – a kind of \"moral licensing\" that allays our concerns and stops us doing more and asking more of those in charge.",
+   "zh": "然而，我对把这件事留给个人的担忧在于，我们对需要实现什么目标的认识有限。例如，仅靠我们自己带购物袋去杂货店或戒掉塑料吸管，将取得很少成就，也只需要我们付出很少。它们甚至可能是有害的，满足了一种'我们已经尽力'的需求，却从未进展到更大、更大胆、更有效的行动——一种'道德许可'，它缓解了我们的担忧，阻止我们做更多事情和向掌权者要求更多。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "My concern with leaving it up to the individual, however, is our limited sense of what needs to be achieved."
+    },
+    {
+     "id": "P3S2",
+     "en": "On their own, taking our own bags to the grocery store or quitting plastic straws, for example, will accomplish little and require very little of us."
+    },
+    {
+     "id": "P3S3",
+     "en": "They could even be detrimental, satisfying a need to have \"done our bit\" without ever progressing onto bigger, bolder, more effective actions – a kind of \"moral licensing\" that allays our concerns and stops us doing more and asking more of those in charge."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "While the conversation around our environment and our responsibility toward it remains centered on shopping bags and straws, we're ignoring the balance of power that implies that as \"consumers\" we must shop sustainably, rather than as \"citizens\" hold our governments and industries to account to push for real systemic change.",
+   "zh": "当围绕我们的环境和我们对环境的责任的讨论仍然集中在购物袋和吸管上时，我们忽略了权力平衡，这种平衡意味着作为'消费者'，我们必须可持续地购物，而不是作为'公民'追究我们的政府和行业的责任，推动真正的系统性变革。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "While the conversation around our environment and our responsibility toward it remains centered on shopping bags and straws, we're ignoring the balance of power that implies that as \"consumers\" we must shop sustainably, rather than as \"citizens\" hold our governments and industries to account to push for real systemic change."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "It's important to acknowledge that the environment isn't everyone's priority – or even most people's. We shouldn't expect it to be. In her latest book, Why Good People Do Bad Environmental Things, Wellesley College professor Elizabeth R. DeSombre argues that the best way to collectively change the behavior of large numbers of people is for the change to be structural.",
+   "zh": "重要的是要承认，环境并不是每个人的优先事项——甚至不是大多数人的优先事项。我们不应该期望它是。在她的最新著作《为什么好人做坏的环境事》中，WellesleyCollege教授ElizabethR.DeSombre认为，集体改变大量人群行为的最佳方式是让改变成为结构性的。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "It's important to acknowledge that the environment isn't everyone's priority – or even most people's."
+    },
+    {
+     "id": "P5S2",
+     "en": "We shouldn't expect it to be."
+    },
+    {
+     "id": "P5S3",
+     "en": "In her latest book, Why Good People Do Bad Environmental Things, Wellesley College professor Elizabeth R."
+    },
+    {
+     "id": "P5S4",
+     "en": "DeSombre argues that the best way to collectively change the behavior of large numbers of people is for the change to be structural."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "en": "This might mean implementing policy such as a plastic tax that adds a cost to environmentally problematic action, or banning single-use plastics altogether. India has just announced it will \"eliminate all single-use plastic in the country by 2022.\" There are also incentive-based ways of making better environmental choices easier, such as ensuring recycling is at least as easy as trash disposal.",
+   "zh": "这可能意味着实施政策，如塑料税，为环境问题行为增加成本，或者完全禁止一次性塑料。印度刚刚宣布将'在2022年之前消除该国所有一次性塑料'。还有基于激励的方式使更好的环境选择变得更容易，例如确保回收至少与垃圾处理一样容易。",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "This might mean implementing policy such as a plastic tax that adds a cost to environmentally problematic action, or banning single-use plastics altogether."
+    },
+    {
+     "id": "P6S2",
+     "en": "India has just announced it will \"eliminate all single-use plastic in the country by 2022.\""
+    },
+    {
+     "id": "P6S3",
+     "en": "There are also incentive-based ways of making better environmental choices easier, such as ensuring recycling is at least as easy as trash disposal."
+    }
+   ]
+  },
+  {
+   "id": "P7",
+   "en": "DeSombre isn't saying people should stop caring about the environment. It's just that individual actions are too slow, she says, for that to be the only, or even primary, approach to changing widespread behavior.",
+   "zh": "DeSombre并不是说人们应该停止关心环境。她说，只是个人行动太慢了，不能成为改变广泛行为的唯一甚至主要方法。",
+   "sentences": [
+    {
+     "id": "P7S1",
+     "en": "DeSombre isn't saying people should stop caring about the environment."
+    },
+    {
+     "id": "P7S2",
+     "en": "It's just that individual actions are too slow, she says, for that to be the only, or even primary, approach to changing widespread behavior."
+    }
+   ]
+  },
+  {
+   "id": "P8",
+   "en": "None of this is about writing off the individual. It's just about putting things into perspective. We don't have time to wait. We need progressive policies that shape collective action (and rein in polluting businesses), alongside engaged citizens pushing for change.",
+   "zh": "所有这些都不是要否定个人。这只是关乎正确看待事物。我们没有时间等待。我们需要塑造集体行动(并约束污染企业)的进步政策，以及推动变革的积极公民。",
+   "sentences": [
+    {
+     "id": "P8S1",
+     "en": "None of this is about writing off the individual."
+    },
+    {
+     "id": "P8S2",
+     "en": "It's just about putting things into perspective."
+    },
+    {
+     "id": "P8S3",
+     "en": "We don't have time to wait."
+    },
+    {
+     "id": "P8S4",
+     "en": "We need progressive policies that shape collective action (and rein in polluting businesses), alongside engaged citizens pushing for change."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 2,
+   "sent": 1,
+   "en": "The key messages that have been put together for World Environment Day do include a call for governments to enact legislation to curb single-use plastics.",
+   "note": "本句结构高度典型:限制性定语从句修饰主语、强调助动词\"do\"加强语气、宾语后接\"for+名词+todo\"结构表达呼吁对象与内容,这些都是四六级和考研阅读中的高频句式。掌握本句的拆解方法,可直接迁移到大量同类结构的真题句子,代表性很强。"
+  },
+  {
+   "para": 4,
+   "sent": 1,
+   "en": "While the conversation around our environment and our responsibility toward it remains centered on shopping bags and straws, we're ignoring the balance of power that implies that as \"consumers\" we must shop sustainably, rather than as \"citizens\" hold our governments and industries to account to push for real systemic change.",
+   "note": "本句成分丰富且层次分明，涵盖主语、谓语、宾语、表语、定语从句、宾语从句、状语从句、方式状语、目的状语、宾语补足语等多种成分，且出现\"hold...toaccount\"等固定搭配、情态动词结构、并列动词省略、定语从句嵌套宾语从句等易错点，作为划分练习句收益很高。"
+  },
+  {
+   "para": 7,
+   "sent": 1,
+   "en": "DeSombre isn't saying people should stop caring about the environment.",
+   "note": "say后接省略that的宾语从句是四六级和考研阅读中的高频结构,且从句内情态动词+动词原形的搭配也很常见。掌握后可广泛迁移到其他say/think/believe等动词的句式。"
+  },
+  {
+   "para": 7,
+   "sent": 2,
+   "en": "It's just that individual actions are too slow, she says, for that to be the only, or even primary, approach to changing widespread behavior.",
+   "note": "这句时态不难，能把注意力集中到主干识别和成分划分上，训练收益较高。对需要突破长句读法的学习者来说，属于值得优先练的结构型材料。"
+  },
+  {
+   "para": 8,
+   "sent": 4,
+   "en": "We need progressive policies that shape collective action (and rein in polluting businesses), alongside engaged citizens pushing for change.",
+   "note": "主句+限制性定语从句+介词短语状语是四六级和考研阅读中高频出现的句式组合；定语从句修饰宾语、关系代词在从句中作主语、从句内并列谓语、分词作后置定语等都是考试常考结构；整体句式具有较强的代表性和可迁移性，掌握后能应对大量类似句子。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "individual",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "单独的",
+   "count": 5,
+   "freq": 59
+  },
+  {
+   "word": "author",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "作者",
+   "count": 3,
+   "freq": 209
+  },
+  {
+   "word": "consumer",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "消费者",
+   "count": 3,
+   "freq": 72
+  },
+  {
+   "word": "crisis",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "危机",
+   "count": 3,
+   "freq": 33
+  },
+  {
+   "word": "citizen",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "公民",
+   "count": 3,
+   "freq": 19
+  },
+  {
+   "word": "policy",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "政策",
+   "count": 2,
+   "freq": 69
+  },
+  {
+   "word": "argue",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "争论",
+   "count": 2,
+   "freq": 63
+  },
+  {
+   "word": "concern",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "涉及",
+   "count": 2,
+   "freq": 60
+  },
+  {
+   "word": "behavior",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "行为",
+   "count": 2,
+   "freq": 52
+  },
+  {
+   "word": "approach",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "靠近，接近（在空间或时间上）",
+   "count": 2,
+   "freq": 51
+  },
+  {
+   "word": "moral",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "道德的",
+   "count": 2,
+   "freq": 33
+  },
+  {
+   "word": "environmental",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "环境的",
+   "count": 2,
+   "freq": 23
+  },
+  {
+   "word": "celebrity",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "名人，名流",
+   "count": 2,
+   "freq": 14
+  },
+  {
+   "word": "collective",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "集体的",
+   "count": 2,
+   "freq": 14
+  },
+  {
+   "word": "power",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "权力",
+   "count": 1,
+   "freq": 90
+  },
+  {
+   "word": "process",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "过程",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "focus",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "重点",
+   "count": 1,
+   "freq": 77
+  },
+  {
+   "word": "community",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "社区",
+   "count": 1,
+   "freq": 71
+  },
+  {
+   "word": "better",
+   "level": "A1",
+   "pos": "adj.",
+   "cn": "更好的（good 的比较级）",
+   "count": 1,
+   "freq": 70
+  },
+  {
+   "word": "local",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "当地的",
+   "count": 1,
+   "freq": 65
+  },
+  {
+   "word": "demand",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "坚决要求",
+   "count": 1,
+   "freq": 63
+  },
+  {
+   "word": "least",
+   "level": "A2",
+   "pos": "det.",
+   "cn": "最少的",
+   "count": 1,
+   "freq": 63
+  },
+  {
+   "word": "tax",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "税",
+   "count": 1,
+   "freq": 54
+  },
+  {
+   "word": "opinion",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "观点",
+   "count": 1,
+   "freq": 44
+  },
+  {
+   "word": "account",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "账户",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "professor",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "教授（大学教师的最高职称）",
+   "count": 1,
+   "freq": 38
+  },
+  {
+   "word": "desire",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "愿望",
+   "count": 1,
+   "freq": 37
+  },
+  {
+   "word": "further",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "更远地",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "ensure",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "确保",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "responsibility",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "责任",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "shift",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "移动",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "balance",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "平衡",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "relationship",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "关系",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "ban",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "禁止",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "conclude",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "断定;推断出",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "imply",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "暗示，暗指",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "indicate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "表明",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "charge",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "收费",
+   "count": 1,
+   "freq": 22
+  },
+  {
+   "word": "ignore",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "忽视;不理睬",
+   "count": 1,
+   "freq": 22
+  },
+  {
+   "word": "eliminate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "消除",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "concerned",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "担心的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "effective",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "有效的，起作用的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "legislation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "法律",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "limited",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "有限的",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "press",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "按，压",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "priority",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "优先事项",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "perspective",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "观点",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "acknowledge",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "承认（事实、错误等）",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "identity",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "身份",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "widespread",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "广泛的",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "curb",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "抑制",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "mechanism",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "机制",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "urge",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "敦促",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "aggressive",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "好斗的",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "quit",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "离开（工作、学校等）",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "announce",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "宣布",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "sufficient",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "足够的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "weaken",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "使变弱",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "accomplish",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "完成，实现（任务、目标）",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "alongside",
+   "level": "B1",
+   "pos": "prep.",
+   "cn": "在…旁边",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "arrangement",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "安排",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "civil",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "公民的",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "implement",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "实施",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2019-english-two/section2-part-a-4/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2019-english-two/section2-part-a-4/"
+}

@@ -1,0 +1,581 @@
+{
+ "year": 2020,
+ "text": 1,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "Rats and other animals need to be highly attuned to social signals from others so they can identify friends to cooperate with and enemies to avoid. To find out if this extends to non-living beings, Laleh Quinn at the University of California, San Diego, and her colleagues tested whether rats can detect social signals from robotic rats.",
+   "zh": "老鼠和其他动物需要高度关注来自同类的社交信号，以便识别可以合作的朋友和需要避开的敌人。为了弄清这是否延伸到非生命体，加州大学圣地亚哥分校的LalehQuinn和她的同事们测试了老鼠是否能够检测到来自机器老鼠的社交信号。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "Rats and other animals need to be highly attuned to social signals from others so they can identify friends to cooperate with and enemies to avoid."
+    },
+    {
+     "id": "P1S2",
+     "en": "To find out if this extends to non-living beings, Laleh Quinn at the University of California, San Diego, and her colleagues tested whether rats can detect social signals from robotic rats."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "They housed eight adult rats with two types of robotic rat—one social and one asocial—for four days. The robot rats were quite minimalist, resembling a chunkier version of a computer mouse with wheels to move around and colourful markings.",
+   "zh": "他们让八只成年老鼠与两种类型的机器老鼠——一种社交型和一种非社交型——共同生活了四天。这些机器老鼠相当简约，像是一个带轮子可以四处移动、有彩色标记的加厚版电脑鼠标。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "They housed eight adult rats with two types of robotic rat—one social and one asocial—for four days."
+    },
+    {
+     "id": "P2S2",
+     "en": "The robot rats were quite minimalist, resembling a chunkier version of a computer mouse with wheels to move around and colourful markings."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "During the experiment, the social robot rat followed the living rats around, played with the same toys, and opened cage doors to let trapped rats escape. Meanwhile, the asocial robot simply moved forwards and backwards and side to side.",
+   "zh": "在实验期间，社交型机器老鼠跟随真老鼠四处走动，玩相同的玩具，并打开笼门让被困的老鼠逃出。与此同时，非社交型机器只是简单地前后和左右移动。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "During the experiment, the social robot rat followed the living rats around, played with the same toys, and opened cage doors to let trapped rats escape."
+    },
+    {
+     "id": "P3S2",
+     "en": "Meanwhile, the asocial robot simply moved forwards and backwards and side to side."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "Next, the researchers trapped the robots in cages and gave the rats the opportunity to release them by pressing a lever. Across 18 trials each, the living rats were 52 percent more likely on average to set the social robot free than the asocial one. This suggests that the rats perceived the social robot as a genuine social being, says Quinn. The rats may have bonded more with the social robot because it displayed behaviors like communal exploring and playing. This could lead to the rats better remembering having freed it earlier, and wanting the robot to return the favour when they get trapped, she says.",
+   "zh": "接下来，研究人员将机器困在笼子里，让老鼠有机会通过按压杠杆释放它们。在各18次试验中，真老鼠释放社交型机器的可能性平均比释放非社交型机器高52%。Quinn说，这表明老鼠将社交型机器视为真正的社交生物。老鼠可能与社交型机器建立了更深的联系，因为它表现出了诸如共同探索和玩耍等行为。她说，这可能导致老鼠更好地记住之前曾释放过它，并希望当自己被困时机器能够回报这份恩惠。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "Next, the researchers trapped the robots in cages and gave the rats the opportunity to release them by pressing a lever."
+    },
+    {
+     "id": "P4S2",
+     "en": "Across 18 trials each, the living rats were 52 percent more likely on average to set the social robot free than the asocial one."
+    },
+    {
+     "id": "P4S3",
+     "en": "This suggests that the rats perceived the social robot as a genuine social being, says Quinn."
+    },
+    {
+     "id": "P4S4",
+     "en": "The rats may have bonded more with the social robot because it displayed behaviors like communal exploring and playing."
+    },
+    {
+     "id": "P4S5",
+     "en": "This could lead to the rats better remembering having freed it earlier, and wanting the robot to return the favour when they get trapped, she says."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "\"Rats have been shown to engage in multiple forms of reciprocal help and cooperation, including what is referred to as direct reciprocity where a rat will help another rat that has previously helped them,\" says Quinn.",
+   "zh": "Quinn说:\"研究表明，老鼠会参与多种形式的互惠帮助和合作，包括所谓的直接互惠，即一只老鼠会帮助曾经帮助过自己的另一只老鼠。\"",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "\"Rats have been shown to engage in multiple forms of reciprocal help and cooperation, including what is referred to as direct reciprocity where a rat will help another rat that has previously helped them,\" says Quinn."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "en": "The readiness of the rats to befriend the social robot was surprising given its minimal design. The robot was the same size as a regular rat but resembled a simple plastic box on wheels. \"We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary,\" says Janet Wiles at the University of Queensland in Australia, who helped with the research.",
+   "zh": "考虑到机器的简约设计，老鼠愿意与社交型机器交朋友令人惊讶。这个机器与普通老鼠大小相同，但看起来像一个装在轮子上的简单塑料盒。参与这项研究的澳大利亚昆士兰大学的JanetWiles说:\"我们原本以为必须给它安装一个能动的头和尾巴、面部特征，并在它身上喷洒气味使其闻起来像真老鼠，但这些都不必要。\"",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "The readiness of the rats to befriend the social robot was surprising given its minimal design."
+    },
+    {
+     "id": "P6S2",
+     "en": "The robot was the same size as a regular rat but resembled a simple plastic box on wheels."
+    },
+    {
+     "id": "P6S3",
+     "en": "\"We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary,\" says Janet Wiles at the University of Queensland in Australia, who helped with the research."
+    }
+   ]
+  },
+  {
+   "id": "P7",
+   "en": "The finding shows how sensitive rats are to social cues, even when they come from basic robots. Similarly, children tend to treat robots as if they are fellow beings, even when they display only simple social signals. \"We humans seem to be fascinated by robots, and it turns out other animals are too,\" says Wiles.",
+   "zh": "这一发现显示了老鼠对社交线索的敏感程度，即使这些线索来自基本的机器。同样，儿童往往会把机器当作同类对待，即使它们只展示简单的社交信号。Wiles说:\"我们人类似乎对机器着迷，事实证明其他动物也是如此。\"",
+   "sentences": [
+    {
+     "id": "P7S1",
+     "en": "The finding shows how sensitive rats are to social cues, even when they come from basic robots."
+    },
+    {
+     "id": "P7S2",
+     "en": "Similarly, children tend to treat robots as if they are fellow beings, even when they display only simple social signals."
+    },
+    {
+     "id": "P7S3",
+     "en": "\"We humans seem to be fascinated by robots, and it turns out other animals are too,\" says Wiles."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 1,
+   "en": "Rats and other animals need to be highly attuned to social signals from others so they can identify friends to cooperate with and enemies to avoid.",
+   "note": "\"主句+so引导的目的或结果状语从句\"是四六级和考研阅读中的高频句式。主句用\"needtobe+形容词\"表达必要性，从句用\"can+动词\"表达能力或可能性，都是典型的表达方式。宾语后带不定式定语（\"friendstocooperatewith\"）也是常考结构。整句的句式组合具有很强的迁移价值，学生掌握后可以应用到大量类似句子的分析中。"
+  },
+  {
+   "para": 1,
+   "sent": 2,
+   "en": "To find out if this extends to non-living beings, Laleh Quinn at the University of California, San Diego, and her colleagues tested whether rats can detect social signals from robotic rats.",
+   "note": "句首不定式表目的、主句后接宾语从句、宾语从句由whether或if引导,这些都是四六级和考研阅读中高频出现的句式。主语较长且含并列也是学术文本的常见特点。本句结构具有较强的代表性,掌握后可复用于理解大量类似句子。"
+  },
+  {
+   "para": 3,
+   "sent": 2,
+   "en": "Meanwhile, the asocial robot simply moved forwards and backwards and side to side.",
+   "note": "包含主语、谓语、多个状语（时间状语、方式状语、方向状语）和并列结构，成分种类有一定覆盖，但结构过于简单，缺少易混淆的成分或特殊句式，练习价值有限。"
+  },
+  {
+   "para": 4,
+   "sent": 1,
+   "en": "Next, the researchers trapped the robots in cages and gave the rats the opportunity to release them by pressing a lever.",
+   "note": "本句包含双宾语结构（gavetheratstheopportunity）和不定式后置定语（toreleasethem），这两者都是易错点；同时涉及并列谓语、地点状语、方式状语等多种成分，成分种类较为丰富，适合练习成分划分"
+  },
+  {
+   "para": 4,
+   "sent": 3,
+   "en": "This suggests that the rats perceived the social robot as a genuine social being, says Quinn.",
+   "note": "主句+宾语从句的结构在四六级和考研阅读中非常常见,perceive...as...也是高频考查的动词短语结构。末尾的引述标记says+人名是学术文本的典型表达方式。这个句式具有较高的迁移价值,掌握后可应用于大量类似句子。"
+  },
+  {
+   "para": 4,
+   "sent": 4,
+   "en": "The rats may have bonded more with the social robot because it displayed behaviors like communal exploring and playing.",
+   "note": "“主句＋because引导的原因状语从句”是很常见、可迁移性很强的句式。再加上主句里的情态动词结构，也很符合考试阅读中常见的判断与解释表达。"
+  },
+  {
+   "para": 4,
+   "sent": 5,
+   "en": "This could lead to the rats better remembering having freed it earlier, and wanting the robot to return the favour when they get trapped, she says.",
+   "note": "本句成分丰富且层次分明：主句包含情态动词谓语、动名词复合结构作宾语、并列动名词、完成式动名词、不定式复合结构；从句包含时间状语从句的识别。涵盖多种非谓语动词形式、并列结构、复杂宾语以及从句嵌套，是训练成分划分和层次分析的优质材料。"
+  },
+  {
+   "para": 5,
+   "sent": 1,
+   "en": "\"Rats have been shown to engage in multiple forms of reciprocal help and cooperation, including what is referred to as direct reciprocity where a rat will help another rat that has previously helped them,\" says Quinn.",
+   "note": "句中覆盖主语、谓语、宾语、表语、宾语从句、定语从句（两层嵌套）、状语、主语补语等多种成分，并且包含融合型关系代词（what）、关系副词（where）、关系代词（that）三种从句引导词的典型用法，适合全面练习成分划分。"
+  },
+  {
+   "para": 6,
+   "sent": 2,
+   "en": "The robot was the same size as a regular rat but resembled a simple plastic box on wheels.",
+   "note": "本句覆盖了主语、并列谓语、表语、宾语、比较状语等多种成分,且并列谓语一个是系表结构一个是主谓宾结构,可练习区分表语与宾语。比较结构\"thesame...as\"中存在谓语省略现象,可训练学生补全省略成分的能力,具有一定训练价值"
+  },
+  {
+   "para": 6,
+   "sent": 3,
+   "en": "\"We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary,\" says Janet Wiles at the University of Queensland in Australia, who helped with the research.",
+   "note": "覆盖了主语、谓语、宾语从句、双宾语结构、并列谓语、直接和间接宾语、目的状语、地点状语、表语、非限制性定语从句等多种成分；特别是双宾语结构和并列谓语的组合，以及关系代词在从句中充当主语的情况，都是常见易错点，训练价值高。"
+  },
+  {
+   "para": 7,
+   "sent": 2,
+   "en": "Similarly, children tend to treat robots as if they are fellow beings, even when they display only simple social signals.",
+   "note": "本句是\"主句+方式状语从句+让步状语从句\"的典型组合,这种\"核心论断+方式说明+条件强调\"的句式在四六级和考研阅读中高频出现。\"asif\"虚拟比较和\"evenwhen\"让步结构都是考点常客。掌握本句的拆解方法可直接迁移到大量同类句式,代表性较强。"
+  },
+  {
+   "para": 7,
+   "sent": 3,
+   "en": "\"We humans seem to be fascinated by robots, and it turns out other animals are too,\" says Wiles.",
+   "note": "并列句+主语从句的组合在四六级和考研阅读中频繁出现，itturnsout后接从句是典型的形式主语结构。句式具有较强代表性，掌握后可迁移到大量类似句子。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "signal",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "信号",
+   "count": 4,
+   "freq": 25
+  },
+  {
+   "word": "display",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "展示",
+   "count": 3,
+   "freq": 20
+  },
+  {
+   "word": "being",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "存在",
+   "count": 3,
+   "freq": 18
+  },
+  {
+   "word": "trap",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "陷阱",
+   "count": 3,
+   "freq": 10
+  },
+  {
+   "word": "better",
+   "level": "A1",
+   "pos": "adj.",
+   "cn": "更好的（good 的比较级）",
+   "count": 2,
+   "freq": 70
+  },
+  {
+   "word": "feature",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "特征",
+   "count": 2,
+   "freq": 30
+  },
+  {
+   "word": "colleague",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "同事",
+   "count": 2,
+   "freq": 23
+  },
+  {
+   "word": "sensitive",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "敏感的",
+   "count": 2,
+   "freq": 21
+  },
+  {
+   "word": "release",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "释放",
+   "count": 2,
+   "freq": 15
+  },
+  {
+   "word": "escape",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "逃跑;逃脱",
+   "count": 2,
+   "freq": 13
+  },
+  {
+   "word": "cue",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "提示",
+   "count": 2,
+   "freq": 8
+  },
+  {
+   "word": "would",
+   "level": "A1",
+   "pos": "aux.",
+   "cn": "（will 的过去式）将要，会",
+   "count": 1,
+   "freq": 304
+  },
+  {
+   "word": "accord",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "（国家、团体间的）协议",
+   "count": 1,
+   "freq": 172
+  },
+  {
+   "word": "researcher",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "研究人员",
+   "count": 1,
+   "freq": 112
+  },
+  {
+   "word": "likely",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "很可能的",
+   "count": 1,
+   "freq": 89
+  },
+  {
+   "word": "tend",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "倾向于，往往会",
+   "count": 1,
+   "freq": 71
+  },
+  {
+   "word": "average",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "平均的",
+   "count": 1,
+   "freq": 55
+  },
+  {
+   "word": "behavior",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "行为",
+   "count": 1,
+   "freq": 52
+  },
+  {
+   "word": "design",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "设计",
+   "count": 1,
+   "freq": 52
+  },
+  {
+   "word": "opportunity",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "机会",
+   "count": 1,
+   "freq": 50
+  },
+  {
+   "word": "intelligence",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "智力",
+   "count": 1,
+   "freq": 48
+  },
+  {
+   "word": "simply",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "仅仅，只不过",
+   "count": 1,
+   "freq": 43
+  },
+  {
+   "word": "identify",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "识别",
+   "count": 1,
+   "freq": 37
+  },
+  {
+   "word": "respond",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "回答，答复",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "conduct",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "组织并实施",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "finding",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "调查结果",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "type",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "类型",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "highly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "非常",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "means",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "方法",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "assume",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "假定",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "regular",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "经常的",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "extend",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "延伸;延长",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "engage",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "参与;从事",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "perceive",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "理解，领悟（某事的性质或意义）",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "version",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "版本",
+   "count": 1,
+   "freq": 18
+  },
+  {
+   "word": "press",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "按，压",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "warning",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "警告",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "multiple",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "多个的",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "cooperation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "合作",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "meanwhile",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "与此同时",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "trait",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "特征",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "trial",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "审判，审讯",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "detect",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "发现，察觉（难以察觉的事物）",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "previously",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "以前，先前（指过去某个时间）",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "earlier",
+   "level": "A2",
+   "pos": "adv.",
+   "cn": "较早地",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "cooperate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "合作",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "surprising",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "令人惊讶的",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2020-english-two/section2-part-a-1/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-two/section2-part-a-1/"
+}

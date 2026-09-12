@@ -1,0 +1,601 @@
+{
+ "year": 2021,
+ "text": 4,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive. In one study of the ability she called \"thin slicing,\" the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips of professors and to rate the instructor's overall effectiveness. Their ratings correlated strongly with students' end-of-semester ratings. Another set of participants had to count backward from 1,000 by nines as they watched the clips, occupying their conscious working memory. Their ratings were just as accurate, demonstrating the intuitive nature of the social processing.",
+   "zh": "我们相当擅长基于第一印象来判断他人，这种薄片体验范围从瞥见一张照片到五分钟的互动，而深思熟虑不仅可能是多余的，还可能是干扰性的。在一项关于她称之为\"薄片切割\"能力的研究中，已故心理学家NaliniAmbady要求参与者观看教授们的10秒无声视频片段，并对教师的整体有效性进行评分。他们的评分与学生的学期末评分高度相关。另一组参与者在观看视频片段时必须从1000倒数，每次减9，占用他们有意识的工作记忆。他们的评分同样准确，证明了社会处理过程的直觉性质。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive."
+    },
+    {
+     "id": "P1S2",
+     "en": "In one study of the ability she called \"thin slicing,\" the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips of professors and to rate the instructor's overall effectiveness."
+    },
+    {
+     "id": "P1S3",
+     "en": "Their ratings correlated strongly with students' end-of-semester ratings."
+    },
+    {
+     "id": "P1S4",
+     "en": "Another set of participants had to count backward from 1,000 by nines as they watched the clips, occupying their conscious working memory."
+    },
+    {
+     "id": "P1S5",
+     "en": "Their ratings were just as accurate, demonstrating the intuitive nature of the social processing."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "Critically, another group was asked to spend a minute writing down reasons for their judgment, before giving the rating. Accuracy dropped dramatically. Ambady suspected that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, rather than letting the complex interplay of subtle signals form a holistic impression. She found similar interference when participants watched 15-second clips of pairs of people and judged whether they were strangers, friends, or dating partners.",
+   "zh": "关键的是，另一组被要求在给出评分之前花一分钟写下他们判断的理由。准确性急剧下降。Ambady怀疑深思熟虑使他们专注于生动但具有误导性的线索，例如某些手势或话语，而不是让微妙信号的复杂相互作用形成整体印象。当参与者观看15秒的两人配对视频片段并判断他们是陌生人、朋友还是约会对象时，她发现了类似的干扰。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "Critically, another group was asked to spend a minute writing down reasons for their judgment, before giving the rating."
+    },
+    {
+     "id": "P2S2",
+     "en": "Accuracy dropped dramatically."
+    },
+    {
+     "id": "P2S3",
+     "en": "Ambady suspected that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, rather than letting the complex interplay of subtle signals form a holistic impression."
+    },
+    {
+     "id": "P2S4",
+     "en": "She found similar interference when participants watched 15-second clips of pairs of people and judged whether they were strangers, friends, or dating partners."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "Other research shows we're better at detecting deception from thin slices when we rely on intuition instead of reflection. \"It's as if you're driving a stick shift,\" says Judith Hall, a psychologist at Northeastern University, \"and if you start thinking about it too much, you can't remember what you're doing. But if you go on automatic pilot, you're fine. Much of our social life is like that.\"",
+   "zh": "其他研究表明，当我们依靠直觉而非反思时，我们更善于从薄片中检测欺骗。东北大学心理学家JudithHall说:\"这就像你在开手动挡车，如果你开始想得太多，你就记不住自己在做什么。但如果你进入自动驾驶模式，你就没问题。我们的社会生活很大程度上就是这样。\"",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "Other research shows we're better at detecting deception from thin slices when we rely on intuition instead of reflection."
+    },
+    {
+     "id": "P3S2",
+     "en": "\"It's as if you're driving a stick shift,\" says Judith Hall, a psychologist at Northeastern University, \"and if you start thinking about it too much, you can't remember what you're doing."
+    },
+    {
+     "id": "P3S3",
+     "en": "But if you go on automatic pilot, you're fine."
+    },
+    {
+     "id": "P3S4",
+     "en": "Much of our social life is like that.\""
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "Thinking too much can also harm our ability to form preferences. College students' ratings of strawberry jams and college courses aligned better with experts' opinions when the students weren't asked to analyze their rationale. And people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex—when they had a lot of information to process.",
+   "zh": "思考过多也会损害我们形成偏好的能力。当大学生不被要求分析他们的理由时，他们对草莓酱和大学课程的评分与专家意见更一致。当人们被要求关注自己的感受而非细节时，他们做出的购车决策既在客观上更好，也在个人层面上更令人满意，但只有在决策复杂时才如此——当他们有大量信息需要处理时。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "Thinking too much can also harm our ability to form preferences."
+    },
+    {
+     "id": "P4S2",
+     "en": "College students' ratings of strawberry jams and college courses aligned better with experts' opinions when the students weren't asked to analyze their rationale."
+    },
+    {
+     "id": "P4S3",
+     "en": "And people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex—when they had a lot of information to process."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "Intuition's special powers are unleashed only in certain circumstances. In one study, participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech). Then they rated the degree to which they had used intuition (\"gut feelings,\" \"hunches,\" \"my heart\"). Use of their gut hurt their performance on the first four tasks, as expected, and helped them on the rest. Sometimes the heart is smarter than the head.",
+   "zh": "直觉的特殊力量只在特定情况下才会释放。在一项研究中，参与者完成了八项任务，其中四项利用反思性思维(辨别规则、理解词汇)，四项利用直觉和创造力(生成新产品或修辞手法)。然后他们评估自己使用直觉的程度(\"直觉感受\"、\"预感\"、\"我的内心\")。如预期的那样，使用直觉损害了他们在前四项任务上的表现，但帮助了他们完成其余任务。有时心灵比头脑更聪明。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "Intuition's special powers are unleashed only in certain circumstances."
+    },
+    {
+     "id": "P5S2",
+     "en": "In one study, participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech)."
+    },
+    {
+     "id": "P5S3",
+     "en": "Then they rated the degree to which they had used intuition (\"gut feelings,\" \"hunches,\" \"my heart\")."
+    },
+    {
+     "id": "P5S4",
+     "en": "Use of their gut hurt their performance on the first four tasks, as expected, and helped them on the rest."
+    },
+    {
+     "id": "P5S5",
+     "en": "Sometimes the heart is smarter than the head."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 1,
+   "en": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive.",
+   "note": "并列复合句是四六级和考研阅读中的常见句式,且本句第一个主句包含的\"主系表+介词短语+同位语+分词定语\"组合,以及第二个主句的\"情态动词+notonly...but...\"表语结构,都是考试中频繁出现的典型句式。掌握本句的分析方法可迁移到大量类似结构的句子。"
+  },
+  {
+   "para": 2,
+   "sent": 1,
+   "en": "Critically, another group was asked to spend a minute writing down reasons for their judgment, before giving the rating.",
+   "note": "本句成分丰富，主句包含主语、谓语、宾语补足语、状语等多种成分，且宾语补足语内部嵌套不定式和分词结构，适合练习识别非谓语动词。状语从句虽然简单，但涉及动名词作谓语核心的特殊用法，以及省略主语的情况，是典型的易错点。句首的独立副词Critically也是状语成分的常见形式，整体训练价值较高。"
+  },
+  {
+   "para": 2,
+   "sent": 3,
+   "en": "Ambady suspected that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, rather than letting the complex interplay of subtle signals form a holistic impression.",
+   "note": "suspectthat引导的宾语从句结构在四六级和考研阅读中极为常见,从句内部的focuson搭配和ratherthan对比结构也是高频句式,掌握后可大量复用于理解类似的心理活动描写和对比论证句"
+  },
+  {
+   "para": 2,
+   "sent": 4,
+   "en": "She found similar interference when participants watched 15-second clips of pairs of people and judged whether they were strangers, friends, or dating partners.",
+   "note": "主句+时间状语从句+嵌套宾语从句的结构在学术文章和考试阅读中非常常见。whether引导的宾语从句、并列谓语、复杂名词短语修饰等都是四六级和考研的高频句式，掌握后可大量复用。"
+  },
+  {
+   "para": 3,
+   "sent": 1,
+   "en": "Other research shows we're better at detecting deception from thin slices when we rely on intuition instead of reflection.",
+   "note": "\"主句+宾语从句+状语从句\"是四六级和考研真题中的高频句式，宾语从句省略\"that\"和\"when\"引导时间状语从句都是典型考点，学习迁移价值高。"
+  },
+  {
+   "para": 3,
+   "sent": 2,
+   "en": "\"It's as if you're driving a stick shift,\" says Judith Hall, a psychologist at Northeastern University, \"and if you start thinking about it too much, you can't remember what you're doing. But if you go on automatic pilot, you're fine. Much of our social life is like that.\"",
+   "note": "引语插入、条件从句前置以及“Itisasif...”的比喻句式在真题阅读中极其常见，具有很强的复用价值。"
+  },
+  {
+   "para": 4,
+   "sent": 3,
+   "en": "And people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex—when they had a lot of information to process.",
+   "note": "本句成分丰富且含多个训练点：主句包含主谓宾结构及多个状语从句；定语从句中有主系表结构及并列表语；时间状语从句涉及主语省略和宾语补足语；条件状语从句再现主系表结构。句中展示了定语从句修饰宾语、多个状语从句修饰主句、省略结构还原、不定式作定语等多种成分划分训练点，是较好的综合练习句。"
+  },
+  {
+   "para": 5,
+   "sent": 2,
+   "en": "In one study, participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech).",
+   "note": "这是学术文本中非常典型的句式：主句陈述研究内容，后接定语从句对研究对象进行分类说明。这种\"主句+并列定语从句\"的结构在四六级和考研阅读理解中频繁出现，掌握后迁移价值高"
+  },
+  {
+   "para": 5,
+   "sent": 3,
+   "en": "Then they rated the degree to which they had used intuition (\"gut feelings,\" \"hunches,\" \"my heart\").",
+   "note": "本句的结构是典型的主句带限制性定语从句，且定语从句用了\"介词+which\"引导，这是四六级和考研阅读中常见的句式。过去完成时与一般过去时的配合也是常考的时态组合。句子没有特别罕见的结构或生僻用法，学生掌握后可以迁移到大量类似句子。具有较高的代表性和复用价值。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "participant",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "参与者",
+   "count": 5,
+   "freq": 20
+  },
+  {
+   "word": "complex",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "复杂的，难懂的",
+   "count": 3,
+   "freq": 31
+  },
+  {
+   "word": "impression",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "印象",
+   "count": 3,
+   "freq": 9
+  },
+  {
+   "word": "power",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "权力",
+   "count": 2,
+   "freq": 90
+  },
+  {
+   "word": "focus",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "重点",
+   "count": 2,
+   "freq": 77
+  },
+  {
+   "word": "product",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "产品",
+   "count": 2,
+   "freq": 77
+  },
+  {
+   "word": "rate",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "速度",
+   "count": 2,
+   "freq": 72
+  },
+  {
+   "word": "better",
+   "level": "A1",
+   "pos": "adj.",
+   "cn": "更好的（good 的比较级）",
+   "count": 2,
+   "freq": 70
+  },
+  {
+   "word": "expert",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "专家",
+   "count": 2,
+   "freq": 42
+  },
+  {
+   "word": "thinking",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "思考",
+   "count": 2,
+   "freq": 33
+  },
+  {
+   "word": "judge",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "判断，评判",
+   "count": 2,
+   "freq": 27
+  },
+  {
+   "word": "generate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "产生，引起（结果、反应等）",
+   "count": 2,
+   "freq": 23
+  },
+  {
+   "word": "interaction",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "相互作用",
+   "count": 2,
+   "freq": 22
+  },
+  {
+   "word": "detail",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "细节",
+   "count": 2,
+   "freq": 19
+  },
+  {
+   "word": "psychologist",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "心理学家",
+   "count": 2,
+   "freq": 19
+  },
+  {
+   "word": "creativity",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "创造力",
+   "count": 2,
+   "freq": 18
+  },
+  {
+   "word": "preference",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "偏爱",
+   "count": 2,
+   "freq": 13
+  },
+  {
+   "word": "detect",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "发现，察觉（难以察觉的事物）",
+   "count": 2,
+   "freq": 12
+  },
+  {
+   "word": "data",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "数据",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "process",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "过程",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "opinion",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "观点",
+   "count": 1,
+   "freq": 44
+  },
+  {
+   "word": "base",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "基础",
+   "count": 1,
+   "freq": 43
+  },
+  {
+   "word": "seek",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "寻找",
+   "count": 1,
+   "freq": 40
+  },
+  {
+   "word": "affect",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "影响",
+   "count": 1,
+   "freq": 39
+  },
+  {
+   "word": "figure",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "数字",
+   "count": 1,
+   "freq": 38
+  },
+  {
+   "word": "professor",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "教授（大学教师的最高职称）",
+   "count": 1,
+   "freq": 38
+  },
+  {
+   "word": "overall",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "总体的",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "range",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "范围",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "shift",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "移动",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "performance",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "表演",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "rely",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "依赖;依靠",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "boost",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "提高",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "specific",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "具体的",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "signal",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "信号",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "analyze",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "分析",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "demonstrate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "证明",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "harm",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "伤害",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "limited",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "有限的",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "objective",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "目标",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "conscious",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "意识到的",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "judgment",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "判断力;识别力",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "circumstance",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "情况",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "fairly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "相当",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "partner",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "伴侣",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "suspect",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "怀疑",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "automatic",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "自动的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "misleading",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "误导性的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "subtle",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "微妙的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "driving",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "驾驶",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "cue",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "提示",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "occupy",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "占据，占用（空间、时间）",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "personally",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "就个人而言",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2021-english-two/section2-part-a-4/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2021-english-two/section2-part-a-4/"
+}

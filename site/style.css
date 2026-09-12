@@ -1,0 +1,363 @@
+/* 点句翻译 — 样式 */
+:root{
+  --bg:#fbfaf7; --fg:#1f2328; --muted:#6b7280; --line:#e5e2db;
+  --card:#ffffff; --accent:#c2410c; --accent-soft:#fff1e7;
+  --sent-hover:#f3efe7; --sent-active:#ffe9d6;
+  --insight:#b45309; --insight-bg:#fffaeb;
+  --shadow:0 1px 2px rgba(16,24,40,.05),0 8px 24px rgba(16,24,40,.06);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#16181c; --fg:#e6e6e3; --muted:#9aa1ab; --line:#2c3037;
+    --card:#1e2126; --accent:#fb923c; --accent-soft:#2a211a;
+    --sent-hover:#24282e; --sent-active:#3a2c1d;
+    --insight:#fbbf24; --insight-bg:#2a2417;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.35);
+  }
+}
+*{box-sizing:border-box}
+/* .legend 等设了 display:flex，作者样式会盖过 UA 的 [hidden]{display:none}。
+   统一加 !important 兜底，避免 hidden 属性失效。 */
+[hidden]{display:none !important}
+html,body{margin:0;padding:0}
+body{
+  background:var(--bg); color:var(--fg);
+  font-family:"PingFang SC","Microsoft YaHei","Hiragino Sans GB","Source Han Sans SC",
+              -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  line-height:1.75; -webkit-font-smoothing:antialiased;
+}
+
+/* ---------- top bar ---------- */
+.topbar{
+  position:sticky; top:0; z-index:30; display:flex; align-items:center; gap:18px;
+  padding:10px 22px; background:color-mix(in srgb,var(--bg) 88%,transparent);
+  backdrop-filter:saturate(180%) blur(12px); border-bottom:1px solid var(--line); flex-wrap:wrap;
+}
+.brand{font-weight:700; font-size:19px; letter-spacing:.5px; display:flex; align-items:baseline; gap:2px}
+.logo{color:var(--accent)}
+.brand-sub{color:var(--fg)}
+.picker{display:flex; align-items:center; gap:8px; font-size:14px; color:var(--muted)}
+.picker select{
+  font:inherit; font-size:14px; color:var(--fg); background:var(--card);
+  border:1px solid var(--line); border-radius:8px; padding:6px 10px; cursor:pointer;
+}
+.actions{margin-left:auto; display:flex; gap:8px}
+.btn{
+  font:inherit; font-size:13px; color:var(--fg); background:var(--card);
+  border:1px solid var(--line); border-radius:8px; padding:6px 12px; cursor:pointer;
+  transition:background .15s,border-color .15s;
+}
+.btn:hover{background:var(--sent-hover); border-color:var(--muted)}
+.btn.on{background:var(--accent-soft); border-color:var(--accent); color:var(--accent)}
+
+/* GitHub 仓库入口：与 .btn 同高，但不抢视线（灰色、无边框） */
+.gh-link{
+  display:inline-flex; align-items:center; justify-content:center;
+  width:32px; height:32px; border-radius:8px; color:var(--muted);
+  border:1px solid transparent;
+  transition:color .15s, background .15s, border-color .15s;
+}
+.gh-link:hover{color:var(--fg); background:var(--sent-hover); border-color:var(--line)}
+.gh-link svg{display:block}
+
+.loading{padding:80px 22px; text-align:center; color:var(--muted)}
+main{max-width:900px; margin:0 auto; padding:30px 22px 120px}
+
+/* ---------- passage head ---------- */
+.passage-head h1{font-size:26px; margin:0 0 6px}
+.sub{color:var(--muted); margin:0 0 4px; font-size:15px}
+.stats{color:var(--muted); margin:0 0 16px; font-size:13px}
+.usage{
+  font-size:13.5px; color:var(--muted); background:var(--card); border:1px solid var(--line);
+  border-left:3px solid var(--accent); border-radius:8px; padding:10px 14px; margin:0 0 8px;
+}
+.usage b{color:var(--fg)}
+.u-demo{text-decoration:underline; text-decoration-color:var(--insight);
+        text-decoration-thickness:2px; text-underline-offset:3px}
+
+/* ---------- 段落 ---------- */
+/* 按书籍排版：段号放进左侧页边，正文占主栏。
+   目的是「读起来像一篇文章」，而不是一张张题卡——
+   所以去掉卡片描边/投影，只靠段间距分隔。 */
+.para{
+  display:grid; grid-template-columns:2.4em minmax(0,1fr);
+  column-gap:14px; margin:0 0 34px;
+  background:transparent; border:none; padding:0;
+}
+.para-head{grid-column:1; grid-row:1 / -1; padding-top:5px}
+.para-id{
+  position:sticky; top:74px;
+  font-size:11.5px; font-weight:600; color:var(--muted);
+  letter-spacing:.5px; font-variant-numeric:tabular-nums;
+  opacity:.75;
+}
+@media (max-width:640px){
+  /* 窄屏放不下页边，段号回到正文上方，正文占满整行。 */
+  .para{grid-template-columns:1fr; column-gap:0}
+  .para-head{grid-column:1; grid-row:auto; padding:0 0 6px}
+  .para-id{position:static}
+}
+.en{grid-column:2; font-family:Georgia,"Times New Roman",serif;
+    font-size:18.5px; line-height:1.95; margin:0}
+/* 句子可能是 <a>（精讲句，href 指向原站解析页）。
+   必须显式去掉链接默认样式，否则整篇会变成蓝色下划线。
+
+   注意 :visited 的层叠陷阱（曾导致「点过一次后下划线变黑」）：
+   `a.sent:visited` 的优先级是 (0,2,1)，高于 `.sent.insight` 的 (0,2,0)，
+   于是用户 Ctrl/⌘+点击打开过原站解析页之后，浏览器把该 URL 记为已访问，
+   这条 text-decoration:none 就把精讲句的橙色下划线整个覆盖掉了。
+   因为「已访问」记在浏览器历史而非页面里，刷新不会恢复，只有悬浮才短暂复活
+   （.sent.insight:hover 优先级 (0,3,0) 更高）。
+
+   所以下面同时声明 :visited，并让精讲句的规则也覆盖 :visited ——
+   宁可牺牲「已访问变紫」这一默认提示，也要保证精讲句下划线在任何状态下都在。 */
+.sent,
+a.sent,
+a.sent:visited,
+a.sent:hover,
+a.sent:active{
+  color:inherit; text-decoration:none;
+}
+.sent{cursor:pointer; border-radius:5px; padding:2px 3px; margin:0 -1px;
+      transition:background .13s; border-bottom:1px solid transparent}
+.sent:hover{background:var(--sent-hover)}
+.sent.active{background:var(--sent-active); border-bottom-color:var(--accent)}
+
+/* 精讲句下划线：必须带上 :visited / :link 以保证优先级压过上面那条。
+   .sent.insight 单独写会在已访问时被覆盖，故显式列出 a.sent.insight:visited。 */
+.sent.insight,
+a.sent.insight,
+a.sent.insight:link{
+  text-decoration:underline;
+  text-decoration-color:var(--insight);
+  text-decoration-thickness:2px; text-underline-offset:4px;
+}
+/* 已去原站看过 → 下划线转为淡灰，安静下来。
+   实测浏览器 :visited 白名单只放行少数「颜色类」属性：
+   text-decoration-color 可以改，border-*-color 与 background-color 会被忽略
+   （见 work/test/visited-props.js 的验证）。所以这里只能改下划线颜色。
+   注意：这些声明必须放在上面那条之后，否则优先级不足。 */
+a.sent.insight:visited{
+  text-decoration-color:var(--muted);
+  text-decoration-thickness:1.5px;
+}
+.sent.insight:hover,
+a.sent.insight:hover{text-decoration-color:var(--accent)}
+/* 重点词：只加粗 + 淡底纹，不加下划线。
+   原因：精讲句本身已有「橙色实线下划线」，若重点词再带一条虚线，
+   同一句里两种线并存容易看混（曾因 color:inherit 把虚线变成近黑色，
+   看起来像「下划线是黑的」）。可悬停的提示改由 cursor:help 与悬浮高亮承担。 */
+.en strong{
+  font-weight:700; color:inherit;
+  background:color-mix(in srgb,var(--insight) 11%,transparent);
+  border-radius:3px; padding:0 2px;
+}
+.en strong.gloss{cursor:help}
+.en strong.gloss:hover{background:color-mix(in srgb,var(--insight) 22%,transparent)}
+.en strong.gloss:focus-visible{
+  outline:2px solid var(--accent); outline-offset:2px; border-radius:3px;
+}
+
+/* 悬浮释义气泡 */
+.gloss-tip{
+  position:fixed; z-index:80; max-width:340px;
+  background:#1f2328; color:#f4f4f2;
+  font-family:"PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  font-size:13px; line-height:1.7; font-weight:400; letter-spacing:.2px;
+  padding:8px 12px; border-radius:9px;
+  box-shadow:0 8px 28px rgba(0,0,0,.28);
+  pointer-events:none; animation:tip-in .12s ease-out;
+}
+.gloss-tip[hidden]{display:none !important}
+@keyframes tip-in{from{opacity:0; transform:translateY(3px)}to{opacity:1; transform:none}}
+.gloss-tip.above{animation:tip-in-up .12s ease-out}
+@keyframes tip-in-up{from{opacity:0; transform:translateY(-3px)}to{opacity:1; transform:none}}
+@media (prefers-color-scheme: dark){
+  .gloss-tip{background:#f0efec; color:#1a1d21; box-shadow:0 8px 28px rgba(0,0,0,.5)}
+}
+
+/* 译文：按正文来排，不是灰色脚注。
+   读起来应该是「英文一段、中文一段」的正常对照文章。 */
+.zh{
+  grid-column:2; margin:13px 0 0; padding-top:0;
+  border-top:none;
+  color:var(--fg); font-size:16.5px; line-height:1.95;
+  /* 中文比英文稍浅一点点：一眼能分清哪段是译文，但仍是正文而非脚注 */
+  opacity:.92;
+}
+.zh[hidden]{display:none}
+
+/* 窄屏：正文占满整行。
+   必须放在 .en / .zh 之后——同优先级下靠后者胜出，
+   写在前面会被 .en{grid-column:2} 覆盖，grid 就会多造一栏、
+   段号白占一行宽度。 */
+@media (max-width:640px){
+  .en, .zh{grid-column:1}
+}
+
+/* ---------- vocab ---------- */
+.vocab-sec{margin-top:44px}
+.vocab-sec h2{font-size:19px; margin:0 0 6px}
+.muted{color:var(--muted); font-weight:400; font-size:14px}
+.hint{font-size:13.5px; margin:0 0 14px}
+.vocab-tools{margin-bottom:10px; display:flex; gap:10px; align-items:center; flex-wrap:wrap}
+#vocab-filter{
+  font:inherit; font-size:14px; color:var(--fg); background:var(--card);
+  border:1px solid var(--line); border-radius:8px; padding:7px 12px; width:240px;
+}
+/* 词表始终完整渲染，靠固定高度 + 内部滚动控制篇幅：
+   滚动条本身就是「还有更多」的提示，比「展开全部」按钮更直观，也少一个控件。
+   表头吸顶，滚动时列名始终可见。 */
+.vocab-frame{position:relative}   /* 承载底部渐隐遮罩 */
+.vocab-wrap{
+  border:1px solid var(--line); border-radius:10px; background:var(--card);
+  max-height:340px; overflow-y:auto; overscroll-behavior:contain;
+}
+.vocab-wrap thead th{
+  position:sticky; top:0; z-index:2; background:var(--card);
+  box-shadow:inset 0 -1px 0 var(--line);
+}
+/* 底部渐隐：提示「下面还有」。没有它时，被切断的半行看起来像渲染错误。
+   滚到底部后由 JS 加 .at-end 移除。 */
+.vocab-frame::after{
+  content:''; position:absolute; left:1px; right:1px; bottom:1px; height:38px;
+  border-radius:0 0 10px 10px; pointer-events:none;
+  background:linear-gradient(180deg, transparent, var(--card) 78%);
+  transition:opacity .18s;
+}
+.vocab-frame.at-end::after{opacity:0}
+table{width:100%; border-collapse:collapse; font-size:14.5px}
+th,td{padding:9px 14px; text-align:left; border-bottom:1px solid var(--line)}
+th{font-size:12.5px; color:var(--muted); font-weight:600; background:color-mix(in srgb,var(--bg) 60%,transparent)}
+th.sortable{cursor:pointer; user-select:none; white-space:nowrap}
+th.sortable:hover{color:var(--fg)}
+th.sorted::after{content:" ▲"; font-size:9px; color:var(--accent)}
+th.sorted.desc::after{content:" ▼"}
+tbody tr:last-child td{border-bottom:none}
+tbody tr:hover{background:var(--sent-hover)}
+td.num{text-align:right; font-variant-numeric:tabular-nums; color:var(--muted)}
+/* 窄屏：表格列窄，中文释义会换行把行高撑到 140px+，
+   结果滚动区里一次只能看到 2 行，几乎不可用。
+   收紧字号与内边距，并省略「词性」列（手机上信息密度优先）；
+   仍放不下就让表格横向滚动，而不是把行压成两层楼高。 */
+@media (max-width:640px){
+  #vocab{font-size:13px; min-width:460px}
+  #vocab th,#vocab td{padding:5px 8px}
+  #vocab th:nth-child(3), #vocab td:nth-child(3){display:none}  /* 词性 */
+  .vocab-wrap{max-height:min(60vh,380px)}
+}
+.v-word{font-weight:700; font-family:Georgia,serif}
+.badge{
+  display:inline-block; font-size:11px; font-weight:700; border-radius:5px;
+  padding:1px 7px; background:var(--accent-soft); color:var(--accent);
+}
+.lv-A1,.lv-A2{background:#dcfce7; color:#15803d}
+.lv-B1,.lv-B2{background:#fef3c7; color:#a16207}
+.lv-C1,.lv-C2{background:#fee2e2; color:#b91c1c}
+@media (prefers-color-scheme: dark){
+  .lv-A1,.lv-A2{background:#14321f; color:#4ade80}
+  .lv-B1,.lv-B2{background:#332a12; color:#fbbf24}
+  .lv-C1,.lv-C2{background:#3b1a1a; color:#f87171}
+}
+.v-pos{color:var(--muted); font-size:13px}
+.empty{padding:26px; text-align:center; color:var(--muted)}
+
+/* ================= 就地展开的解析面板 ================= */
+/* 插在被点句子的下一行，属于正常文档流：不遮挡文字、不需要遮罩、
+   不需要拖拽调高、不需要给正文补内边距。 */
+.inline-panel{
+  margin:14px 0 18px; background:var(--card);
+  border:1px solid var(--line); border-left:3px solid var(--accent);
+  border-radius:11px; box-shadow:var(--shadow);
+  overflow:hidden; animation:ip-in .18s ease-out;
+}
+@keyframes ip-in{from{opacity:0; transform:translateY(-5px)}to{opacity:1; transform:none}}
+
+.ip-head{
+  display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+  padding:9px 16px; background:color-mix(in srgb,var(--accent-soft) 55%,transparent);
+  border-bottom:1px solid var(--line);
+}
+.ip-id{
+  font-size:11.5px; font-weight:700; color:var(--accent);
+  background:var(--accent-soft); border-radius:5px; padding:2px 7px;
+}
+.ip-title{font-size:12.5px; color:var(--muted)}
+.ip-hint{margin-left:auto; font-size:11px; color:var(--muted); opacity:.7}
+.ip-close{
+  font:inherit; font-size:19px; line-height:1; color:var(--muted);
+  background:none; border:none; cursor:pointer; padding:1px 7px; border-radius:6px;
+}
+.ip-close:hover{color:var(--fg); background:var(--sent-hover)}
+
+.ip-body{padding:15px 18px 18px}
+/* 单栏全宽：曾用两栏，长成分块会被挤成竖条难以阅读。 */
+.ip-body > .ip-sec + .ip-sec{margin-top:20px}
+/* 成分块按内容高度排布，不要被 flex 拉伸成等高（末尾会留大片空白） */
+.chunks{align-items:flex-start}
+
+.ip-sec{margin-bottom:18px}
+.ip-sec:last-child{margin-bottom:0}
+.ip-sec h3{
+  font-size:12px; letter-spacing:.5px; color:var(--muted);
+  margin:0 0 9px; font-weight:600; padding-bottom:5px; border-bottom:1px solid var(--line);
+}
+.ip-zh{margin:0; color:var(--muted); font-size:15px; line-height:1.9}
+
+/* 成分划分 */
+.chunks{display:flex; flex-wrap:wrap; gap:7px; align-items:stretch}
+.chunk{
+  border:1px solid var(--line); border-radius:8px; overflow:hidden; background:var(--bg);
+  max-width:100%; display:flex; flex-direction:column;
+}
+.chunk .ck-role{
+  font-size:11px; font-weight:700; padding:3px 9px; color:#fff;
+  letter-spacing:.3px; white-space:nowrap;
+}
+.chunk .ck-txt{
+  padding:6px 10px; font-family:Georgia,serif; font-size:14px; line-height:1.6;
+  color:var(--fg); word-break:break-word;
+}
+.chunk .ck-note{
+  font-size:11.5px; color:var(--muted); padding:5px 10px 7px; line-height:1.55;
+  border-top:1px dotted var(--line); margin-top:2px;
+}
+
+/* 整句着色对照：未覆盖的词按原样保留，读到的仍是完整句子 */
+.skel{
+  padding:11px 13px; background:var(--bg); border:1px dashed var(--line);
+  border-radius:8px; font-family:Georgia,serif; font-size:14.5px; line-height:2.15;
+}
+.skel .sk{padding:1px 3px; border-radius:4px; border-bottom:2px solid transparent; cursor:help}
+
+.chunk-legend{display:flex; flex-wrap:wrap; gap:6px}
+.cl-item{display:flex; align-items:center; gap:5px; font-size:12px; color:var(--muted)}
+.cl-dot{width:10px; height:10px; border-radius:3px; flex:none}
+
+.note-box{
+  background:var(--insight-bg); border:1px solid color-mix(in srgb,var(--insight) 35%,transparent);
+  border-left:3px solid var(--insight); border-radius:8px; padding:11px 14px;
+  font-size:14.5px; line-height:1.9; color:var(--fg);
+}
+.note-box .nb-tag{
+  display:block; font-size:11.5px; font-weight:700; color:var(--insight);
+  margin-bottom:7px; letter-spacing:.3px;
+}
+
+/* 原站解释页链接 */
+.ip-ext{
+  display:inline-flex; align-items:center; gap:6px;
+  font-size:14px; color:var(--accent); text-decoration:none;
+  border-bottom:1px solid color-mix(in srgb,var(--accent) 45%,transparent);
+  padding-bottom:2px; transition:border-color .15s, gap .15s;
+}
+.ip-ext:hover{border-bottom-color:var(--accent); gap:9px}
+.ip-ext-arrow{font-size:12px; opacity:.8}
+.ip-ext-note{margin:9px 0 0; font-size:12.5px; color:var(--muted); line-height:1.75}
+
+/* 篇目来源链接 */
+.src-link{
+  color:var(--accent); text-decoration:none;
+  border-bottom:1px solid color-mix(in srgb,var(--accent) 40%,transparent);
+}
+.src-link:hover{border-bottom-color:var(--accent)}

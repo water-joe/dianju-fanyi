@@ -1,0 +1,725 @@
+{
+ "year": 2022,
+ "text": 4,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "Although ethics classes are common around the world, scientists are unsure if their lessons can actually change behavior; evidence either way is weak, relying on contrived laboratory tests or sometimes unreliable self-reports. But a new study published in Cognition found that, in at least one real-world situation, a single ethics lesson may have had lasting effects.",
+   "zh": "尽管伦理课程在世界各地很常见，但科学家们不确定这些课程是否真的能改变行为；无论哪种方向的证据都很薄弱，依赖于人为设计的实验室测试或有时不可靠的自我报告。但发表在《认知》期刊上的一项新研究发现，至少在一种真实世界的情况下，一堂伦理课可能产生了持久的影响。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "Although ethics classes are common around the world, scientists are unsure if their lessons can actually change behavior; evidence either way is weak, relying on contrived laboratory tests or sometimes unreliable self-reports."
+    },
+    {
+     "id": "P1S2",
+     "en": "But a new study published in Cognition found that, in at least one real-world situation, a single ethics lesson may have had lasting effects."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "The researchers investigated one class session's impact on eating meat. They chose this particular behavior for three reasons, according to study co-author Eric Schwitzgebel, a philosopher at the University of California, Riverside: students' attitudes on the topic are variable and unstable, behavior is easily measurable, and ethics literature largely agrees that eating less meat is good because it reduces environmental harm and animal suffering. Half of the students in four large philosophy classes read an article on the ethics of factory-farmed meat, optionally watched an 11-minute video on the topic and joined a 50-minute discussion. The other half focused on charitable giving instead. Then, unknown to the students, the researchers studied their anonymized meal-card purchases for that semester—nearly 14,000 receipts for almost 500 students.",
+   "zh": "研究人员调查了一堂课对吃肉行为的影响。根据该研究的共同作者、加州大学河滨分校哲学家EricSchwitzgebel的说法，他们选择这一特定行为有三个原因:学生对该话题的态度是可变且不稳定的，行为易于测量，伦理学文献在很大程度上认同少吃肉是好的，因为它减少了环境危害和动物痛苦。在四个大型哲学课堂中，一半学生阅读了一篇关于工厂化养殖肉类伦理的文章，自愿观看了一个11分钟的相关视频，并参加了50分钟的讨论。另一半则专注于慈善捐赠。然后，在学生不知情的情况下，研究人员研究了他们那个学期的匿名餐卡购买记录——近500名学生的近14000张收据。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "The researchers investigated one class session's impact on eating meat."
+    },
+    {
+     "id": "P2S2",
+     "en": "They chose this particular behavior for three reasons, according to study co-author Eric Schwitzgebel, a philosopher at the University of California, Riverside: students' attitudes on the topic are variable and unstable, behavior is easily measurable, and ethics literature largely agrees that eating less meat is good because it reduces environmental harm and animal suffering."
+    },
+    {
+     "id": "P2S3",
+     "en": "Half of the students in four large philosophy classes read an article on the ethics of factory-farmed meat, optionally watched an 11-minute video on the topic and joined a 50-minute discussion."
+    },
+    {
+     "id": "P2S4",
+     "en": "The other half focused on charitable giving instead."
+    },
+    {
+     "id": "P2S5",
+     "en": "Then, unknown to the students, the researchers studied their anonymized meal-card purchases for that semester—nearly 14,000 receipts for almost 500 students."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "Schwitzgebel predicted the intervention would have no effect; he had previously found that ethics professors do not differ from other professors on a range of behaviors, including voting rates, blood donation and returning library books. But among student subjects who discussed meat ethics, meal purchases containing meat decreased from 52 to 45 percent—and this effect held steady for the study's duration of several weeks. Purchases from the other group remained at 52 percent.",
+   "zh": "Schwitzgebel预测这一干预不会产生效果；他此前发现伦理学教授在一系列行为上与其他教授没有差异，包括投票率、献血和归还图书馆书籍。但在讨论了肉类伦理的学生受试者中，含肉的餐食购买从52%下降到45%——而且这一效果在研究持续的几周内保持稳定。另一组的购买则保持在52%。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "Schwitzgebel predicted the intervention would have no effect; he had previously found that ethics professors do not differ from other professors on a range of behaviors, including voting rates, blood donation and returning library books."
+    },
+    {
+     "id": "P3S2",
+     "en": "But among student subjects who discussed meat ethics, meal purchases containing meat decreased from 52 to 45 percent—and this effect held steady for the study's duration of several weeks."
+    },
+    {
+     "id": "P3S3",
+     "en": "Purchases from the other group remained at 52 percent."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "\"That's actually a pretty large effect for a pretty small intervention,\" Schwitzgebel says. Psychologist Nina Strohminger at the University of Pennsylvania, who was not involved in the study, says she wants the effect to be real but cannot rule out some unknown confounding variable. And if real, she notes, it might be reversible by another nudge: \"Easy come, easy go.\"",
+   "zh": "Schwitzgebel说:\"对于一个相当小的干预来说，这实际上是一个相当大的效果。\"未参与该研究的宾夕法尼亚大学心理学家NinaStrohminger说，她希望这个效果是真实的，但不能排除某些未知的混淆变量。她指出，如果是真实的，它可能会被另一个推动而逆转:\"来得容易，去得也快。\"",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "\"That's actually a pretty large effect for a pretty small intervention,\" Schwitzgebel says."
+    },
+    {
+     "id": "P4S2",
+     "en": "Psychologist Nina Strohminger at the University of Pennsylvania, who was not involved in the study, says she wants the effect to be real but cannot rule out some unknown confounding variable."
+    },
+    {
+     "id": "P4S3",
+     "en": "And if real, she notes, it might be reversible by another nudge: \"Easy come, easy go.\""
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "Schwitzgebel suspects the greatest impact came from social influence—classmates or teaching assistants leading the discussions may have shared their own vegetarianism, showing it as achievable or more common. Second, the video may have had an emotional impact. Least rousing, he thinks, was rational argument, although his co-authors say reason might play a bigger role. Now the researchers are probing the specific effects of teaching style, teaching assistants' eating habits and students' video exposure. Meanwhile, Schwitzgebel—who had predicted no effect—will be eating his words.",
+   "zh": "Schwitzgebel怀疑最大的影响来自社会影响——主持讨论的同学或助教可能分享了他们自己的素食主义，表明这是可实现的或更常见的。其次，视频可能产生了情感影响。他认为，理性论证的激励作用最小，尽管他的共同作者们说理性可能发挥更大的作用。现在研究人员正在探究教学风格、助教的饮食习惯和学生观看视频的具体效果。与此同时，曾预测不会有效果的Schwitzgebel将要食言了。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "Schwitzgebel suspects the greatest impact came from social influence—classmates or teaching assistants leading the discussions may have shared their own vegetarianism, showing it as achievable or more common."
+    },
+    {
+     "id": "P5S2",
+     "en": "Second, the video may have had an emotional impact."
+    },
+    {
+     "id": "P5S3",
+     "en": "Least rousing, he thinks, was rational argument, although his co-authors say reason might play a bigger role."
+    },
+    {
+     "id": "P5S4",
+     "en": "Now the researchers are probing the specific effects of teaching style, teaching assistants' eating habits and students' video exposure."
+    },
+    {
+     "id": "P5S5",
+     "en": "Meanwhile, Schwitzgebel—who had predicted no effect—will be eating his words."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 1,
+   "en": "Although ethics classes are common around the world, scientists are unsure if their lessons can actually change behavior; evidence either way is weak, relying on contrived laboratory tests or sometimes unreliable self-reports.",
+   "note": "本句结构高度典型。分号连接并列句、让步状语从句前置、宾语从句嵌套、分词短语作状语,这些都是四六级和考研阅读中的高频句式。并列复合句加从句嵌套的组合是学术文本的标准配置,掌握本句结构后可直接迁移到大量真题句子。"
+  },
+  {
+   "para": 1,
+   "sent": 2,
+   "en": "But a new study published in Cognition found that, in at least one real-world situation, a single ethics lesson may have had lasting effects.",
+   "note": "\"主句+that宾语从句\"是四六级和考研阅读中高频出现的句式。主语带后置定语、从句中插入状语也是真题常见特征。情态动词加完成式的用法在学术性文本中经常用于表达推测,具有较高的复用价值。掌握此句型可迁移到大量同类句子的理解中。"
+  },
+  {
+   "para": 2,
+   "sent": 5,
+   "en": "Then, unknown to the students, the researchers studied their anonymized meal- card purchases for that semester—nearly 14,000 receipts for almost 500 students.",
+   "note": "简单句中嵌入插入语和破折号补充说明是考试阅读中常见的句式,能训练学生在干扰信息中提取主干的能力。这种结构在四六级和考研真题中有一定代表性,掌握后可迁移到类似长句的分析,具有中等偏上的典型性。"
+  },
+  {
+   "para": 3,
+   "sent": 2,
+   "en": "But among student subjects who discussed meat ethics, meal purchases containing meat decreased from 52 to 45 percent—and this effect held steady for the study's duration of several weeks.",
+   "note": "定语从句修饰主语+并列主句的结构在四六级和考研阅读中高频出现，是典型的学术报道句式，掌握后可迁移到大量类似长句的理解。"
+  },
+  {
+   "para": 4,
+   "sent": 2,
+   "en": "Psychologist Nina Strohminger at the University of Pennsylvania, who was not involved in the study, says she wants the effect to be real but cannot rule out some unknown confounding variable.",
+   "note": "本句的结构非常典型:主句+插入的非限定性定语从句+宾语从句,且宾语从句内部有并列谓语。这种says引导宾语从句、宾语从句内部带有转折并列的结构,在四六级和考研真题中极为常见,尤其是科技、学术类文章的引述句式。学生掌握这种结构后,能够快速识别和理解类似的复杂句,迁移性很强。"
+  },
+  {
+   "para": 4,
+   "sent": 3,
+   "en": "And if real, she notes, it might be reversible by another nudge: \"Easy come, easy go.\"",
+   "note": "本句包含插入语、条件状语从句省略结构、情态动词系表结构、方式状语等多种成分，能够训练学习者识别省略、区分插入语与主干、判断状语类型等关键能力，训练价值较高"
+  },
+  {
+   "para": 5,
+   "sent": 2,
+   "en": "Second, the video may have had an emotional impact.",
+   "note": "情态动词加完成式（mayhavedone）是四六级和考研阅读中常见的表推测结构，具有一定代表性，但本句整体结构过于简单，缺少从句或复杂修饰，典型性中等。"
+  },
+  {
+   "para": 5,
+   "sent": 3,
+   "en": "Least rousing, he thinks, was rational argument, although his co-authors say reason might play a bigger role.",
+   "note": "本句覆盖了主系表倒装结构、插入语、让步状语从句、宾语从句、情态动词谓语等多种成分和结构类型,且主句的倒装和插入语是常见易错点,需要还原语序才能准确划分成分。宾语从句省略了引导词that,也是需要识别的考点,训练价值较高。"
+  },
+  {
+   "para": 5,
+   "sent": 5,
+   "en": "Meanwhile, Schwitzgebel—who had predicted no effect—will be eating his words.",
+   "note": "非限制性定语从句插入主句内部是四六级和考研阅读中的高频句式，用破折号或逗号分隔修饰成分的写法非常典型；将来进行时与过去完成时的时态对比在叙述语境中也常见；整体句式具有较强的代表性，掌握后可以应用于理解大量类似结构的句子。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "effect",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "影响",
+   "count": 9,
+   "freq": 80
+  },
+  {
+   "word": "ethics",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "道德准则",
+   "count": 9,
+   "freq": 16
+  },
+  {
+   "word": "behavior",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "行为",
+   "count": 6,
+   "freq": 52
+  },
+  {
+   "word": "researcher",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "研究人员",
+   "count": 4,
+   "freq": 112
+  },
+  {
+   "word": "professor",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "教授（大学教师的最高职称）",
+   "count": 4,
+   "freq": 38
+  },
+  {
+   "word": "impact",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "影响",
+   "count": 3,
+   "freq": 53
+  },
+  {
+   "word": "purchase",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "购买",
+   "count": 3,
+   "freq": 26
+  },
+  {
+   "word": "teaching",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "教学工作;教书",
+   "count": 3,
+   "freq": 16
+  },
+  {
+   "word": "intervention",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "干预",
+   "count": 3,
+   "freq": 8
+  },
+  {
+   "word": "less",
+   "level": "A1",
+   "pos": "det.",
+   "cn": "较少的",
+   "count": 2,
+   "freq": 150
+  },
+  {
+   "word": "least",
+   "level": "A2",
+   "pos": "det.",
+   "cn": "最少的",
+   "count": 2,
+   "freq": 63
+  },
+  {
+   "word": "actually",
+   "level": "A2",
+   "pos": "adv.",
+   "cn": "实际上，事实上（用于纠正或补充信息）",
+   "count": 2,
+   "freq": 42
+  },
+  {
+   "word": "suspect",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "怀疑",
+   "count": 2,
+   "freq": 12
+  },
+  {
+   "word": "assistant",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "助手",
+   "count": 2,
+   "freq": 9
+  },
+  {
+   "word": "would",
+   "level": "A1",
+   "pos": "aux.",
+   "cn": "（will 的过去式）将要，会",
+   "count": 1,
+   "freq": 304
+  },
+  {
+   "word": "accord",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "（国家、团体间的）协议",
+   "count": 1,
+   "freq": 172
+  },
+  {
+   "word": "following",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "接下来的",
+   "count": 1,
+   "freq": 91
+  },
+  {
+   "word": "issue",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "问题",
+   "count": 1,
+   "freq": 89
+  },
+  {
+   "word": "benefit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "好处",
+   "count": 1,
+   "freq": 88
+  },
+  {
+   "word": "focus",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "重点",
+   "count": 1,
+   "freq": 77
+  },
+  {
+   "word": "reduce",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "减少，降低（数量、大小、程度等）",
+   "count": 1,
+   "freq": 75
+  },
+  {
+   "word": "rate",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "速度",
+   "count": 1,
+   "freq": 72
+  },
+  {
+   "word": "better",
+   "level": "A1",
+   "pos": "adj.",
+   "cn": "更好的（good 的比较级）",
+   "count": 1,
+   "freq": 70
+  },
+  {
+   "word": "measure",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "测量",
+   "count": 1,
+   "freq": 65
+  },
+  {
+   "word": "involve",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "包含",
+   "count": 1,
+   "freq": 61
+  },
+  {
+   "word": "political",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "政治的",
+   "count": 1,
+   "freq": 54
+  },
+  {
+   "word": "publish",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "出版，发行（书籍、杂志等）",
+   "count": 1,
+   "freq": 52
+  },
+  {
+   "word": "evidence",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "证据",
+   "count": 1,
+   "freq": 48
+  },
+  {
+   "word": "factor",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "因素",
+   "count": 1,
+   "freq": 47
+  },
+  {
+   "word": "sign",
+   "level": "A1",
+   "pos": "n.",
+   "cn": "标志",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "argument",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "争论",
+   "count": 1,
+   "freq": 39
+  },
+  {
+   "word": "generally",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "通常，一般地",
+   "count": 1,
+   "freq": 35
+  },
+  {
+   "word": "emotional",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "情绪的",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "range",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "范围",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "finding",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "调查结果",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "largely",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "主要地",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "rely",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "依赖;依靠",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "specific",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "具体的",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "particular",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "特定的",
+   "count": 1,
+   "freq": 27
+  },
+  {
+   "word": "critical",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "批评的",
+   "count": 1,
+   "freq": 26
+  },
+  {
+   "word": "easily",
+   "level": "A2",
+   "pos": "adv.",
+   "cn": "容易地",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "previous",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "先前的",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "environmental",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "环境的",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "style",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "方式",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "ignore",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "忽视;不理睬",
+   "count": 1,
+   "freq": 22
+  },
+  {
+   "word": "analyze",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "分析",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "determine",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "决定",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "sensitive",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "敏感的",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "harm",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "伤害",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "psychologist",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "心理学家",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "cannot",
+   "level": "A1",
+   "pos": "aux.",
+   "cn": "不能",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "multiple",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "多个的",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "literature",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "文学",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "differ",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "不同，有区别",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "meanwhile",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "与此同时",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "psychological",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "心理的",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "contain",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "包含，含有",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "decrease",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "减少，降低",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "exposure",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "暴露",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "interpret",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "解释",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "necessarily",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "必然地",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "previously",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "以前，先前（指过去某个时间）",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "lasting",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "持久的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "permanent",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "永久的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "philosopher",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "哲学家",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "philosophy",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "哲学",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "donation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "捐赠",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "investigate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "调查",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "uncertain",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "不确定的",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2022-english-two/section2-part-a-4/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2022-english-two/section2-part-a-4/"
+}

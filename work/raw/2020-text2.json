@@ -1,0 +1,701 @@
+{
+ "year": 2020,
+ "text": 2,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "It is true that CEO pay has gone up—top ones may make 300 times the pay of typical workers on average, and since the mid-1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%. The typical CEO of a top American corporation now makes about $18.9 million a year.",
+   "zh": "CEO薪酬确实上涨了——顶级CEO的薪酬平均可能是普通员工的300倍，而且自20世纪70年代中期以来，根据不同的估算，美国大型上市公司CEO的薪酬已经上涨了约500%。如今美国顶级公司的典型CEO年薪约为1890万美元。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "It is true that CEO pay has gone up—top ones may make 300 times the pay of typical workers on average, and since the mid-1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%."
+    },
+    {
+     "id": "P1S2",
+     "en": "The typical CEO of a top American corporation now makes about $18.9 million a year."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "The best model for understanding the growth of CEO pay is that of limited CEO talent in a world where business opportunities for the top firms are growing rapidly. The efforts of America's highest-earning 1% have been one of the more dynamic elements of the global economy. It's not popular to say, but one reason their pay has gone up so much is that CEOs really have upped their game relative to many other workers in the U.S. economy.",
+   "zh": "理解CEO薪酬增长的最佳模型是，在顶级公司的商业机会快速增长的世界中，CEO人才是有限的。美国收入最高的1%群体的努力一直是全球经济中更具活力的要素之一。尽管这样说不受欢迎，但他们薪酬大幅上涨的一个原因是，相对于美国经济中的许多其他劳动者，CEO确实提升了他们的能力。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "The best model for understanding the growth of CEO pay is that of limited CEO talent in a world where business opportunities for the top firms are growing rapidly."
+    },
+    {
+     "id": "P2S2",
+     "en": "The efforts of America's highest-earning 1% have been one of the more dynamic elements of the global economy."
+    },
+    {
+     "id": "P2S3",
+     "en": "It's not popular to say, but one reason their pay has gone up so much is that CEOs really have upped their game relative to many other workers in the U.S. economy."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "Today's CEO, at least for major American firms, must have many more skills than simply being able to \"run the company.\" CEOs must have a good sense of financial markets and maybe even how the company should trade in them. They also need better public relations skills than their predecessors, as the costs of even a minor slipup can be significant. Then there's the fact that large American companies are much more globalized than ever before, with supply chains spread across a larger number of countries. To lead in that system requires knowledge that is fairly mind-boggling. Plus, virtually all major American companies are becoming tech companies, one way or another. Beyond this, major CEOs still have to do all the day-to-day work they have always done.",
+   "zh": "如今的CEO，至少对于美国大公司而言，必须具备比单纯\"经营公司\"多得多的技能。CEO必须对金融市场有良好的认识，甚至可能还要了解公司应该如何在这些市场中进行交易。他们还需要比前任更好的公关技能，因为即使是小失误的代价也可能很大。此外，美国大公司比以往任何时候都更加全球化，供应链遍布更多国家。在这样的体系中领导需要相当惊人的知识储备。而且，几乎所有美国大公司都在以这样或那样的方式成为科技公司。除此之外，大公司CEO仍然必须完成他们一直以来要做的所有日常工作。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "Today's CEO, at least for major American firms, must have many more skills than simply being able to \"run the company.\""
+    },
+    {
+     "id": "P3S2",
+     "en": "CEOs must have a good sense of financial markets and maybe even how the company should trade in them."
+    },
+    {
+     "id": "P3S3",
+     "en": "They also need better public relations skills than their predecessors, as the costs of even a minor slipup can be significant."
+    },
+    {
+     "id": "P3S4",
+     "en": "Then there's the fact that large American companies are much more globalized than ever before, with supply chains spread across a larger number of countries."
+    },
+    {
+     "id": "P3S5",
+     "en": "To lead in that system requires knowledge that is fairly mind-boggling."
+    },
+    {
+     "id": "P3S6",
+     "en": "Plus, virtually all major American companies are becoming tech companies, one way or another."
+    },
+    {
+     "id": "P3S7",
+     "en": "Beyond this, major CEOs still have to do all the day-to-day work they have always done."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "The common idea that high CEO pay is mainly about ripping people off doesn't explain history very well. By most measures, corporate governance has become a lot tighter and more rigorous since the 1970s. Yet it is principally during this period of stronger governance that CEO pay has been high and rising. That suggests it is in the broader corporate interest to recruit top candidates for increasingly tough jobs.",
+   "zh": "认为高CEO薪酬主要是剥削他人的普遍观点并不能很好地解释历史。从大多数衡量标准来看，自20世纪70年代以来，公司治理已经变得更加严格和规范。然而正是在这个治理更加严格的时期，CEO薪酬一直处于高位并持续上涨。这表明招募顶尖候选人来担任日益艰难的工作符合更广泛的公司利益。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "The common idea that high CEO pay is mainly about ripping people off doesn't explain history very well."
+    },
+    {
+     "id": "P4S2",
+     "en": "By most measures, corporate governance has become a lot tighter and more rigorous since the 1970s."
+    },
+    {
+     "id": "P4S3",
+     "en": "Yet it is principally during this period of stronger governance that CEO pay has been high and rising."
+    },
+    {
+     "id": "P4S4",
+     "en": "That suggests it is in the broader corporate interest to recruit top candidates for increasingly tough jobs."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "Furthermore, the highest CEO salaries are paid to outside candidates, not to the cozy insider picks, another sign that high CEO pay is not some kind of depredation at the expense of the rest of the company. And the stock market reacts positively when companies tie CEO pay to, say, stock prices, a sign that those practices build up corporate value not just for the CEO.",
+   "zh": "此外，最高的CEO薪酬支付给外部候选人，而不是内部亲信人选，这是高CEO薪酬并非以牺牲公司其他部分为代价进行掠夺的另一个迹象。而且当公司将CEO薪酬与股价等指标挂钩时，股市会做出积极反应，这表明这些做法不仅为CEO，也为公司建立了企业价值。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "Furthermore, the highest CEO salaries are paid to outside candidates, not to the cozy insider picks, another sign that high CEO pay is not some kind of depredation at the expense of the rest of the company."
+    },
+    {
+     "id": "P5S2",
+     "en": "And the stock market reacts positively when companies tie CEO pay to, say, stock prices, a sign that those practices build up corporate value not just for the CEO."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 1,
+   "en": "It is true that CEO pay has gone up—top ones may make 300 times the pay of typical workers on average, and since the mid-1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%.",
+   "note": "形式主语+主语从句结构（Itistruethat...）和现在完成时搭配since时间状语是四六级和考研常考句式；并列主句结构也频繁出现在真题中；句式具有较强的代表性和可迁移性，掌握后可应用于大量类似句子。"
+  },
+  {
+   "para": 2,
+   "sent": 1,
+   "en": "The best model for understanding the growth of CEO pay is that of limited CEO talent in a world where business opportunities for the top firms are growing rapidly.",
+   "note": "主系表结构配合限制性定语从句是四六级和考研真题中的高频句式。表语中使用that指代、介词短语层层修饰以及定语从句限定先行词的手法，都是学术文章和说明文的典型特征。掌握此类句式可迁移至大量同类真题句子。"
+  },
+  {
+   "para": 2,
+   "sent": 3,
+   "en": "It's not popular to say, but one reason their pay has gone up so much is that CEOs really have upped their game relative to many other workers in the U.S. economy.",
+   "note": "转折并列句+定语从句（省略关系词）+表语从句的组合是四六级和考研阅读中的高频句式。主系表结构配合that引导的表语从句（reasonisthat）尤其常见。本句结构具有很强的代表性，掌握后可迁移到大量类似长难句。"
+  },
+  {
+   "para": 3,
+   "sent": 3,
+   "en": "They also need better public relations skills than their predecessors, as the costs of even a minor slipup can be significant.",
+   "note": "主句+原因状语从句的结构在四六级和考研阅读中较为常见，比较结构\"better...than\"也是高频考点，情态动词表推测是基础语法点。虽然这个句子本身不算特别复杂，但它展现的\"主句陈述+as引导原因\"这一模式具有较高的复用价值"
+  },
+  {
+   "para": 3,
+   "sent": 6,
+   "en": "Plus, virtually all major American companies are becoming tech companies, one way or another.",
+   "note": "主系表结构配合现在进行时是考试中常见的基础句型，\"bebecoming\"表达趋势变化的用法在四六级阅读和写作中频繁出现；句首副词\"Plus\"和句末状语\"onewayoranother\"的搭配也具有一定代表性，掌握后可迁移到类似表达中。"
+  },
+  {
+   "para": 3,
+   "sent": 7,
+   "en": "Beyond this, major CEOs still have to do all the day-to-day work they have always done.",
+   "note": "主句加限制性定语从句修饰宾语是四六级和考研阅读中的高频句式。定语从句省略关系代词的现象在真题中非常常见，学生掌握这种结构后可以大量复用到其他句子的理解中。句子结构简洁但典型，代表性强。"
+  },
+  {
+   "para": 4,
+   "sent": 3,
+   "en": "Yet it is principally during this period of stronger governance that CEO pay has been high and rising.",
+   "note": "强调句型\"Itis...that...\"是四六级和考研阅读中的高频句式，用于突出特定成分以形成对比或强调。本句的结构非常典型，掌握后可直接迁移到大量类似句子的分析中。"
+  },
+  {
+   "para": 4,
+   "sent": 4,
+   "en": "That suggests it is in the broader corporate interest to recruit top candidates for increasingly tough jobs.",
+   "note": "本句的结构(主句+宾语从句,宾语从句内使用形式主语it加不定式作真正主语)是考试阅读中的高频句式。形式主语结构和宾语从句省略that都是四六级和考研真题中反复出现的典型语法现象,掌握后可大量复用。"
+  },
+  {
+   "para": 5,
+   "sent": 1,
+   "en": "Furthermore, the highest CEO salaries are paid to outside candidates, not to the cozy insider picks, another sign that high CEO pay is not some kind of depredation at the expense of the rest of the company.",
+   "note": "本句成分丰富且层次清晰:主句包含被动语态谓语、主语、两个并列状语(\"tooutsidecandidates\"和\"nottothecozyinsiderpicks\")以及同位语;同位语从句内部有系表结构和较长的介词短语作定语;训练价值在于:被动语态中状语的识别(易与宾语混淆)、同位语从句的辨认(易与定语从句混淆)、系表结构中表语范围的划定(介词短语是否属于表语);这些都是学生常见的易错点"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "corporate",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "公司的",
+   "count": 5,
+   "freq": 31
+  },
+  {
+   "word": "economy",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "经济",
+   "count": 4,
+   "freq": 73
+  },
+  {
+   "word": "firm",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "坚固的",
+   "count": 3,
+   "freq": 66
+  },
+  {
+   "word": "major",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "主要的",
+   "count": 3,
+   "freq": 56
+  },
+  {
+   "word": "corporation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "公司，企业（尤指大型的、有限责任的）",
+   "count": 3,
+   "freq": 19
+  },
+  {
+   "word": "candidate",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "候选人",
+   "count": 3,
+   "freq": 13
+  },
+  {
+   "word": "governance",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "治理",
+   "count": 3,
+   "freq": 9
+  },
+  {
+   "word": "growth",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "增长",
+   "count": 2,
+   "freq": 80
+  },
+  {
+   "word": "better",
+   "level": "A1",
+   "pos": "adj.",
+   "cn": "更好的（good 的比较级）",
+   "count": 2,
+   "freq": 70
+  },
+  {
+   "word": "opportunity",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "机会",
+   "count": 2,
+   "freq": 50
+  },
+  {
+   "word": "sign",
+   "level": "A1",
+   "pos": "n.",
+   "cn": "标志",
+   "count": 2,
+   "freq": 42
+  },
+  {
+   "word": "tech",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "技术",
+   "count": 2,
+   "freq": 38
+  },
+  {
+   "word": "stock",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "库存",
+   "count": 2,
+   "freq": 22
+  },
+  {
+   "word": "typical",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "典型的",
+   "count": 2,
+   "freq": 14
+  },
+  {
+   "word": "would",
+   "level": "A1",
+   "pos": "aux.",
+   "cn": "（will 的过去式）将要，会",
+   "count": 1,
+   "freq": 304
+  },
+  {
+   "word": "system",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "系统",
+   "count": 1,
+   "freq": 107
+  },
+  {
+   "word": "following",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "接下来的",
+   "count": 1,
+   "freq": 91
+  },
+  {
+   "word": "measure",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "测量",
+   "count": 1,
+   "freq": 65
+  },
+  {
+   "word": "least",
+   "level": "A2",
+   "pos": "det.",
+   "cn": "最少的",
+   "count": 1,
+   "freq": 63
+  },
+  {
+   "word": "financial",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "财政的",
+   "count": 1,
+   "freq": 59
+  },
+  {
+   "word": "challenge",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "挑战",
+   "count": 1,
+   "freq": 57
+  },
+  {
+   "word": "million",
+   "level": "A2",
+   "pos": "num.",
+   "cn": "一百万",
+   "count": 1,
+   "freq": 57
+  },
+  {
+   "word": "average",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "平均的",
+   "count": 1,
+   "freq": 55
+  },
+  {
+   "word": "significant",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "重要的",
+   "count": 1,
+   "freq": 47
+  },
+  {
+   "word": "define",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "给……下定义",
+   "count": 1,
+   "freq": 46
+  },
+  {
+   "word": "global",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "全球的",
+   "count": 1,
+   "freq": 44
+  },
+  {
+   "word": "simply",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "仅仅，只不过",
+   "count": 1,
+   "freq": 43
+  },
+  {
+   "word": "increasingly",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "越来越;日益;不断增加地",
+   "count": 1,
+   "freq": 40
+  },
+  {
+   "word": "contribute",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "捐献",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "despite",
+   "level": "B1",
+   "pos": "prep.",
+   "cn": "尽管",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "status",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "地位",
+   "count": 1,
+   "freq": 29
+  },
+  {
+   "word": "boost",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "提高",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "strategy",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "策略",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "establish",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "建立，创立（组织、机构、关系等）",
+   "count": 1,
+   "freq": 27
+  },
+  {
+   "word": "mainly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "主要地",
+   "count": 1,
+   "freq": 26
+  },
+  {
+   "word": "broad",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "宽阔的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "efficiency",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "效率",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "tough",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "困难的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "estimate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "估计",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "limited",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "有限的",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "justify",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "证明…有道理",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "rapidly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "迅速地",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "warning",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "警告",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "conservative",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "保守的",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "cooperation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "合作",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "operate",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "运转",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "talent",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "天赋",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "trait",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "特征",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "element",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "要素",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "fairly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "相当",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "leading",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "最重要的",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "react",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "作出反应",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "opposition",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "反对",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "chain",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "链条",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "expense",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "花费",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "finance",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "财政",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "foster",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "培养",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "recruit",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "招募",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "suitable",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "合适的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "vary",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "不同",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "internal",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "内部的",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "positively",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "积极地",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "publicly",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "公开地",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "relative",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "亲戚，亲属",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "salary",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "薪水，工资（通常指按月发放的固定报酬）",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "virtually",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "几乎,差不多",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2020-english-two/section2-part-a-2/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-two/section2-part-a-2/"
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>点句翻译 · 考研英语二阅读精读</title>
+<!-- 内联 SVG 图标：避免请求 favicon.ico 产生 404 -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23c2410c'/%3E%3Ctext x='16' y='23' font-size='19' text-anchor='middle' fill='%23fff' font-family='sans-serif'%3E%E7%82%B9%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand"><span class="logo">点句</span><span class="brand-sub">翻译</span></div>
+
+  <div class="picker">
+    <label for="paper">篇目</label>
+    <select id="paper"></select>
+  </div>
+
+  <div class="actions">
+    <button id="btn-all-zh" class="btn" type="button">只看英文</button>
+    <a id="gh-link" class="gh-link" href="https://github.com/water-joe/dianju-fanyi"
+       target="_blank" rel="noopener noreferrer" title="在 GitHub 上查看源码" aria-label="GitHub 仓库">
+      <svg viewBox="0 0 16 16" width="18" height="18" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+    </a>
+  </div>
+</header>
+
+<div id="loading" class="loading">正在载入…</div>
+
+<main id="main" hidden>
+  <section class="passage-head">
+    <h1 id="p-title"></h1>
+    <p id="p-sub" class="sub"></p>
+    <p id="p-stats" class="stats"></p>
+    <p class="usage">点任意句子 → 就在句子下方展开<b>成分划分</b>；<span class="u-demo">带下划线</span>的是 PDF 精选真题精讲句；<b>加粗</b>词组可悬浮看释义。</p>
+  </section>
+
+  <div id="passage"></div>
+
+  <section class="vocab-sec">
+    <h2>真题高频词 <span id="vocab-count" class="muted"></span></h2>
+    <p class="muted hint">
+      词表取自 PDF 的「真题高频词」栏目。<b>加粗</b>词即出自本表。点击表头可排序，表格内可滚动。
+    </p>
+    <div class="vocab-tools">
+      <input id="vocab-filter" type="search" placeholder="筛选单词 / 释义…" autocomplete="off">
+    </div>
+    <div class="vocab-frame">
+      <div class="vocab-wrap">
+        <table id="vocab">
+          <thead>
+            <tr>
+              <th data-sort="word" class="sortable">单词</th>
+              <th data-sort="level" class="sortable">等级</th>
+              <th data-sort="pos" class="sortable">词性</th>
+              <th data-sort="cn" class="sortable">释义</th>
+              <th data-sort="count" class="sortable num">本篇</th>
+              <th data-sort="freq" class="sortable num">真题句频</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script src="data/library.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,616 @@
+{
+ "year": 2021,
+ "text": 1,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "\"Reskilling\" is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind. We know we are moving into a period where the jobs in demand will change rapidly, as will the requirements of the jobs that remain. Research by the World Economic Forum finds that on average 42 per cent of the \"core skills\" within job roles will change by 2022. That is a very short timeline.",
+   "zh": "\"再培训\"听起来像是一个流行词，但如果我们计划拥有一个不让大量潜在劳动者掉队的未来，它实际上是一项必需。我们知道我们正在进入一个需求岗位将快速变化的时期，现有岗位的要求也会随之变化。世界经济论坛的研究发现，到2022年，平均42%的岗位角色\"核心技能\"将发生变化。这是一个非常短的时间线。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "\"Reskilling\" is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind."
+    },
+    {
+     "id": "P1S2",
+     "en": "We know we are moving into a period where the jobs in demand will change rapidly, as will the requirements of the jobs that remain."
+    },
+    {
+     "id": "P1S3",
+     "en": "Research by the World Economic Forum finds that on average 42 per cent of the \"core skills\" within job roles will change by 2022."
+    },
+    {
+     "id": "P1S4",
+     "en": "That is a very short timeline."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "The question of who should pay for reskilling is a thorny one. For individual companies, the temptation is always to let go of workers whose skills are no longer in demand and replace them with those whose skills are. That does not always happen. AT&T is often given as the gold standard of a company who decided to do a massive reskilling program rather than go with a fire-and-hire strategy. Other companies including Amazon and Disney had also pledged to create their own plans. When the skills mismatch is in the broader economy though, the focus usually turns to government to handle. Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high.",
+   "zh": "谁应该为再培训买单是一个棘手的问题。对于单个公司而言，诱惑总是解雇技能不再有需求的员工，并用那些拥有所需技能的人取而代之。但情况并非总是如此。AT&T常被视为决定实施大规模再培训计划而非采取解雇再招聘策略的公司的黄金标准。包括亚马逊和迪士尼在内的其他公司也承诺制定自己的计划。然而，当技能不匹配出现在更广泛的经济领域时，焦点通常转向政府来处理。加拿大和其他地方的努力可以说充其量是疲软的，并给我们带来了这样一种局面:我们经常听到雇主恳求招工，即使是在失业率很高的时期和地区。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "The question of who should pay for reskilling is a thorny one."
+    },
+    {
+     "id": "P2S2",
+     "en": "For individual companies, the temptation is always to let go of workers whose skills are no longer in demand and replace them with those whose skills are."
+    },
+    {
+     "id": "P2S3",
+     "en": "That does not always happen."
+    },
+    {
+     "id": "P2S4",
+     "en": "AT&T is often given as the gold standard of a company who decided to do a massive reskilling program rather than go with a fire-and-hire strategy."
+    },
+    {
+     "id": "P2S5",
+     "en": "Other companies including Amazon and Disney had also pledged to create their own plans."
+    },
+    {
+     "id": "P2S6",
+     "en": "When the skills mismatch is in the broader economy though, the focus usually turns to government to handle."
+    },
+    {
+     "id": "P2S7",
+     "en": "Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "With the pandemic, unemployment is very high indeed. In February, at 3.5 per cent and 5.5 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere. As of May, those rates had spiked up to 13.3 per cent and 13.7 per cent, and although many worker shortages had disappeared, not all had done so. In the medical field, to take an obvious example, the pandemic meant that there were still clear shortages of doctors, nurses and other medical personnel.",
+   "zh": "随着疫情的到来，失业率确实非常高。2月份，加拿大和美国的失业率分别为3.5%和5.5%，处于几代人以来的最低水平，各地都出现了劳动力短缺。到5月份，这些比率已飙升至13.3%和13.7%，尽管许多劳动力短缺已经消失，但并非所有短缺都消失了。以医疗领域为例，疫情意味着医生、护士和其他医务人员仍然明显短缺。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "With the pandemic, unemployment is very high indeed."
+    },
+    {
+     "id": "P3S2",
+     "en": "In February, at 3.5 per cent and 5.5 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere."
+    },
+    {
+     "id": "P3S3",
+     "en": "As of May, those rates had spiked up to 13.3 per cent and 13.7 per cent, and although many worker shortages had disappeared, not all had done so."
+    },
+    {
+     "id": "P3S4",
+     "en": "In the medical field, to take an obvious example, the pandemic meant that there were still clear shortages of doctors, nurses and other medical personnel."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "Of course, it is not like you can take an unemployed waiter and train him to be a doctor in a few weeks, no matter who pays for it. But even if you cannot close that gap, maybe you can close others, and doing so would be to the benefit of all concerned. That seems to be the case in Sweden: When forced to furlough 90 per cent of their cabin staff, Scandinavian Airlines decided to start up a short retraining program that reskilled the laid-off workers to support hospital staff. The effort was a collective one and involved other companies as well as a Swedish university.",
+   "zh": "当然，你不可能在几周内把一个失业的服务员培训成医生，无论由谁买单。但即使你无法弥合那种差距，也许你可以弥合其他差距，而这样做将使所有相关方受益。瑞典的情况似乎就是如此:当被迫让90%的机舱乘务员休假时，斯堪的纳维亚航空公司决定启动一个短期再培训项目，对下岗员工进行再培训以支援医院工作人员。这项努力是集体性的，涉及其他公司以及一所瑞典大学。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "Of course, it is not like you can take an unemployed waiter and train him to be a doctor in a few weeks, no matter who pays for it."
+    },
+    {
+     "id": "P4S2",
+     "en": "But even if you cannot close that gap, maybe you can close others, and doing so would be to the benefit of all concerned."
+    },
+    {
+     "id": "P4S3",
+     "en": "That seems to be the case in Sweden: When forced to furlough 90 per cent of their cabin staff, Scandinavian Airlines decided to start up a short retraining program that reskilled the laid-off workers to support hospital staff."
+    },
+    {
+     "id": "P4S4",
+     "en": "The effort was a collective one and involved other companies as well as a Swedish university."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 2,
+   "en": "We know we are moving into a period where the jobs in demand will change rapidly, as will the requirements of the jobs that remain.",
+   "note": "全句覆盖主语、谓语、宾语、状语、定语等多种成分，且包含宾语从句充当宾语、定语从句修饰名词、状语从句修饰动作、介词短语作后置定语等多种典型结构。特别是状语从句中的倒装和承前省略、宾语从句省略引导词that、关系代词that在从句中充当主语等，都是常见易错点，训练价值较高。"
+  },
+  {
+   "para": 2,
+   "sent": 2,
+   "en": "For individual companies, the temptation is always to let go of workers whose skills are no longer in demand and replace them with those whose skills are.",
+   "note": "主系表结构加并列不定式作表语，搭配两个限制性定语从句形成对比，是四六级和考研阅读中常见的句式，对比结构和定语从句的嵌套使用具有很强的代表性和迁移性。"
+  },
+  {
+   "para": 2,
+   "sent": 4,
+   "en": "AT&T is often given as the gold standard of a company who decided to do a massive reskilling program rather than go with a fire-and-hire strategy.",
+   "note": "\"主句+限制性定语从句修饰宾语\"是四六级和考研阅读中的高频句式,被动语态搭配\"begivenas\"以及定语从句中的不定式宾语也是常见考点。本句结构具有较强的代表性和迁移价值。"
+  },
+  {
+   "para": 2,
+   "sent": 5,
+   "en": "Other companies including Amazon and Disney had also pledged to create their own plans.",
+   "note": "主谓宾结构是英语最常见的基本句型，过去完成时在真题叙述中也常出现。主语带后置定语、不定式作宾语都是典型用法，学习后可迁移到同类句子。但因过于基础，代表性中等。"
+  },
+  {
+   "para": 2,
+   "sent": 7,
+   "en": "Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high.",
+   "note": "主句包含并列谓语、系表结构、双宾语结构，第一个定语从句包含频率状语、介词宾语及宾语补足语，第二个定语从句包含系表结构，成分种类丰富。关系副词where在两个从句中既作连接词又作地点状语，易与关系代词混淆。并列谓语和双宾语结构都是学生容易混淆的点，练习价值较高。"
+  },
+  {
+   "para": 3,
+   "sent": 1,
+   "en": "With the pandemic, unemployment is very high indeed.",
+   "note": "主系表结构在英语中非常常见，介词短语作状语也是高频句式。虽然本句较短且简单，但这种结构在四六级和考研阅读中经常出现，具有一定的典型性和迁移价值。"
+  },
+  {
+   "para": 3,
+   "sent": 3,
+   "en": "As of May, those rates had spiked up to 13.3 per cent and 13.7 per cent, and although many worker shortages had disappeared, not all had done so.",
+   "note": "并列复合句加让步状语从句是四六级和考研阅读中的常见句式,过去完成时也是常考时态。\"although\"引导让步从句、\"and\"连接并列主句、代动词\"do\"避免重复,这些都是典型的书面语结构。本句结构具有较强的代表性,掌握后可以迁移到大量类似的复合句分析中,对提升阅读理解能力有实际帮助。"
+  },
+  {
+   "para": 4,
+   "sent": 1,
+   "en": "Of course, it is not like you can take an unemployed waiter and train him to be a doctor in a few weeks, no matter who pays for it.",
+   "note": "句子成分丰富：形式主语、表语从句、并列谓语、宾语补足语、时间状语、让步状语，覆盖多种成分类型。特别是形式主语\"it\"和并列谓语\"cantake...andtrain\"是易错点，适合作为划分练习句。"
+  },
+  {
+   "para": 4,
+   "sent": 2,
+   "en": "But even if you cannot close that gap, maybe you can close others, and doing so would be to the benefit of all concerned.",
+   "note": "本句涵盖主语、谓语、宾语、表语、状语从句等多种成分,且出现动名词短语作主语\"doingso\"、介词短语作表语\"tothebenefitofallconcerned\"、让步状语从句等较丰富的结构,适合练习成分识别和从句定位,具有较好的训练价值。"
+  },
+  {
+   "para": 4,
+   "sent": 3,
+   "en": "That seems to be the case in Sweden: When forced to furlough 90 per cent of their cabin staff, Scandinavian Airlines decided to start up a short retraining program that reskilled the laid-off workers to support hospital staff.",
+   "note": "全句涵盖了主谓宾、主系表、状语从句、定语从句、目的状语、宾语补足语等多种成分，且状语从句中的省略结构（\"Whenforced...\"）和定语从句中的关系代词作主语（\"thatreskilled...\"）都是常见易错点。适合作为成分划分练习句，能训练多个知识点。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "per",
+   "level": "B1",
+   "pos": "prep.",
+   "cn": "每",
+   "count": 6,
+   "freq": 27
+  },
+  {
+   "word": "staff",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "全体员工",
+   "count": 5,
+   "freq": 21
+  },
+  {
+   "word": "economic",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "经济的",
+   "count": 3,
+   "freq": 98
+  },
+  {
+   "word": "demand",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "坚决要求",
+   "count": 3,
+   "freq": 63
+  },
+  {
+   "word": "shortage",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "短缺",
+   "count": 3,
+   "freq": 17
+  },
+  {
+   "word": "unemployment",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "失业（状态）",
+   "count": 3,
+   "freq": 16
+  },
+  {
+   "word": "would",
+   "level": "A1",
+   "pos": "aux.",
+   "cn": "（will 的过去式）将要，会",
+   "count": 2,
+   "freq": 304
+  },
+  {
+   "word": "support",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "支持",
+   "count": 2,
+   "freq": 87
+  },
+  {
+   "word": "rate",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "速度",
+   "count": 2,
+   "freq": 72
+  },
+  {
+   "word": "strategy",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "策略",
+   "count": 2,
+   "freq": 28
+  },
+  {
+   "word": "requirement",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "要求",
+   "count": 2,
+   "freq": 26
+  },
+  {
+   "word": "core",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "核心",
+   "count": 2,
+   "freq": 12
+  },
+  {
+   "word": "unemployed",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "失业的",
+   "count": 2,
+   "freq": 12
+  },
+  {
+   "word": "benefit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "好处",
+   "count": 1,
+   "freq": 88
+  },
+  {
+   "word": "growth",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "增长",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "focus",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "重点",
+   "count": 1,
+   "freq": 77
+  },
+  {
+   "word": "case",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "情况",
+   "count": 1,
+   "freq": 75
+  },
+  {
+   "word": "economy",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "经济",
+   "count": 1,
+   "freq": 73
+  },
+  {
+   "word": "policy",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "政策",
+   "count": 1,
+   "freq": 69
+  },
+  {
+   "word": "involve",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "包含",
+   "count": 1,
+   "freq": 61
+  },
+  {
+   "word": "individual",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "单独的",
+   "count": 1,
+   "freq": 59
+  },
+  {
+   "word": "average",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "平均的",
+   "count": 1,
+   "freq": 55
+  },
+  {
+   "word": "united",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "联合的",
+   "count": 1,
+   "freq": 52
+  },
+  {
+   "word": "opportunity",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "机会",
+   "count": 1,
+   "freq": 50
+  },
+  {
+   "word": "gap",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "间隙",
+   "count": 1,
+   "freq": 45
+  },
+  {
+   "word": "actually",
+   "level": "A2",
+   "pos": "adv.",
+   "cn": "实际上，事实上（用于纠正或补充信息）",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "sign",
+   "level": "A1",
+   "pos": "n.",
+   "cn": "标志",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "states",
+   "level": "A1",
+   "pos": "n.",
+   "cn": "国家",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "lack",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "缺少",
+   "count": 1,
+   "freq": 41
+  },
+  {
+   "word": "importance",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "重要性",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "replace",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "替换，更换（用新的代替旧的）",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "employment",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "工作",
+   "count": 1,
+   "freq": 29
+  },
+  {
+   "word": "cite",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "引用，引证",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "employer",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "雇主",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "indeed",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "确实，的确（强调肯定）",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "broad",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "宽阔的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "concerned",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "担心的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "handle",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "处理",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "frequently",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "频繁地",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "obvious",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "明显的",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "rapidly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "迅速地",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "characteristic",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "特征",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "elsewhere",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "在别处",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "region",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "地区",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "collective",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "集体的",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "immediate",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "立即的，即刻的",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "massive",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "巨大的，大量的",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "alternative",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "可供选择的事物",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "controversy",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "争议",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "opposition",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "反对",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "recovery",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "恢复",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "urgent",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "紧急的，急迫的",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "disappear",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "消失;不见",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "finance",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "财政",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "resolve",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "解决（问题、困难）",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2021-english-two/section2-part-a-1/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2021-english-two/section2-part-a-1/"
+}

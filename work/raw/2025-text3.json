@@ -1,0 +1,668 @@
+{
+ "year": 2025,
+ "text": 3,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "Heat action plans, or HAPs, have been proliferating in India in the past few years. In general, an HAP spells out when and how officials should issue heat warnings and alert hospitals and other institutions. Nagpur's plan, for instance, calls for hospitals to set aside \"cold wards\" in the summer for treating heatstroke patients, and advises builders to give construction laborers a break from work on very hot days.",
+   "zh": "近年来，高温行动计划(HAPs)在印度迅速普及。一般来说，高温行动计划明确规定了官员应何时以及如何发布高温警报并提醒医院和其他机构。例如，那格浦尔的计划要求医院在夏季预留\"降温病房\"用于治疗中暑患者，并建议建筑商在酷热天气让建筑工人停工休息。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "Heat action plans, or HAPs, have been proliferating in India in the past few years."
+    },
+    {
+     "id": "P1S2",
+     "en": "In general, an HAP spells out when and how officials should issue heat warnings and alert hospitals and other institutions."
+    },
+    {
+     "id": "P1S3",
+     "en": "Nagpur's plan, for instance, calls for hospitals to set aside \"cold wards\" in the summer for treating heatstroke patients, and advises builders to give construction laborers a break from work on very hot days."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "But implementation of existing HAPs has been uneven, according to a report from the Centre for Policy Research. Many lack adequate funding, it found. And their triggering thresholds often are not customized to the local climate. In some areas, high daytime temperatures alone might serve as an adequate trigger for alerts. But in other places, nighttime temperatures or humidity might be as important a gauge of risk as daytime highs.",
+   "zh": "但根据政策研究中心的一份报告，现有高温行动计划的实施情况参差不齐。报告发现，许多计划缺乏充足的资金。而且它们的触发阈值往往没有根据当地气候进行定制。在某些地区，仅白天的高温就可以作为发布警报的充分触发条件。但在其他地方，夜间温度或湿度可能与白天高温一样，都是风险的重要衡量指标。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "But implementation of existing HAPs has been uneven, according to a report from the Centre for Policy Research."
+    },
+    {
+     "id": "P2S2",
+     "en": "Many lack adequate funding, it found."
+    },
+    {
+     "id": "P2S3",
+     "en": "And their triggering thresholds often are not customized to the local climate."
+    },
+    {
+     "id": "P2S4",
+     "en": "In some areas, high daytime temperatures alone might serve as an adequate trigger for alerts."
+    },
+    {
+     "id": "P2S5",
+     "en": "But in other places, nighttime temperatures or humidity might be as important a gauge of risk as daytime highs."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "Mumbai's April heatstroke deaths highlighted the need for more nuanced and localized warnings, researchers say. That day's high temperature of roughly 36°C was 1°C shy of the heat wave alert threshold for coastal cities set by national meteorological authorities. But the effects of the heat were amplified by humidity—an often neglected factor in heat alert systems—and the lack of shade at the late-morning outdoor ceremony.",
+   "zh": "研究人员表示，孟买四月份的中暑死亡事件凸显了制定更细致和本地化预警的必要性。当天约36°C的最高气温比国家气象部门为沿海城市设定的热浪警报阈值低1°C。但高温的影响因湿度而被放大——这是高温警报系统中经常被忽视的因素——以及上午晚些时候户外仪式缺乏遮阴。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "Mumbai's April heatstroke deaths highlighted the need for more nuanced and localized warnings, researchers say."
+    },
+    {
+     "id": "P3S2",
+     "en": "That day's high temperature of roughly 36°C was 1°C shy of the heat wave alert threshold for coastal cities set by national meteorological authorities."
+    },
+    {
+     "id": "P3S3",
+     "en": "But the effects of the heat were amplified by humidity—an often neglected factor in heat alert systems—and the lack of shade at the late-morning outdoor ceremony."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "To help improve HAPs, urban planner Rajashree Kotharkar's team is working on a model plan that outlines best practices and could be adapted to local conditions. Among other things, she says, all cities should create a vulnerability map to help focus responses on the populations most at risk.",
+   "zh": "为了帮助改进高温行动计划，城市规划师RajashreeKotharkar的团队正在制定一个示范计划，概述最佳实践并可根据当地条件进行调整。她说，除其他事项外，所有城市都应该绘制脆弱性地图，以帮助将应对措施集中在风险最高的人群上。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "To help improve HAPs, urban planner Rajashree Kotharkar's team is working on a model plan that outlines best practices and could be adapted to local conditions."
+    },
+    {
+     "id": "P4S2",
+     "en": "Among other things, she says, all cities should create a vulnerability map to help focus responses on the populations most at risk."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "Such mapping doesn't need to be complex, Kotharkar says. \"A useful map can be created by looking at even a few key parameters.\" For example, neighborhoods with a large elderly population or informal dwellings that cope poorly with heat could get special warnings or be bolstered with cooling centers. The Nagpur project has already created a risk and vulnerability map, which enabled Kotharkar to tell officials which neighborhoods to focus on in the event of a heat wave this summer.",
+   "zh": "Kotharkar说，这种地图绘制不需要很复杂。\"只需查看几个关键参数就可以创建一张有用的地图。\"例如，老年人口较多或非正式住所不能很好应对高温的社区可以获得特别警报或通过设立降温中心得到加强。那格浦尔项目已经创建了一张风险和脆弱性地图，这使Kotharkar能够告诉官员在今年夏季发生热浪时应关注哪些社区。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "Such mapping doesn't need to be complex, Kotharkar says."
+    },
+    {
+     "id": "P5S2",
+     "en": "\"A useful map can be created by looking at even a few key parameters.\""
+    },
+    {
+     "id": "P5S3",
+     "en": "For example, neighborhoods with a large elderly population or informal dwellings that cope poorly with heat could get special warnings or be bolstered with cooling centers."
+    },
+    {
+     "id": "P5S4",
+     "en": "The Nagpur project has already created a risk and vulnerability map, which enabled Kotharkar to tell officials which neighborhoods to focus on in the event of a heat wave this summer."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "en": "HAPs shouldn't just include short-term emergency responses, researchers say, but also recommend medium- to long-term measures that could make communities cooler. In Nagpur, for example, Kotharkar's team has been able to advise city officials about where to plant trees to provide shade. HAPs could also guide efforts to retrofit homes or modify building regulations. \"Reducing deaths in an emergency is a good target to have, but it's the lowest target,\" says climate researcher Chandni Singh.",
+   "zh": "研究人员表示，高温行动计划不应仅包括短期应急响应，还应推荐可使社区更凉爽的中长期措施。例如在那格浦尔，Kotharkar的团队已能够就在哪里种植树木以提供遮阴向市政官员提供建议。高温行动计划还可以指导房屋改造或修改建筑法规的工作。气候研究员ChandniSingh说:\"在紧急情况下减少死亡是一个值得追求的目标，但这是最低目标。",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "HAPs shouldn't just include short-term emergency responses, researchers say, but also recommend medium- to long-term measures that could make communities cooler."
+    },
+    {
+     "id": "P6S2",
+     "en": "In Nagpur, for example, Kotharkar's team has been able to advise city officials about where to plant trees to provide shade."
+    },
+    {
+     "id": "P6S3",
+     "en": "HAPs could also guide efforts to retrofit homes or modify building regulations."
+    },
+    {
+     "id": "P6S4",
+     "en": "\"Reducing deaths in an emergency is a good target to have, but it's the lowest target,\" says climate researcher Chandni Singh."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 2,
+   "en": "In general, an HAP spells out when and how officials should issue heat warnings and alert hospitals and other institutions.",
+   "note": "宾语从句由疑问词引导、短语动词作谓语、从句内并列谓语结构,都是四六级和考研阅读中的常见句式,尤其是间接疑问句作宾语的结构出现频率高,学习后可广泛迁移到其他类似句子。"
+  },
+  {
+   "para": 1,
+   "sent": 3,
+   "en": "Nagpur's plan, for instance, calls for hospitals to set aside \"cold wards\" in the summer for treating heatstroke patients, and advises builders to give construction laborers a break from work on very hot days.",
+   "note": "“主语加并列谓语，后接较长补足结构”是说明文和新闻写作里很常见的句式。掌握这种句子后，处理同类的政策、计划、建议类表达会很有迁移性。"
+  },
+  {
+   "para": 2,
+   "sent": 5,
+   "en": "But in other places, nighttime temperatures or humidity might be as important a gauge of risk as daytime highs.",
+   "note": "主系表结构配合比较状语从句是四六级和考研阅读中的常见句式，\"as...as\"比较结构及其省略用法是高频考点。并列主语和前置状语也是典型特征。句式简洁但代表性强，掌握后可迁移到大量类似比较句和主系表句的分析。"
+  },
+  {
+   "para": 4,
+   "sent": 1,
+   "en": "To help improve HAPs, urban planner Rajashree Kotharkar's team is working on a model plan that outlines best practices and could be adapted to local conditions.",
+   "note": "本句体现了四六级和考研真题中的典型结构:主句包含定语从句修饰宾语,从句内使用并列谓语和情态被动结构。这种嵌套修饰和情态表达在学术文本和考试中极为常见,掌握后可广泛应用"
+  },
+  {
+   "para": 5,
+   "sent": 3,
+   "en": "For example, neighborhoods with a large elderly population or informal dwellings that cope poorly with heat could get special warnings or be bolstered with cooling centers.",
+   "note": "本句主干识别有一定难度但不算极端,嵌套层级适中,时态语态涉及情态动词和主被动并列,成分丰富且包含常见易错点,结构在考试中高度典型。综合来看,这是一个难度适中、训练价值高、结构代表性强的优质练习句,值得优先用于结构和时态训练。"
+  },
+  {
+   "para": 5,
+   "sent": 4,
+   "en": "The Nagpur project has already created a risk and vulnerability map, which enabled Kotharkar to tell officials which neighborhoods to focus on in the event of a heat wave this summer.",
+   "note": "非限制性定语从句补充说明、\"enablesbtodo\"结构、\"疑问词+todo\"作宾语从句,都是四六级和考研阅读中的高频句式,掌握后可大量复用于长难句分析"
+  },
+  {
+   "para": 6,
+   "sent": 2,
+   "en": "In Nagpur, for example, Kotharkar's team has been able to advise city officials about where to plant trees to provide shade.",
+   "note": "本句涵盖主语、谓语、宾语、地点状语、插入语和介词短语作状语，成分种类较为丰富；特别是\"aboutwheretoplanttreestoprovideshade\"这一多层嵌套的介词短语，可用于训练学生识别疑问词不定式结构和目的状语，具有一定练习价值。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "alert",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "警觉的",
+   "count": 5,
+   "freq": 10
+  },
+  {
+   "word": "researcher",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "研究人员",
+   "count": 4,
+   "freq": 112
+  },
+  {
+   "word": "wave",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "波浪",
+   "count": 4,
+   "freq": 18
+  },
+  {
+   "word": "focus",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "重点",
+   "count": 3,
+   "freq": 77
+  },
+  {
+   "word": "local",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "当地的",
+   "count": 3,
+   "freq": 65
+  },
+  {
+   "word": "risk",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "风险",
+   "count": 3,
+   "freq": 62
+  },
+  {
+   "word": "official",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "官方的",
+   "count": 3,
+   "freq": 42
+  },
+  {
+   "word": "response",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "回答",
+   "count": 3,
+   "freq": 37
+  },
+  {
+   "word": "according",
+   "level": "B1",
+   "pos": "prep.",
+   "cn": "根据",
+   "count": 3,
+   "freq": 35
+  },
+  {
+   "word": "target",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "目标;靶子",
+   "count": 3,
+   "freq": 29
+  },
+  {
+   "word": "warning",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "警告",
+   "count": 3,
+   "freq": 17
+  },
+  {
+   "word": "system",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "系统",
+   "count": 2,
+   "freq": 107
+  },
+  {
+   "word": "measure",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "测量",
+   "count": 2,
+   "freq": 65
+  },
+  {
+   "word": "climate",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "气候",
+   "count": 2,
+   "freq": 50
+  },
+  {
+   "word": "factor",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "因素",
+   "count": 2,
+   "freq": 47
+  },
+  {
+   "word": "lack",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "缺少",
+   "count": 2,
+   "freq": 41
+  },
+  {
+   "word": "project",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "项目",
+   "count": 2,
+   "freq": 40
+  },
+  {
+   "word": "authority",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "权力",
+   "count": 2,
+   "freq": 33
+  },
+  {
+   "word": "neighborhood",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "街区",
+   "count": 2,
+   "freq": 14
+  },
+  {
+   "word": "existing",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "现有的",
+   "count": 2,
+   "freq": 10
+  },
+  {
+   "word": "trigger",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "引发",
+   "count": 2,
+   "freq": 10
+  },
+  {
+   "word": "adequate",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "足够的，充分的",
+   "count": 2,
+   "freq": 8
+  },
+  {
+   "word": "issue",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "问题",
+   "count": 1,
+   "freq": 89
+  },
+  {
+   "word": "support",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "支持",
+   "count": 1,
+   "freq": 87
+  },
+  {
+   "word": "effect",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "影响",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "case",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "情况",
+   "count": 1,
+   "freq": 75
+  },
+  {
+   "word": "reduce",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "减少，降低（数量、大小、程度等）",
+   "count": 1,
+   "freq": 75
+  },
+  {
+   "word": "community",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "社区",
+   "count": 1,
+   "freq": 71
+  },
+  {
+   "word": "policy",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "政策",
+   "count": 1,
+   "freq": 69
+  },
+  {
+   "word": "pressure",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "心理压力",
+   "count": 1,
+   "freq": 55
+  },
+  {
+   "word": "account",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "账户",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "institution",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "机构",
+   "count": 1,
+   "freq": 39
+  },
+  {
+   "word": "event",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "事件",
+   "count": 1,
+   "freq": 36
+  },
+  {
+   "word": "medium",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "中等的",
+   "count": 1,
+   "freq": 35
+  },
+  {
+   "word": "further",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "更远地",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "apply",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "申请",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "complex",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "复杂的，难懂的",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "funding",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "资金",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "range",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "范围",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "regulation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "规则，条例",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "construction",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "建造",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "broad",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "宽阔的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "harm",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "伤害",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "propose",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "提议",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "expand",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "扩大;扩展;增长",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "recommend",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "推荐",
+   "count": 1,
+   "freq": 18
+  },
+  {
+   "word": "grant",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "授予",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "instance",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "例子",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "centre",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "中心;中央",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "highlight",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "最精彩的部分",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "urban",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "城市的，都市的",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "enable",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "使能够",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "cope",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "应对",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "guide",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "指南;手册",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "roughly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "大约，大概",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "adapt",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "适应，适合（新环境、新情况）",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "costly",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "昂贵的，代价高的",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "subtle",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "微妙的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "implement",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "实施",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "outline",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "概要",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "prioritize",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "优先处理",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2025-english-two/section2-part-a-3/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2025-english-two/section2-part-a-3/"
+}

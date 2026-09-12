@@ -1,0 +1,750 @@
+{
+ "year": 2026,
+ "text": 2,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "According to our research, around one in five workers in the UK talk to AI like a friend, looking for guidance on personal and professional problems. Our data shows that engaging with AI like this can leave us feeling heard and less isolated. But, with this newfound connection, many of us share sensitive, sometimes highly confidential information, even though over a third of people don't realise that AI platforms may not be very good at keeping our secrets…secret.",
+   "zh": "根据我们的研究，英国约有五分之一的员工像朋友一样与AI交谈，在个人和职业问题上寻求指导。我们的数据显示，以这种方式与AI互动可以让我们感到被倾听，减少孤独感。但是，随着这种新建立的联系，我们中的许多人分享了敏感的、有时是高度机密的信息，尽管超过三分之一的人没有意识到AI平台可能并不擅长保守我们的秘密……秘密。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "According to our research, around one in five workers in the UK talk to AI like a friend, looking for guidance on personal and professional problems."
+    },
+    {
+     "id": "P1S2",
+     "en": "Our data shows that engaging with AI like this can leave us feeling heard and less isolated."
+    },
+    {
+     "id": "P1S3",
+     "en": "But, with this newfound connection, many of us share sensitive, sometimes highly confidential information, even though over a third of people don't realise that AI platforms may not be very good at keeping our secrets…secret."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "For businesses, the implications are worrying. Consider Microsoft Copilot, for example. It gains Microsoft broad rights to the data inputted or outputted by any user — rights to use this data in any way it sees fit; it can even share it with third parties. This means that any sensitive business information could potentially be exposed to the world. Employers are taking note and taking action. According to our research, 25% have decided to either outright ban AI or regulate its use within their organisations. But even with these policies in place, some employees choose to break the rules. They have their reasons — around 63% of them report that using AI increases their productivity, and some even feel AI offers more help than their human colleagues.",
+   "zh": "对企业而言，这种影响令人担忧。以MicrosoftCopilot为例，它使Microsoft获得对任何用户输入或输出数据的广泛权利——以其认为合适的任何方式使用这些数据的权利；它甚至可以与第三方分享这些数据。这意味着任何敏感的商业信息都可能暴露给全世界。雇主们注意到了这一点并采取了行动。根据我们的研究，25%的雇主决定完全禁止AI或规范其在组织内的使用。但即使有这些政策，一些员工仍选择违反规定。他们有自己的理由——约63%的员工报告称使用AI提高了他们的生产力，有些人甚至觉得AI比他们的人类同事提供更多帮助。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "For businesses, the implications are worrying."
+    },
+    {
+     "id": "P2S2",
+     "en": "Consider Microsoft Copilot, for example."
+    },
+    {
+     "id": "P2S3",
+     "en": "It gains Microsoft broad rights to the data inputted or outputted by any user — rights to use this data in any way it sees fit; it can even share it with third parties."
+    },
+    {
+     "id": "P2S4",
+     "en": "This means that any sensitive business information could potentially be exposed to the world."
+    },
+    {
+     "id": "P2S5",
+     "en": "Employers are taking note and taking action."
+    },
+    {
+     "id": "P2S6",
+     "en": "According to our research, 25% have decided to either outright ban AI or regulate its use within their organisations."
+    },
+    {
+     "id": "P2S7",
+     "en": "But even with these policies in place, some employees choose to break the rules."
+    },
+    {
+     "id": "P2S8",
+     "en": "They have their reasons — around 63% of them report that using AI increases their productivity, and some even feel AI offers more help than their human colleagues."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "The situation presents a delicate balance between leveraging AI for its productivity gains and risking confidential data exposure. Employers need to manage AI tools with the same level of care as any other form of data sharing or storage. There's also a knowledge gap that needs to be addressed — 40% of individuals surveyed are unsure about who retains ownership over the content produced by AI. By instilling best practices in AI engagement and creating policies that evolve with the technology, businesses can positively shift the AI landscape.",
+   "zh": "这种情况需要在利用AI提高生产力和冒机密数据泄露风险之间保持微妙的平衡。雇主需要像管理任何其他形式的数据共享或存储一样谨慎地管理AI工具。还有一个知识差距需要解决——受访者中有40%不确定谁保留AI生成内容的所有权。通过灌输AI使用的最佳实践并制定随技术发展而演变的政策，企业可以积极改变AI格局。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "The situation presents a delicate balance between leveraging AI for its productivity gains and risking confidential data exposure."
+    },
+    {
+     "id": "P3S2",
+     "en": "Employers need to manage AI tools with the same level of care as any other form of data sharing or storage."
+    },
+    {
+     "id": "P3S3",
+     "en": "There's also a knowledge gap that needs to be addressed — 40% of individuals surveyed are unsure about who retains ownership over the content produced by AI."
+    },
+    {
+     "id": "P3S4",
+     "en": "By instilling best practices in AI engagement and creating policies that evolve with the technology, businesses can positively shift the AI landscape."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "With AI's potential to simplify our professional lives, do the admin and enhance the work experience, it's up to us to navigate its usage cautiously so it supports us without compromising our privacy. There's no need to back away from progress, as long as we're equipped with the knowledge and tools to make sure AI remains a friend. And this is where the challenge lies. There are so many products out there, being promoted with huge advertising and marketing budgets, that it's easy to fall victim. But by building a culture of digital responsibility within our businesses, we can create a future where AI can help us without spilling the beans.",
+   "zh": "鉴于AI简化我们职业生活、处理行政事务并提升工作体验的潜力，我们有责任谨慎使用它，使其在不损害我们隐私的情况下为我们提供支持。没有必要退避进步，只要我们具备确保AI保持友好的知识和工具。而这正是挑战所在。市场上有如此多的产品，用巨额的广告和营销预算进行推广，很容易成为受害者。但通过在我们的企业中建立数字责任文化，我们可以创造一个AI能够在不泄露秘密的情况下帮助我们的未来。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "With AI's potential to simplify our professional lives, do the admin and enhance the work experience, it's up to us to navigate its usage cautiously so it supports us without compromising our privacy."
+    },
+    {
+     "id": "P4S2",
+     "en": "There's no need to back away from progress, as long as we're equipped with the knowledge and tools to make sure AI remains a friend."
+    },
+    {
+     "id": "P4S3",
+     "en": "And this is where the challenge lies."
+    },
+    {
+     "id": "P4S4",
+     "en": "There are so many products out there, being promoted with huge advertising and marketing budgets, that it's easy to fall victim."
+    },
+    {
+     "id": "P4S5",
+     "en": "But by building a culture of digital responsibility within our businesses, we can create a future where AI can help us without spilling the beans."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 1,
+   "en": "According to our research, around one in five workers in the UK talk to AI like a friend, looking for guidance on personal and professional problems.",
+   "note": "\"主语+谓语+状语\"配分词短语作状语的结构，在四六级和考研阅读中高频出现；句首介词短语引出信息来源、句末分词短语补充伴随动作或目的，是学术和新闻语体的典型句式，掌握后可广泛迁移。"
+  },
+  {
+   "para": 1,
+   "sent": 3,
+   "en": "But, with this newfound connection, many of us share sensitive, sometimes highly confidential information, even though over a third of people don't realise that AI platforms may not be very good at keeping our secrets…secret.",
+   "note": "本句在成分丰富度、结构典型性和实用性方面得分较高，适合作为让步状语从句和从句嵌套的练习材料。主干识别有一定挑战但不至于过难，时态语态相对基础，整体平衡了难度和训练价值，推荐作为中等偏上难度的结构分析练习句。"
+  },
+  {
+   "para": 2,
+   "sent": 3,
+   "en": "It gains Microsoft broad rights to the data inputted or outputted by any user — rights to use this data in any way it sees fit; it can even share it with third parties.",
+   "note": "本句涵盖了双宾语结构（\"gainsMicrosoftbroadrights\"）、定语（介词短语、不定式短语、定语从句）、同位语、状语等多种成分，且定语从句省略引导词、破折号引出同位语等都是易错点。此外，\"itseesfit\"中\"fit\"作补语、\"canshare\"中\"even\"的位置等细节也值得练习。成分种类较丰富，适合作为综合练习句。"
+  },
+  {
+   "para": 2,
+   "sent": 4,
+   "en": "This means that any sensitive business information could potentially be exposed to the world.",
+   "note": "\"主句+that宾语从句\"是四六级和考研阅读中的高频句式，且从句内含情态+被动结构也是常考点，典型性较高，掌握后可广泛复用。"
+  },
+  {
+   "para": 2,
+   "sent": 8,
+   "en": "They have their reasons — around 63% of them report that using AI increases their productivity, and some even feel AI offers more help than their human colleagues.",
+   "note": "本句的\"主句+破折号+并列主句(各带宾语从句)\"结构在四六级和考研阅读中非常常见,尤其是用破折号或冒号来补充解释前文的写法,以及多个并列主句通过and连接、各自带宾语从句展开的平行结构,都是典型的学术或新闻文体句式,学习价值较高"
+  },
+  {
+   "para": 3,
+   "sent": 2,
+   "en": "Employers need to manage AI tools with the same level of care as any other form of data sharing or storage.",
+   "note": "thesame...as比较结构在四六级和考研阅读中频繁出现,且本句将比较结构嵌入方式状语的用法也较为典型,学生掌握后可迁移到大量类似句式,具有较高的代表性和实用性"
+  },
+  {
+   "para": 3,
+   "sent": 3,
+   "en": "There's also a knowledge gap that needs to be addressed — 40% of individuals surveyed are unsure about who retains ownership over the content produced by AI.",
+   "note": "结构具有高度典型性。破折号连接并列主句进行解释说明,存在句表达客观事实,定语从句修饰名词,宾语从句作介词宾语,都是四六级和考研真题中频繁出现的标准句式。掌握本句结构后可直接迁移到大量类似题目"
+  },
+  {
+   "para": 4,
+   "sent": 1,
+   "en": "With AI's potential to simplify our professional lives, do the admin and enhance the work experience, it's up to us to navigate its usage cautiously so it supports us without compromising our privacy.",
+   "note": "\"Itis+表语+todo\"的形式主语结构和\"so(that)+从句\"表示目的或结果是四六级和考研中的高频句式。with引导的伴随状语也较常见。整体结构具有较强的代表性，掌握后可应用于多种场景。"
+  },
+  {
+   "para": 4,
+   "sent": 2,
+   "en": "There's no need to back away from progress, as long as we're equipped with the knowledge and tools to make sure AI remains a friend.",
+   "note": "本句为典型的主从复合句结构，包含条件状语从句和宾语从句的嵌套，符合四六级和考研阅读中常见的论证句式；\"aslongas\"引导条件从句、\"makesure\"后接宾语从句、被动语态\"beequippedwith\"等均为高频结构，代表性强，学习后可大量复用。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "data",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "数据",
+   "count": 6,
+   "freq": 80
+  },
+  {
+   "word": "accord",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "（国家、团体间的）协议",
+   "count": 4,
+   "freq": 172
+  },
+  {
+   "word": "employee",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "雇员，员工",
+   "count": 3,
+   "freq": 32
+  },
+  {
+   "word": "support",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "支持",
+   "count": 2,
+   "freq": 87
+  },
+  {
+   "word": "product",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "产品",
+   "count": 2,
+   "freq": 77
+  },
+  {
+   "word": "policy",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "政策",
+   "count": 2,
+   "freq": 69
+  },
+  {
+   "word": "professional",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "专业的",
+   "count": 2,
+   "freq": 46
+  },
+  {
+   "word": "gain",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "获得;赢得",
+   "count": 2,
+   "freq": 43
+  },
+  {
+   "word": "productivity",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "生产率",
+   "count": 2,
+   "freq": 36
+  },
+  {
+   "word": "content",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "内容",
+   "count": 2,
+   "freq": 31
+  },
+  {
+   "word": "shift",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "移动",
+   "count": 2,
+   "freq": 31
+  },
+  {
+   "word": "landscape",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "风景",
+   "count": 2,
+   "freq": 29
+  },
+  {
+   "word": "employer",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "雇主",
+   "count": 2,
+   "freq": 24
+  },
+  {
+   "word": "sensitive",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "敏感的",
+   "count": 2,
+   "freq": 21
+  },
+  {
+   "word": "expose",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "使暴露",
+   "count": 2,
+   "freq": 17
+  },
+  {
+   "word": "engagement",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "约定",
+   "count": 2,
+   "freq": 10
+  },
+  {
+   "word": "positively",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "积极地",
+   "count": 2,
+   "freq": 8
+  },
+  {
+   "word": "less",
+   "level": "A1",
+   "pos": "det.",
+   "cn": "较少的",
+   "count": 1,
+   "freq": 150
+  },
+  {
+   "word": "economic",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "经济的",
+   "count": 1,
+   "freq": 98
+  },
+  {
+   "word": "power",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "权力",
+   "count": 1,
+   "freq": 90
+  },
+  {
+   "word": "digital",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "数字的",
+   "count": 1,
+   "freq": 72
+  },
+  {
+   "word": "tend",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "倾向于，往往会",
+   "count": 1,
+   "freq": 71
+  },
+  {
+   "word": "risk",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "风险",
+   "count": 1,
+   "freq": 62
+  },
+  {
+   "word": "individual",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "单独的",
+   "count": 1,
+   "freq": 59
+  },
+  {
+   "word": "challenge",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "挑战",
+   "count": 1,
+   "freq": 57
+  },
+  {
+   "word": "user",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "使用者",
+   "count": 1,
+   "freq": 52
+  },
+  {
+   "word": "significant",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "重要的",
+   "count": 1,
+   "freq": 47
+  },
+  {
+   "word": "gap",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "间隙",
+   "count": 1,
+   "freq": 45
+  },
+  {
+   "word": "quality",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "质量",
+   "count": 1,
+   "freq": 45
+  },
+  {
+   "word": "access",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "进入",
+   "count": 1,
+   "freq": 44
+  },
+  {
+   "word": "potential",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "潜在的",
+   "count": 1,
+   "freq": 43
+  },
+  {
+   "word": "career",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "职业",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "promote",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "促进",
+   "count": 1,
+   "freq": 38
+  },
+  {
+   "word": "desire",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "愿望",
+   "count": 1,
+   "freq": 37
+  },
+  {
+   "word": "management",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "管理",
+   "count": 1,
+   "freq": 36
+  },
+  {
+   "word": "source",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "来源",
+   "count": 1,
+   "freq": 36
+  },
+  {
+   "word": "emotional",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "情绪的",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "marketing",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "营销",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "responsibility",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "责任",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "due",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "预期的",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "maintain",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "维持",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "threat",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "威胁",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "balance",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "平衡",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "privacy",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "隐私",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "highly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "非常",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "ban",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "禁止",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "easily",
+   "level": "A2",
+   "pos": "adv.",
+   "cn": "容易地",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "understanding",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "理解;领悟",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "cite",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "引用，引证",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "connection",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "联系",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "enhance",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "提高",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "colleague",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "同事",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "advertising",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "广告业",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "broad",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "宽阔的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "engage",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "参与;从事",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "limited",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "有限的",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "evolve",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "逐渐发展;进化",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "perspective",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "观点",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "adjust",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "调整",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "pose",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "摆姿势（供拍照或绘画）",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "budget",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "预算",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "implication",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "可能的影响或结果",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "underestimate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "低估",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "exposure",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "暴露",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "platform",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "平台",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "regulate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "管理",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "compete",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "竞争",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "organisation",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "组织;机构",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "ownership",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "所有权",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "compromise",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "妥协",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "retain",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "保留",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "navigate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "导航",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2026-english-two/section2-part-a-2/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2026-english-two/section2-part-a-2/"
+}

@@ -1,0 +1,116 @@
+[
+ {
+  "id": "P1",
+  "en": "It's true that high-school coding classes aren't essential for learning computer science in college. Students without experience can catch up after a few introductory courses, said Tom Cortina, the assistant dean at Carnegie Mellon's School of Computer Science.",
+  "zh": "诚然，高中编程课程对于在大学学习计算机科学并非必不可少。卡内基梅隆大学计算机科学学院的副院长TomCortina表示，没有经验的学生在学习几门入门课程后就能赶上进度。",
+  "sentences": [
+   {
+    "id": "P1S1",
+    "en": "It's true that high-school coding classes aren't essential for learning computer science in college."
+   },
+   {
+    "id": "P1S2",
+    "en": "Students without experience can catch up after a few introductory courses, said Tom Cortina, the assistant dean at Carnegie Mellon's School of Computer Science."
+   }
+  ]
+ },
+ {
+  "id": "P2",
+  "en": "However, Cortina said, early exposure is beneficial. When younger kids learn computer science, they learn that it's not just a confusing, endless string of letters and numbers – but a tool to build apps, or create artwork, or test hypotheses. It's not as hard for them to transform their thought processes as it is for older students. Breaking down problems into bite-sized chunks and using code to solve them becomes normal. Giving more children this training could increase the number of people interested in the field and help fill the jobs gap, Cortina said.",
+  "zh": "然而，Cortina说，早期接触是有益的。当年幼的孩子学习计算机科学时，他们会了解到这不仅仅是令人困惑的、无穷无尽的字母和数字串，而是构建应用程序、创作艺术作品或检验假设的工具。对他们来说，转变思维过程并不像对年龄较大的学生那样困难。将问题分解成小块并使用代码解决它们成为常态。Cortina说，让更多儿童接受这种训练可以增加对该领域感兴趣的人数，并有助于填补就业缺口。",
+  "sentences": [
+   {
+    "id": "P2S1",
+    "en": "However, Cortina said, early exposure is beneficial."
+   },
+   {
+    "id": "P2S2",
+    "en": "When younger kids learn computer science, they learn that it's not just a confusing, endless string of letters and numbers – but a tool to build apps, or create artwork, or test hypotheses."
+   },
+   {
+    "id": "P2S3",
+    "en": "It's not as hard for them to transform their thought processes as it is for older students."
+   },
+   {
+    "id": "P2S4",
+    "en": "Breaking down problems into bite-sized chunks and using code to solve them becomes normal."
+   },
+   {
+    "id": "P2S5",
+    "en": "Giving more children this training could increase the number of people interested in the field and help fill the jobs gap, Cortina said."
+   }
+  ]
+ },
+ {
+  "id": "P3",
+  "en": "Students also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the less-experienced or less-determined students away.",
+  "zh": "学生在上大学之前学习一些编程知识也会受益，因为大学的计算机科学入门课程人满为患，这可能会让经验较少或决心不够坚定的学生望而却步。",
+  "sentences": [
+   {
+    "id": "P3S1",
+    "en": "Students also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the less-experienced or less-determined students away."
+   }
+  ]
+ },
+ {
+  "id": "P4",
+  "en": "The Flatiron School, where people pay to learn programming, started as one of the many coding bootcamps that have become popular for adults looking for a career change. The high-schoolers get the same curriculum, but \"we try to gear lessons toward things they're interested in,\" said Victoria Friedman, an instructor. For instance, one of the apps the students are developing suggests movies based on your mood.",
+  "zh": "FlatironSchool是一所人们付费学习编程的学校，最初是众多编程训练营之一，这些训练营在寻求职业转变的成年人中变得流行起来。高中生接受同样的课程，但教师VictoriaFriedman说，\"我们试图让课程面向他们感兴趣的事物\"。例如，学生正在开发的一个应用程序根据你的心情推荐电影。",
+  "sentences": [
+   {
+    "id": "P4S1",
+    "en": "The Flatiron School, where people pay to learn programming, started as one of the many coding bootcamps that have become popular for adults looking for a career change."
+   },
+   {
+    "id": "P4S2",
+    "en": "The high-schoolers get the same curriculum, but \"we try to gear lessons toward things they're interested in,\" said Victoria Friedman, an instructor."
+   },
+   {
+    "id": "P4S3",
+    "en": "For instance, one of the apps the students are developing suggests movies based on your mood."
+   }
+  ]
+ },
+ {
+  "id": "P5",
+  "en": "The students in the Flatiron class probably won't drop out of high school and build the next Facebook. Programming languages have a quick turnover, so the \"Ruby on Rails\" language they learned may not even be relevant by the time they enter the job market. But the skills they learn – how to think logically through a problem and organize the results – apply to any coding language, said Deborah Seehorn, an education consultant for the state of North Carolina.",
+  "zh": "Flatiron班级的学生可能不会从高中辍学去创建下一个Facebook。编程语言更新换代很快，因此他们学习的RubyonRails语言到他们进入就业市场时甚至可能已经不再相关。但北卡罗来纳州教育顾问DeborahSeehorn说，他们学到的技能——如何从逻辑上思考问题并组织结果——适用于任何编程语言。",
+  "sentences": [
+   {
+    "id": "P5S1",
+    "en": "The students in the Flatiron class probably won't drop out of high school and build the next Facebook."
+   },
+   {
+    "id": "P5S2",
+    "en": "Programming languages have a quick turnover, so the \"Ruby on Rails\" language they learned may not even be relevant by the time they enter the job market."
+   },
+   {
+    "id": "P5S3",
+    "en": "But the skills they learn – how to think logically through a problem and organize the results – apply to any coding language, said Deborah Seehorn, an education consultant for the state of North Carolina."
+   }
+  ]
+ },
+ {
+  "id": "P6",
+  "en": "Indeed, the Flatiron students might not go into IT at all. But creating a future army of coders is not the sole purpose of the classes. These kids are going to be surrounded by computers – in their pockets, in their offices, in their homes – for the rest of their lives. The younger they learn how computers think, how to coax the machine into producing what they want – the earlier they learn that they have the power to do that – the better.",
+  "zh": "事实上，Flatiron的学生可能根本不会进入IT行业。但培养未来的程序员大军并非这些课程的唯一目的。这些孩子在他们余生中都将被计算机包围——在他们的口袋里、办公室里、家里。他们越早学会计算机如何思考，如何哄骗机器产出他们想要的东西——越早学会他们有能力做到这一点——就越好。",
+  "sentences": [
+   {
+    "id": "P6S1",
+    "en": "Indeed, the Flatiron students might not go into IT at all."
+   },
+   {
+    "id": "P6S2",
+    "en": "But creating a future army of coders is not the sole purpose of the classes."
+   },
+   {
+    "id": "P6S3",
+    "en": "These kids are going to be surrounded by computers – in their pockets, in their offices, in their homes – for the rest of their lives."
+   },
+   {
+    "id": "P6S4",
+    "en": "The younger they learn how computers think, how to coax the machine into producing what they want – the earlier they learn that they have the power to do that – the better."
+   }
+  ]
+ }
+]

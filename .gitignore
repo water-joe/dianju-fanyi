@@ -1,0 +1,14 @@
+# 本地素材，不入库
+*.pdf
+artifacts/
+work/txt/
+
+# Python / Node 生成物
+__pycache__/
+work/__pycache__/
+node_modules/
+work/test/*.png
+work/test/_tmp_*.js
+
+# 本机会话设置
+.claude/settings.local.json

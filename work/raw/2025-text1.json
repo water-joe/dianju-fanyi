@@ -1,0 +1,621 @@
+{
+ "year": 2025,
+ "text": 1,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "U.S. customers historically tipped people they assumed were earning most of their income via tips, such as restaurant servers earning less than the minimum wage. In the early 2010s, a wide range of businesses started processing purchases with iPads and other digital payment systems. These systems often prompted customers to tip for services that were not previously tipped.",
+   "zh": "美国顾客历来会给那些他们认为主要靠小费谋生的人支付小费，比如收入低于最低工资的餐厅服务员。2010年代初，各类商家开始使用iPad和其他数字支付系统处理交易。这些系统经常提示顾客为以前不需要支付小费的服务支付小费。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "U.S. customers historically tipped people they assumed were earning most of their income via tips, such as restaurant servers earning less than the minimum wage."
+    },
+    {
+     "id": "P1S2",
+     "en": "In the early 2010s, a wide range of businesses started processing purchases with iPads and other digital payment systems."
+    },
+    {
+     "id": "P1S3",
+     "en": "These systems often prompted customers to tip for services that were not previously tipped."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "Today's tip requests are often not connected to the salary and service norms that used to determine when and how people tip. Customers in the past nearly always paid tips after receiving a service, such as at the conclusion of a restaurant meal, after getting a haircut or once a pizza was delivered. That timing could reward high-quality service and give workers an incentive to provide it.",
+   "zh": "如今的小费要求往往与过去决定何时以及如何支付小费的薪资和服务规范脱节。过去顾客几乎总是在接受服务后支付小费，比如在用完餐后、理完发后或披萨送达后。这种时机可以奖励高质量的服务，并激励员工提供优质服务。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "Today's tip requests are often not connected to the salary and service norms that used to determine when and how people tip."
+    },
+    {
+     "id": "P2S2",
+     "en": "Customers in the past nearly always paid tips after receiving a service, such as at the conclusion of a restaurant meal, after getting a haircut or once a pizza was delivered."
+    },
+    {
+     "id": "P2S3",
+     "en": "That timing could reward high-quality service and give workers an incentive to provide it."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "It's becoming more common for tips to be requested beforehand. And new tipping technology may even automatically add tips.",
+   "zh": "事先要求支付小费的情况正变得越来越普遍。而新的小费技术甚至可能自动添加小费。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "It's becoming more common for tips to be requested beforehand."
+    },
+    {
+     "id": "P3S2",
+     "en": "And new tipping technology may even automatically add tips."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "The prevalence of digital payment devices has made it easier to ask customers for a tip. That helps explain why tip requests are creeping into new kinds of services. Customers now routinely see menus of suggested default options—often well above 20% of what they owe. The amounts have risen from 10% or less in the 1950s to 15% around the year 2000 to 20% or higher today. This increase is sometimes called tipflation—the expectation of ever-higher tip amounts.",
+   "zh": "数字支付设备的普及使向顾客索要小费变得更加容易。这有助于解释为什么小费要求正在渗透到新的服务类型中。顾客现在经常看到建议的默认选项菜单——通常远高于其消费金额的20%。小费金额已从1950年代的10%或更低上升到2000年左右的15%，再到如今的20%或更高。这种增长有时被称为小费通胀——即对越来越高的小费金额的预期。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "The prevalence of digital payment devices has made it easier to ask customers for a tip."
+    },
+    {
+     "id": "P4S2",
+     "en": "That helps explain why tip requests are creeping into new kinds of services."
+    },
+    {
+     "id": "P4S3",
+     "en": "Customers now routinely see menus of suggested default options—often well above 20% of what they owe."
+    },
+    {
+     "id": "P4S4",
+     "en": "The amounts have risen from 10% or less in the 1950s to 15% around the year 2000 to 20% or higher today."
+    },
+    {
+     "id": "P4S5",
+     "en": "This increase is sometimes called tipflation—the expectation of ever-higher tip amounts."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "Tipping has always been a vital source of income for workers in historically tipped services, like restaurants, where the tipped minimum wage can be as low as US$2.13 an hour. Tip creep and tipflation are now further supplementing the income of many low-wage service workers.",
+   "zh": "对于传统上依赖小费的服务行业员工，如餐厅员工，小费一直是重要的收入来源，这些行业的最低小费工资可低至每小时2.13美元。小费蔓延和小费通胀现在进一步补充了许多低薪服务业员工的收入。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "Tipping has always been a vital source of income for workers in historically tipped services, like restaurants, where the tipped minimum wage can be as low as US$2.13 an hour."
+    },
+    {
+     "id": "P5S2",
+     "en": "Tip creep and tipflation are now further supplementing the income of many low-wage service workers."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "en": "Notably, tipping primarily benefits some of these workers, such as waiters, but not others, such as cooks and dishwashers. To ensure that all employees were paid fair wages, some restaurants banned tipping and increased prices, but this movement toward no-tipping services has largely fizzled out.",
+   "zh": "值得注意的是，小费主要惠及其中一些员工，如服务员，但不惠及其他员工，如厨师和洗碗工。为确保所有员工获得公平工资，一些餐厅禁止收小费并提高了价格，但这种取消小费服务的运动基本上已经失败。",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "Notably, tipping primarily benefits some of these workers, such as waiters, but not others, such as cooks and dishwashers."
+    },
+    {
+     "id": "P6S2",
+     "en": "To ensure that all employees were paid fair wages, some restaurants banned tipping and increased prices, but this movement toward no-tipping services has largely fizzled out."
+    }
+   ]
+  },
+  {
+   "id": "P7",
+   "en": "So, to increase employee wages without raising prices, more employers are succumbing to the temptations of tip creep and tipflation. However, many customers are frustrated because they feel they are being asked for too high of a tip, too often. And, as our research emphasizes, tipping now seems to be more coercive, less generous and often completely dissociated from service quality.",
+   "zh": "因此，为了在不提高价格的情况下增加员工工资，越来越多的雇主屈服于小费蔓延和小费通胀的诱惑。然而，许多顾客感到沮丧，因为他们觉得自己被要求支付过高的小费，而且频率过高。而且，正如我们的研究所强调的，小费现在似乎更具强制性、更缺乏慷慨性，并且往往与服务质量完全脱节。",
+   "sentences": [
+    {
+     "id": "P7S1",
+     "en": "So, to increase employee wages without raising prices, more employers are succumbing to the temptations of tip creep and tipflation."
+    },
+    {
+     "id": "P7S2",
+     "en": "However, many customers are frustrated because they feel they are being asked for too high of a tip, too often."
+    },
+    {
+     "id": "P7S3",
+     "en": "And, as our research emphasizes, tipping now seems to be more coercive, less generous and often completely dissociated from service quality."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 1,
+   "en": "U.S. customers historically tipped people they assumed were earning most of their income via tips, such as restaurant servers earning less than the minimum wage.",
+   "note": "本句涵盖主谓宾、时间状语、同位语、嵌套定语从句(省略关系代词)、嵌套宾语从句(省略that)等多种成分,尤其是双重省略引导词的从句结构和suchas同位语,是成分划分的高频易错点,练习价值高"
+  },
+  {
+   "para": 2,
+   "sent": 1,
+   "en": "Today's tip requests are often not connected to the salary and service norms that used to determine when and how people tip.",
+   "note": "覆盖主谓宾、被动结构、多个状语(频率、否定、方向)、定语从句、宾语从句等多种成分，且存在易错点：介词短语作状语、关系代词在从句中作主语、宾语从句嵌套。成分丰富且有练习价值。"
+  },
+  {
+   "para": 4,
+   "sent": 1,
+   "en": "The prevalence of digital payment devices has made it easier to ask customers for a tip.",
+   "note": "makeit+形容词+todo结构在四六级和考研阅读中频繁出现，且本句将该结构置于现在完成时中，兼具时态和句型的典型性，掌握后可迁移到大量类似表达"
+  },
+  {
+   "para": 5,
+   "sent": 1,
+   "en": "Tipping has always been a vital source of income for workers in historically tipped services, like restaurants, where the tipped minimum wage can be as low as US$2.13 an hour.",
+   "note": "主句采用主系表结构配长表语，从句为where引导的非限制性定语从句，都是四六级和考研真题中高频出现的句式。特别是非限制性定语从句对名词的补充说明用法，以及长表语中多层修饰的处理，具有较强的代表性和复用价值。"
+  },
+  {
+   "para": 6,
+   "sent": 1,
+   "en": "Notably, tipping primarily benefits some of these workers, such as waiters, but not others, such as cooks and dishwashers.",
+   "note": "本句展示了\"主语+谓语+并列宾语\"的基本句型,以及\"some...butnotothers\"的对比并列结构和\"suchas\"的举例用法,这些都是四六级和考研阅读中高频出现的典型结构;掌握后可迁移到大量同类句式,具有较高代表性。"
+  },
+  {
+   "para": 7,
+   "sent": 1,
+   "en": "So, to increase employee wages without raising prices, more employers are succumbing to the temptations of tip creep and tipflation.",
+   "note": "本句涉及主语、谓语、宾语、目的状语四种核心成分，且目的状语前置容易与主语混淆，宾语中包含后置定语修饰，对初学者有一定辨识训练价值。但成分种类不算丰富（无表语、补语、同位语等），坑点密集度中等。"
+  },
+  {
+   "para": 7,
+   "sent": 2,
+   "en": "However, many customers are frustrated because they feel they are being asked for too high of a tip, too often.",
+   "note": "主句加because原因状语从句是四六级和考研阅读中的高频结构。宾语从句省略that引导词，也是常见现象。现在进行时被动语态arebeingasked是考试中常考的时态语态组合。整体句式具有很强的代表性和可迁移性。"
+  },
+  {
+   "para": 7,
+   "sent": 3,
+   "en": "And, as our research emphasizes, tipping now seems to be more coercive, less generous and often completely dissociated from service quality.",
+   "note": "状语从句插入主句是四六级和考研阅读中的高频句式,系表结构加不定式表语也很常见。掌握这种插入结构的识别方法可以迁移到大量类似句子,具有较好的典型性。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "tip",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "小费",
+   "count": 20,
+   "freq": 25
+  },
+  {
+   "word": "customer",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "顾客，客户",
+   "count": 7,
+   "freq": 79
+  },
+  {
+   "word": "income",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "收入",
+   "count": 5,
+   "freq": 31
+  },
+  {
+   "word": "request",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "请求",
+   "count": 5,
+   "freq": 14
+  },
+  {
+   "word": "wage",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "工资",
+   "count": 4,
+   "freq": 16
+  },
+  {
+   "word": "less",
+   "level": "A1",
+   "pos": "det.",
+   "cn": "较少的",
+   "count": 2,
+   "freq": 150
+  },
+  {
+   "word": "system",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "系统",
+   "count": 2,
+   "freq": 107
+  },
+  {
+   "word": "digital",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "数字的",
+   "count": 2,
+   "freq": 72
+  },
+  {
+   "word": "quality",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "质量",
+   "count": 2,
+   "freq": 45
+  },
+  {
+   "word": "earn",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "赚得，挣得（金钱）",
+   "count": 2,
+   "freq": 32
+  },
+  {
+   "word": "employee",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "雇员，员工",
+   "count": 2,
+   "freq": 32
+  },
+  {
+   "word": "amount",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "数量",
+   "count": 2,
+   "freq": 30
+  },
+  {
+   "word": "reward",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "报酬",
+   "count": 2,
+   "freq": 26
+  },
+  {
+   "word": "payment",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "支付",
+   "count": 2,
+   "freq": 23
+  },
+  {
+   "word": "movement",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "移动",
+   "count": 2,
+   "freq": 20
+  },
+  {
+   "word": "vital",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "极其重要的，必不可少的",
+   "count": 2,
+   "freq": 9
+  },
+  {
+   "word": "minimum",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "最小值",
+   "count": 2,
+   "freq": 8
+  },
+  {
+   "word": "benefit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "好处",
+   "count": 1,
+   "freq": 88
+  },
+  {
+   "word": "process",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "过程",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "reduce",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "减少，降低（数量、大小、程度等）",
+   "count": 1,
+   "freq": 75
+  },
+  {
+   "word": "sign",
+   "level": "A1",
+   "pos": "n.",
+   "cn": "标志",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "desire",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "愿望",
+   "count": 1,
+   "freq": 37
+  },
+  {
+   "word": "source",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "来源",
+   "count": 1,
+   "freq": 36
+  },
+  {
+   "word": "according",
+   "level": "B1",
+   "pos": "prep.",
+   "cn": "根据",
+   "count": 1,
+   "freq": 35
+  },
+  {
+   "word": "contribute",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "捐献",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "further",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "更远地",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "advance",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "前进",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "ensure",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "确保",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "intend",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "打算，计划",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "range",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "范围",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "largely",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "主要地",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "essential",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "必不可少的",
+   "count": 1,
+   "freq": 27
+  },
+  {
+   "word": "purchase",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "购买",
+   "count": 1,
+   "freq": 26
+  },
+  {
+   "word": "ban",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "禁止",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "reflect",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "反映，显示",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "employer",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "雇主",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "assume",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "假定",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "emphasize",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "强调",
+   "count": 1,
+   "freq": 22
+  },
+  {
+   "word": "determine",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "决定",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "option",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "选择",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "expectation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "期待;预期",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "frequently",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "频繁地",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "device",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "设备",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "incentive",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "激励",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "burden",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "负担",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "completely",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "完全地",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "deliver",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "递送，运送（货物、信件等）",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "norm",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "常态",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "prompt",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "促使",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "previously",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "以前，先前（指过去某个时间）",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "primarily",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "主要地",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "owe",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "欠（债、钱、人情等）",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "generous",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "慷慨的，大方的",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "salary",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "薪水，工资（通常指按月发放的固定报酬）",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2025-english-two/section2-part-a-1/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2025-english-two/section2-part-a-1/"
+}

@@ -1,0 +1,1402 @@
+window.PASSAGE = {
+ "year": 2020,
+ "text": 3,
+ "title": "2020 考研英语二 · Text 3",
+ "subtitle": "清洁空气区之争：治污为何这么难",
+ "source": "https://english-exam.lazynote.cn/kaoyan/sections/2020-english-two/section2-part-a-3/",
+ "paragraphs": [
+  {
+   "id": "P1",
+   "zh": "去年11月，马德里因推出针对污染最严重车辆的雄心勃勃的限制措施而被誉为公共健康的灯塔。七个月和一个选举日之后，新的保守派市议会暂停了清洁空气区的执法，这是该措施可能终止的第一步。尽管该区域在改善空气质量方面取得了成功，市长JoséLuisMartinez-Almeida仍将反对该区域作为其竞选活动的核心内容。现在，一名法官推翻了该市停止征收罚款的决定，下令恢复罚款。但随着法律纠纷的到来，该区域的未来充其量看起来并不确定。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "Madrid was hailed as a public health beacon last November when it rolled out ambitious restrictions on the most polluting cars.",
+     "zh": "去年11月，马德里因推出针对污染最严重车辆的雄心勃勃的限制措施而被誉为公共健康的灯塔。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "hailed as",
+       "gloss": "被誉/称赞为（hail A as B）"
+      },
+      {
+       "text": "rolled out",
+       "gloss": "推出；发布（roll out）"
+      },
+      {
+       "text": "ambitious restrictions",
+       "gloss": "雄心勃勃的限制措施"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "Madrid",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "was hailed as a public health beacon",
+       "note": "被动语态 + as 主语补足语"
+      },
+      {
+       "role": "状语",
+       "text": "last November",
+       "note": ""
+      },
+      {
+       "role": "状语从句",
+       "text": "when it rolled out ambitious restrictions on the most polluting cars.",
+       "note": "when 引导时间状语从句；roll out 推出"
+      }
+     ],
+     "cover": 98,
+     "url": ""
+    },
+    {
+     "id": "P1S2",
+     "en": "Seven months and one election day later, a new conservative city council suspended enforcement of the clean air zone, a first step toward its possible demise.",
+     "zh": "七个月和一个选举日之后，新的保守派市议会暂停了清洁空气区的执法，这是该措施可能终止的第一步。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "suspended",
+       "gloss": "v. 暂停（suspend 的过去式）"
+      },
+      {
+       "text": "demise",
+       "gloss": "n. 终止；消亡"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "状语",
+       "text": "Seven months and one election day later,",
+       "note": ""
+      },
+      {
+       "role": "主语",
+       "text": "a new conservative city council",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "suspended",
+       "note": ""
+      },
+      {
+       "role": "宾语",
+       "text": "enforcement of the clean air zone,",
+       "note": ""
+      },
+      {
+       "role": "同位语",
+       "text": "a first step toward its possible demise.",
+       "note": "对前面整件事的同位补充；demise 终止、消亡"
+      }
+     ],
+     "cover": 97,
+     "url": ""
+    },
+    {
+     "id": "P1S3",
+     "en": "Mayor José Luis Martinez-Almeida made opposition to the zone a centrepiece of his election campaign, despite its success in improving air quality.",
+     "zh": "尽管该区域在改善空气质量方面取得了成功，市长José Luis Martinez-Almeida仍将反对该区域作为其竞选活动的核心内容。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "centrepiece",
+       "gloss": "n. 核心内容（英式拼写）"
+      },
+      {
+       "text": "opposition to",
+       "gloss": "对…的反对"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "Mayor José Luis Martinez-Almeida",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "made",
+       "note": ""
+      },
+      {
+       "role": "宾语",
+       "text": "opposition to the zone",
+       "note": ""
+      },
+      {
+       "role": "宾语补足语",
+       "text": "a centrepiece of his election campaign,",
+       "note": "make A B：把 A 作为 B"
+      },
+      {
+       "role": "状语",
+       "text": "despite its success in improving air quality.",
+       "note": "despite 介词短语作让步状语"
+      }
+     ],
+     "cover": 97,
+     "url": ""
+    },
+    {
+     "id": "P1S4",
+     "en": "A judge has now overruled the city's decision to stop levying fines, ordering them reinstated.",
+     "zh": "现在，一名法官推翻了该市停止征收罚款的决定，下令恢复罚款。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "overruled",
+       "gloss": "v. 推翻（overrule 的过去式）"
+      },
+      {
+       "text": "levying fines",
+       "gloss": "征收罚款（levy 征收）"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "A judge",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "has now overruled",
+       "note": ""
+      },
+      {
+       "role": "宾语",
+       "text": "the city's decision to stop levying fines,",
+       "note": "to stop... 不定式作后置定语；levy fines 征收罚款"
+      },
+      {
+       "role": "状语",
+       "text": "ordering them reinstated.",
+       "note": "现在分词作伴随状语；reinstated 过去分词作宾补"
+      }
+     ],
+     "cover": 97,
+     "url": ""
+    },
+    {
+     "id": "P1S5",
+     "en": "But with legal battles ahead, the zone's future looks uncertain at best.",
+     "zh": "但随着法律纠纷的到来，该区域的未来充其量看起来并不确定。",
+     "insight": true,
+     "note": "主系表结构加介词短语状语是四六级和考研阅读中高频出现的句式。\"with+复合结构\"作状语、系动词表示状态判断（\"looksuncertain\"）、程度副词修饰表语（\"atbest\"）都是典型用法，掌握后可迁移到大量类似句子。虽然本句本身不复杂，但其结构模式具有较强代表性。",
+     "bold": [
+      {
+       "text": "at best",
+       "gloss": "充其量；最多也不过"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "状语",
+       "text": "But with legal battles ahead,",
+       "note": "with 复合结构作伴随状语"
+      },
+      {
+       "role": "主语",
+       "text": "the zone's future",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "looks",
+       "note": "系动词，表状态判断"
+      },
+      {
+       "role": "表语",
+       "text": "uncertain at best.",
+       "note": "at best 充其量"
+      }
+     ],
+     "cover": 96,
+     "url": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-two/section2-part-a-3/p1-s5/"
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "zh": "马德里在清洁空气问题上的反复提醒人们，欧洲各地(英国也深陷其中)针对空气污染所做努力的零散的、逐个城市推进的方式存在局限性。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "Madrid's back and forth on clean air is a pointed reminder of the limits to the patchwork, city- by-city approach that characterises efforts on air pollution across Europe, Britain very much included.",
+     "zh": "马德里在清洁空气问题上的反复提醒人们，欧洲各地(英国也深陷其中)针对空气污染所做努力的零散的、逐个城市推进的方式存在局限性。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "pointed reminder",
+       "gloss": "尖锐的提醒（pointed 尖锐的）"
+      },
+      {
+       "text": "patchwork",
+       "gloss": "n. 拼凑之物；拼凑方案"
+      },
+      {
+       "text": "characterises",
+       "gloss": "v. 是…的特征（英式拼写，characterise 的三单）"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "Madrid's back and forth on clean air",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "is",
+       "note": ""
+      },
+      {
+       "role": "表语",
+       "text": "a pointed reminder of the limits to the patchwork, city- by-city approach",
+       "note": "of/to 多层介词短语作后置定语"
+      },
+      {
+       "role": "定语从句",
+       "text": "that characterises efforts on air pollution across Europe,",
+       "note": "that 引导定语从句修饰 approach"
+      },
+      {
+       "role": "状语",
+       "text": "Britain very much included.",
+       "note": "独立结构作补充说明"
+      }
+     ],
+     "cover": 98,
+     "url": ""
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "zh": "在其他弱点之中，当城市被迫独自应对污浊空气时必须采用的措施在政治上具有争议性，因此容易受到攻击。这是因为这些措施不可避免地将清洁空气的成本转嫁到个人驾驶者身上——他们必须支付费用或购买更好的车辆——而不是转嫁到汽车制造商身上，而制造商的作弊行为才是我们有毒污染的真正原因。不难想象伦敦也会发生类似的逆转。新的超低排放区(Ulez)很可能成为明年市长选举的一个重大议题。如果SadiqKhan获胜并按照他的计划在2021年将其扩展到北环路和南环路，这必将引发数量多得多的驾车者的强烈反对，因为届时他们将受到影响。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "Among other weaknesses, the measures cities must employ when left to tackle dirty air on their own are politically controversial, and therefore vulnerable.",
+     "zh": "在其他弱点之中，当城市被迫独自应对污浊空气时必须采用的措施在政治上具有争议性，因此容易受到攻击。",
+     "insight": true,
+     "note": "本句成分丰富且具有典型易错点：主句包含主系表结构和并列表语；定语从句中关系词省略（作宾语）；状语从句中主语和be动词省略；还涉及宾语补足语\"totackle\"的识别。这些都是学习者容易混淆的成分，适合作为划分练习的优质材料。",
+     "bold": [
+      {
+       "text": "vulnerable",
+       "gloss": "adj. 易受攻击的；脆弱的"
+      },
+      {
+       "text": "tackle",
+       "gloss": "v. 应对；处理"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "状语",
+       "text": "Among other weaknesses,",
+       "note": ""
+      },
+      {
+       "role": "主语",
+       "text": "the measures cities must employ when left to tackle dirty air on their own",
+       "note": "(that) cities must employ 省略关系词的定语从句；when (they are) left to... 省略主语和 be 的状语从句"
+      },
+      {
+       "role": "谓语",
+       "text": "are",
+       "note": ""
+      },
+      {
+       "role": "表语",
+       "text": "politically controversial, and therefore vulnerable.",
+       "note": "两个并列表语"
+      }
+     ],
+     "cover": 98,
+     "url": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-two/section2-part-a-3/p3-s1/"
+    },
+    {
+     "id": "P3S2",
+     "en": "That's because they inevitably put the costs of cleaning the air on to individual drivers—who must pay fees or buy better vehicles—rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution.",
+     "zh": "这是因为这些措施不可避免地将清洁空气的成本转嫁到个人驾驶者身上——他们必须支付费用或购买更好的车辆——而不是转嫁到汽车制造商身上，而制造商的作弊行为才是我们有毒污染的真正原因。",
+     "insight": true,
+     "note": "本句包含多个四六级和考研常见结构:主系表+表语从句、ratherthan对比、非限制性定语从句用破折号隔开、whose引导的限制性定语从句、put...onto短语。这些结构在议论文和说明文中频繁出现,尤其ratherthan对比和whose定语从句是高频考点。句式典型,掌握后可迁移到大量类似长难句。",
+     "bold": [
+      {
+       "text": "inevitably",
+       "gloss": "adv. 不可避免地"
+      },
+      {
+       "text": "rather than",
+       "gloss": "而不是"
+      },
+      {
+       "text": "toxic pollution",
+       "gloss": "有毒污染（toxic 有毒的）"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "That",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "'s",
+       "note": ""
+      },
+      {
+       "role": "状语从句",
+       "text": "because they inevitably put the costs of cleaning the air on to individual drivers—who must pay fees or buy better vehicles—rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution.",
+       "note": "because 引导原因状语从句；破折号内为非限制性定语从句；rather than 对比；whose... 定语从句修饰 manufacturers"
+      }
+     ],
+     "cover": 100,
+     "url": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-two/section2-part-a-3/p3-s2/"
+    },
+    {
+     "id": "P3S3",
+     "en": "It's not hard to imagine a similar reversal happening in London.",
+     "zh": "不难想象伦敦也会发生类似的逆转。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "reversal",
+       "gloss": "n. 逆转；反转"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "It",
+       "note": "形式主语"
+      },
+      {
+       "role": "谓语",
+       "text": "'s not hard",
+       "note": ""
+      },
+      {
+       "role": "真正主语",
+       "text": "to imagine a similar reversal happening in London.",
+       "note": "不定式短语作真正主语；happening... 现在分词作宾补"
+      }
+     ],
+     "cover": 98,
+     "url": ""
+    },
+    {
+     "id": "P3S4",
+     "en": "The new ultra-low emission zone (Ulez) is likely to be a big issue in next year's mayoral election.",
+     "zh": "新的超低排放区(Ulez)很可能成为明年市长选举的一个重大议题。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "ultra-low emission zone",
+       "gloss": "超低排放区"
+      },
+      {
+       "text": "mayoral election",
+       "gloss": "市长选举（mayoral 市长的）"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "The new ultra-low emission zone (Ulez)",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "is likely to be",
+       "note": ""
+      },
+      {
+       "role": "表语",
+       "text": "a big issue in next year's mayoral election.",
+       "note": ""
+      }
+     ],
+     "cover": 98,
+     "url": ""
+    },
+    {
+     "id": "P3S5",
+     "en": "And if Sadiq Khan wins and extends it to the North and South Circular roads in 2021 as he intends, it is sure to spark intense opposition from the far larger number of motorists who will then be affected.",
+     "zh": "如果Sadiq Khan获胜并按照他的计划在2021年将其扩展到北环路和南环路，这必将引发数量多得多的驾车者的强烈反对，因为届时他们将受到影响。",
+     "insight": true,
+     "note": "条件状语从句+主句+定语从句的组合是四六级和考研阅读中的高频句式。条件从句内嵌套方式从句的结构也很常见。整句体现了新闻报道或学术文章中典型的复杂句式：先交代条件，再陈述结果，最后补充受影响对象的细节。这种结构的掌握对理解大多数英文长难句都有帮助。",
+     "bold": [
+      {
+       "text": "spark intense opposition",
+       "gloss": "引发强烈反对（spark 引发）"
+      },
+      {
+       "text": "motorists",
+       "gloss": "n. 驾车者（motorist）"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "连接词",
+       "text": "And",
+       "note": ""
+      },
+      {
+       "role": "状语从句",
+       "text": "if Sadiq Khan wins and extends it to the North and South Circular roads in 2021 as he intends,",
+       "note": "if 引导条件状语从句；as he intends 方式状语从句"
+      },
+      {
+       "role": "主语",
+       "text": "it",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "is sure to spark",
+       "note": ""
+      },
+      {
+       "role": "宾语",
+       "text": "intense opposition from the far larger number of motorists who will then be affected.",
+       "note": "who... 定语从句修饰 motorists"
+      }
+     ],
+     "cover": 98,
+     "url": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-two/section2-part-a-3/p3-s5/"
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "zh": "这并不是说像伦敦的Ulez这样的措施毫无用处。恰恰相反。地方官员正在使用他们可用的手段，在面对严重威胁时保护居民的健康。这些区域确实在一定程度上改善了空气质量，科学告诉我们这意味着真正的健康益处。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "It's not that measures such as London's Ulez are useless.",
+     "zh": "这并不是说像伦敦的Ulez这样的措施毫无用处。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "useless",
+       "gloss": "adj. 无用的"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "It",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "'s not",
+       "note": ""
+      },
+      {
+       "role": "表语从句",
+       "text": "that measures such as London's Ulez are useless.",
+       "note": "that 引导表语从句"
+      }
+     ],
+     "cover": 98,
+     "url": ""
+    },
+    {
+     "id": "P4S2",
+     "en": "Far from it.",
+     "zh": "恰恰相反。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "Far from it",
+       "gloss": "远非如此（省略句）"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "表语",
+       "text": "Far from it.",
+       "note": "省略句，意为「远非如此」"
+      }
+     ],
+     "cover": 100,
+     "url": ""
+    },
+    {
+     "id": "P4S3",
+     "en": "Local officials are using the levers that are available to them to safeguard residents' health in the face of a serious threat.",
+     "zh": "地方官员正在使用他们可用的手段，在面对严重威胁时保护居民的健康。",
+     "insight": true,
+     "note": "主句+限制性定语从句+目的状语+介词短语状语的组合是四六级和考研阅读中常见的句式。定语从句修饰宾语、不定式表目的均为高频考点，学习后可迁移至大量类似句子。",
+     "bold": [
+      {
+       "text": "levers",
+       "gloss": "n. 手段；杠杆（lever）"
+      },
+      {
+       "text": "safeguard",
+       "gloss": "v. 保护；捍卫"
+      },
+      {
+       "text": "in the face of",
+       "gloss": "面对…"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "Local officials",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "are using",
+       "note": ""
+      },
+      {
+       "role": "宾语",
+       "text": "the levers that are available to them",
+       "note": "that... 定语从句修饰 levers"
+      },
+      {
+       "role": "状语",
+       "text": "to safeguard residents' health in the face of a serious threat.",
+       "note": "不定式作目的状语；in the face of 面对"
+      }
+     ],
+     "cover": 98,
+     "url": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-two/section2-part-a-3/p4-s3/"
+    },
+    {
+     "id": "P4S4",
+     "en": "The zones do deliver some improvements to air quality, and the science tells us that means real health benefits.",
+     "zh": "这些区域确实在一定程度上改善了空气质量，科学告诉我们这意味着真正的健康益处。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "deliver",
+       "gloss": "v. 带来；实现（deliver improvements 带来改善）"
+      },
+      {
+       "text": "health benefits",
+       "gloss": "健康益处"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "The zones",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "do deliver",
+       "note": "do 强调"
+      },
+      {
+       "role": "宾语",
+       "text": "some improvements to air quality,",
+       "note": ""
+      },
+      {
+       "role": "连接词",
+       "text": "and",
+       "note": ""
+      },
+      {
+       "role": "主语",
+       "text": "the science",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "tells",
+       "note": ""
+      },
+      {
+       "role": "宾语",
+       "text": "us",
+       "note": ""
+      },
+      {
+       "role": "宾语从句",
+       "text": "that means real health benefits.",
+       "note": "省略 that 的宾语从句"
+      }
+     ],
+     "cover": 94,
+     "url": ""
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "zh": "但市长和市议员对于这个远大于任何一个城市或城镇的问题所能做的十分有限。他们之所以采取行动，是因为国家政府——英国和欧洲其他国家——未能做到这一点。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "But mayors and councilors can only do so much about a problem that is far bigger than any one city or town.",
+     "zh": "但市长和市议员对于这个远大于任何一个城市或城镇的问题所能做的十分有限。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "do so much",
+       "gloss": "能做的不多（can only do so much 能力有限）"
+      },
+      {
+       "text": "far bigger than",
+       "gloss": "远比…大"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "连接词",
+       "text": "But",
+       "note": ""
+      },
+      {
+       "role": "主语",
+       "text": "mayors and councilors",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "can only do so much",
+       "note": ""
+      },
+      {
+       "role": "状语",
+       "text": "about a problem that is far bigger than any one city or town.",
+       "note": "that... 定语从句修饰 problem"
+      }
+     ],
+     "cover": 97,
+     "url": ""
+    },
+    {
+     "id": "P5S2",
+     "en": "They are acting because national governments—Britain's and others across Europe—have failed to do so.",
+     "zh": "他们之所以采取行动，是因为国家政府——英国和欧洲其他国家——未能做到这一点。",
+     "insight": true,
+     "note": "主句+原因状语从句的结构在四六级和考研真题中非常常见，\"because\"引导原因状语是典型句式。破折号同位语的用法也是书面语中的常见现象。本句结构具有较高的代表性和迁移价值。",
+     "bold": [
+      {
+       "text": "have failed to",
+       "gloss": "未能做…（fail to do）"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "They",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "are acting",
+       "note": ""
+      },
+      {
+       "role": "状语从句",
+       "text": "because national governments—Britain's and others across Europe—have failed to do so.",
+       "note": "because 引导原因状语从句；破折号内为同位语；fail to do 未能做"
+      }
+     ],
+     "cover": 98,
+     "url": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-two/section2-part-a-3/p5-s2/"
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "zh": "将高污染车辆限制在特定区域之外——市中心、\"学校街道\"，甚至单独的道路——是对缺乏更大努力来适当执行现有法规并要求汽车公司使其车辆符合规定的一种回应。威尔士引入了特殊的低速限制以减少污染。我们正在做一切事情，却没有坚持要求制造商清理他们的汽车。",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "Restrictions that keep highly polluting cars out of certain areas—city centres, \"school streets\", even individual roads—are a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance.",
+     "zh": "将高污染车辆限制在特定区域之外——市中心、\"学校街道\"，甚至单独的道路——是对缺乏更大努力来适当执行现有法规并要求汽车公司使其车辆符合规定的一种回应。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "into compliance",
+       "gloss": "使…合规（bring... into compliance）"
+      },
+      {
+       "text": "enforce existing regulations",
+       "gloss": "执行现有法规（enforce 执行）"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "Restrictions that keep highly polluting cars out of certain areas—city centres, \"school streets\", even individual roads—",
+       "note": "that... 定语从句修饰 Restrictions；破折号内为 areas 的同位举例"
+      },
+      {
+       "role": "谓语",
+       "text": "are",
+       "note": ""
+      },
+      {
+       "role": "表语",
+       "text": "a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance.",
+       "note": "to properly enforce... and require... 并列不定式作 effort 的后置定语；bring... into compliance 使…合规"
+      }
+     ],
+     "cover": 100,
+     "url": ""
+    },
+    {
+     "id": "P6S2",
+     "en": "Wales has introduced special low speed limits to minimise pollution.",
+     "zh": "威尔士引入了特殊的低速限制以减少污染。",
+     "insight": false,
+     "note": "",
+     "bold": [
+      {
+       "text": "low speed limits",
+       "gloss": "低速限制"
+      },
+      {
+       "text": "minimise",
+       "gloss": "v. 使最小化（英式拼写）"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "Wales",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "has introduced",
+       "note": ""
+      },
+      {
+       "role": "宾语",
+       "text": "special low speed limits",
+       "note": ""
+      },
+      {
+       "role": "状语",
+       "text": "to minimise pollution.",
+       "note": "不定式作目的状语"
+      }
+     ],
+     "cover": 96,
+     "url": ""
+    },
+    {
+     "id": "P6S3",
+     "en": "We're doing everything but insist that manufacturers clean up their cars.",
+     "zh": "我们正在做一切事情，却没有坚持要求制造商清理他们的汽车。",
+     "insight": true,
+     "note": "句中涉及复杂宾语结构（everythingbutinsist...）、宾语从句、虚拟语气、省略to的不定式等多个知识点,成分划分覆盖主谓宾、从句内部主谓宾,且but的介词用法是易错点,训练价值较高。",
+     "bold": [
+      {
+       "text": "insist",
+       "gloss": "v. 坚持要求（insist that (should) do）"
+      },
+      {
+       "text": "clean up",
+       "gloss": "清理；整治"
+      }
+     ],
+     "chunks": [
+      {
+       "role": "主语",
+       "text": "We",
+       "note": ""
+      },
+      {
+       "role": "谓语",
+       "text": "'re doing",
+       "note": ""
+      },
+      {
+       "role": "宾语",
+       "text": "everything",
+       "note": ""
+      },
+      {
+       "role": "介词短语",
+       "text": "but insist that manufacturers clean up their cars.",
+       "note": "but 此处为介词「除…之外」；insist that 后接宾语从句（(should) clean）"
+      }
+     ],
+     "cover": 97,
+     "url": "https://english-exam.lazynote.cn/kaoyan/paper/2020-english-two/section2-part-a-3/p6-s3/"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "word": "zone",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "区域",
+   "count": 6,
+   "freq": 11
+  },
+  {
+   "word": "measure",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "测量",
+   "count": 3,
+   "freq": 65
+  },
+  {
+   "word": "individual",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "单独的",
+   "count": 3,
+   "freq": 59
+  },
+  {
+   "word": "vehicle",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "交通工具",
+   "count": 3,
+   "freq": 15
+  },
+  {
+   "word": "manufacturer",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "制造商",
+   "count": 3,
+   "freq": 12
+  },
+  {
+   "word": "author",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "作者",
+   "count": 2,
+   "freq": 209
+  },
+  {
+   "word": "quality",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "质量",
+   "count": 2,
+   "freq": 45
+  },
+  {
+   "word": "limit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "限度",
+   "count": 2,
+   "freq": 42
+  },
+  {
+   "word": "regulation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "规则，条例",
+   "count": 2,
+   "freq": 28
+  },
+  {
+   "word": "judge",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "判断，评判",
+   "count": 2,
+   "freq": 27
+  },
+  {
+   "word": "enforcement",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "（法律、规则的）执行，实施",
+   "count": 2,
+   "freq": 15
+  },
+  {
+   "word": "council",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "委员会",
+   "count": 2,
+   "freq": 12
+  },
+  {
+   "word": "weakness",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "缺点",
+   "count": 2,
+   "freq": 12
+  },
+  {
+   "word": "opposition",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "反对",
+   "count": 2,
+   "freq": 11
+  },
+  {
+   "word": "restriction",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "限制",
+   "count": 2,
+   "freq": 10
+  },
+  {
+   "word": "tackle",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "处理",
+   "count": 2,
+   "freq": 8
+  },
+  {
+   "word": "following",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "接下来的",
+   "count": 1,
+   "freq": 91
+  },
+  {
+   "word": "issue",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "问题",
+   "count": 1,
+   "freq": 89
+  },
+  {
+   "word": "likely",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "很可能的",
+   "count": 1,
+   "freq": 89
+  },
+  {
+   "word": "benefit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "好处",
+   "count": 1,
+   "freq": 88
+  },
+  {
+   "word": "effect",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "影响",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "better",
+   "level": "A1",
+   "pos": "adj.",
+   "cn": "更好的（good 的比较级）",
+   "count": 1,
+   "freq": 70
+  },
+  {
+   "word": "local",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "当地的",
+   "count": 1,
+   "freq": 65
+  },
+  {
+   "word": "design",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "设计",
+   "count": 1,
+   "freq": 52
+  },
+  {
+   "word": "approach",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "靠近，接近（在空间或时间上）",
+   "count": 1,
+   "freq": 51
+  },
+  {
+   "word": "legal",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "法律的",
+   "count": 1,
+   "freq": 44
+  },
+  {
+   "word": "official",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "官方的",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "production",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "生产",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "affect",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "影响",
+   "count": 1,
+   "freq": 39
+  },
+  {
+   "word": "later",
+   "level": "A1",
+   "pos": "adv.",
+   "cn": "以后，later",
+   "count": 1,
+   "freq": 38
+  },
+  {
+   "word": "response",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "回答",
+   "count": 1,
+   "freq": 37
+  },
+  {
+   "word": "available",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "可获得的",
+   "count": 1,
+   "freq": 35
+  },
+  {
+   "word": "ensure",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "确保",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "despite",
+   "level": "B1",
+   "pos": "prep.",
+   "cn": "尽管",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "intend",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "打算，计划",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "threat",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "威胁",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "highly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "非常",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "manufacturing",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "制造业;生产",
+   "count": 1,
+   "freq": 22
+  },
+  {
+   "word": "campaign",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "运动",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "extend",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "延伸;延长",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "improvement",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "改进",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "tough",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "困难的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "employ",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "雇用",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "centre",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "中心;中央",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "conservative",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "保守的",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "upgrade",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "升级",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "burden",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "负担",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "therefore",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "因此，所以",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "deliver",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "递送，运送（货物、信件等）",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "battle",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "战斗",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "biased",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "有偏见的",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "oppose",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "反对",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "politician",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "政治家",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "ahead",
+   "level": "A2",
+   "pos": "adv.",
+   "cn": "在前面",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "emission",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "排放物",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "extension",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "延长;延期",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "properly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "正确地",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "existing",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "现有的",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "inevitably",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "不可避免地",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "spark",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "火花",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "reminder",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "提醒物",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "vulnerable",
+   "level": "C1",
+   "pos": "adj.",
+   "cn": "易受伤害的",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "absence",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "缺席",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "arouse",
+   "level": "C1",
+   "pos": "v.",
+   "cn": "激起，引起（情感、反应）",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "controversial",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "有争议的",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "resident",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "居民",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "resistance",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "抵抗",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "uncertain",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "不确定的",
+   "count": 1,
+   "freq": 8
+  }
+ ]
+};

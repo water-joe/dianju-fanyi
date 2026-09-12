@@ -1,0 +1,474 @@
+{
+ "year": 2016,
+ "text": 3,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "That everyone's too busy these days is a cliché. But one specific complaint is made especially mournfully: There's never any time to read.",
+   "zh": "如今每个人都太忙了，这已是陈词滥调。但有一种抱怨尤其令人哀伤:永远没有时间阅读。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "That everyone's too busy these days is a cliché."
+    },
+    {
+     "id": "P1S2",
+     "en": "But one specific complaint is made especially mournfully: There's never any time to read."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "What makes the problem thornier is that the usual time-management techniques don't seem sufficient. The web's full of articles offering tips on making time to read: \"Give up TV\" or \"Carry a book with you at all times.\" But in my experience, using such methods to free up the odd 30 minutes doesn't work. Sit down to read and the flywheel of work-related thoughts keeps spinning – or else you're so exhausted that a challenging book's the last thing you need. The modern mind, Tim Parks, a novelist and critic, writes, \"is overwhelmingly inclined toward communication… It is not simply that one is interrupted; it is that one is actually inclined to interruption.\" Deep reading requires not just time, but a special kind of time which can't be obtained merely by becoming more efficient.",
+   "zh": "让这个问题更棘手的是，通常的时间管理技巧似乎并不够用。网上充斥着提供腾出时间阅读建议的文章:\"放弃看电视\"或\"随时随地带本书\"。但根据我的经验，用这些方法来挤出零星的30分钟并不奏效。坐下来阅读时，与工作相关的思绪飞轮依然转个不停——要么就是你疲惫不堪，一本有挑战性的书是你最不需要的东西。小说家兼评论家TimParks写道，现代人的思维\"压倒性地倾向于交流……问题不仅仅在于一个人被打断；而在于一个人实际上倾向于被打断\"。深度阅读不仅需要时间，还需要一种特殊的时间，这种时间无法仅仅通过提高效率来获得。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "What makes the problem thornier is that the usual time-management techniques don't seem sufficient."
+    },
+    {
+     "id": "P2S2",
+     "en": "The web's full of articles offering tips on making time to read: \"Give up TV\" or \"Carry a book with you at all times.\" But in my experience, using such methods to free up the odd 30 minutes doesn't work."
+    },
+    {
+     "id": "P2S3",
+     "en": "Sit down to read and the flywheel of work-related thoughts keeps spinning – or else you're so exhausted that a challenging book's the last thing you need."
+    },
+    {
+     "id": "P2S4",
+     "en": "The modern mind, Tim Parks, a novelist and critic, writes, \"is overwhelmingly inclined toward communication… It is not simply that one is interrupted; it is that one is actually inclined to interruption.\" Deep reading requires not just time, but a special kind of time which can't be obtained merely by becoming more efficient."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "In fact, \"becoming more efficient\" is part of the problem. Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal. Immersive reading, by contrast, depends on being willing to risk inefficiency, goallessness, even time-wasting. Try to slot it in as a to-do list item and you'll manage only goal-focused reading – useful, sometimes, but not the most fulfilling kind. \"The future comes at us like empty bottles along an unstoppable and nearly infinite conveyor belt,\" writes Gary Eberle in his book Sacred Time, and \"we feel a pressure to fill these different-sized bottles (days, hours, minutes) as they pass, for if they get by without being filled, we will have wasted them.\" No mind-set could be worse for losing yourself in a book.",
+   "zh": "事实上，\"提高效率\"本身就是问题的一部分。把时间视为需要最大化利用的资源，意味着你会工具性地对待它，仅仅根据某个时刻是否推进了某个目标的进展来判断它是否被妥善利用。相比之下，沉浸式阅读依赖于愿意冒无效率、无目标甚至浪费时间的风险。试图把它作为待办事项清单中的一项塞进去，你只能做到目标导向的阅读——有时有用，但不是最令人满足的那种。GaryEberle在其著作《神圣时间》中写道:\"未来像空瓶子一样沿着一条无法停止且几乎无限的传送带向我们涌来\",\"我们感到一种压力，要在这些不同大小的瓶子(天、小时、分钟)经过时填满它们，因为如果它们没被填满就过去了，我们就浪费了它们\"。没有哪种心态比这更不利于让自己沉浸在一本书中。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "In fact, \"becoming more efficient\" is part of the problem."
+    },
+    {
+     "id": "P3S2",
+     "en": "Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal."
+    },
+    {
+     "id": "P3S3",
+     "en": "Immersive reading, by contrast, depends on being willing to risk inefficiency, goallessness, even time-wasting."
+    },
+    {
+     "id": "P3S4",
+     "en": "Try to slot it in as a to-do list item and you'll manage only goal-focused reading – useful, sometimes, but not the most fulfilling kind."
+    },
+    {
+     "id": "P3S5",
+     "en": "\"The future comes at us like empty bottles along an unstoppable and nearly infinite conveyor belt,\" writes Gary Eberle in his book Sacred Time, and \"we feel a pressure to fill these different-sized bottles (days, hours, minutes) as they pass, for if they get by without being filled, we will have wasted them.\" No mind-set could be worse for losing yourself in a book."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "So what does work? Perhaps surprisingly, scheduling regular times for reading. You'd think this might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us \"step outside time's flow\" into \"soul time.\" You could limit distractions by reading only physical books, or on single-purpose e-readers. \"Carry a book with you at all times\" can actually work, too – providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down. On a really good day, it no longer feels as if you're \"making time to read,\" but just reading, and making time for everything else.",
+   "zh": "那么什么方法有效呢？或许令人惊讶的是，安排固定的阅读时间。你可能会认为这会助长效率心态，但事实上，Eberle指出，这种仪式化行为帮助我们\"走出时间的流动\"进入\"灵魂时间\"。你可以通过只阅读纸质书或专用电子阅读器来减少干扰。\"随时随地带本书\"实际上也能奏效——只要你足够频繁地翻阅，让阅读成为默认状态，你只是暂时从中浮出水面来处理事务，然后再沉回去。在真正美好的一天，你不再觉得自己是在\"腾出时间阅读\"，而只是在阅读，并为其他一切事情腾出时间。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "So what does work?"
+    },
+    {
+     "id": "P4S2",
+     "en": "Perhaps surprisingly, scheduling regular times for reading."
+    },
+    {
+     "id": "P4S3",
+     "en": "You'd think this might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us \"step outside time's flow\" into \"soul time.\" You could limit distractions by reading only physical books, or on single-purpose e-readers."
+    },
+    {
+     "id": "P4S4",
+     "en": "\"Carry a book with you at all times\" can actually work, too – providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down."
+    },
+    {
+     "id": "P4S5",
+     "en": "On a really good day, it no longer feels as if you're \"making time to read,\" but just reading, and making time for everything else."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 2,
+   "sent": 1,
+   "en": "What makes the problem thornier is that the usual time-management techniques don't seem sufficient.",
+   "note": "\"What\"引导主语从句+系动词+\"that\"引导表语从句，这是考研和四六级阅读中的高频句式，用于表达「某事物就是某情况」的逻辑。掌握这种结构后，可以迁移到大量类似句子的分析，实用性强。"
+  },
+  {
+   "para": 2,
+   "sent": 2,
+   "en": "The web's full of articles offering tips on making time to read: \"Give up TV\" or \"Carry a book with you at all times.\"",
+   "note": "本句展现的\"主语+befullof+名词+现在分词定语\"结构在四六级和考研阅读中较为常见，尤其是现在分词短语作后置定语修饰名词的用法（如articlesofferingtips,studentsstudyingabroad）是高频句式。掌握后可迁移到大量同类句子的分析中。"
+  },
+  {
+   "para": 2,
+   "sent": 4,
+   "en": "Sit down to read and the flywheel of work-related thoughts keeps spinning – or else you're so exhausted that a challenging book's the last thing you need.",
+   "note": "包含了'so...that'、'thelastthingsomeoneneeds'以及祈使句并列等多个真题高频句式，极具代表性。"
+  },
+  {
+   "para": 2,
+   "sent": 5,
+   "en": "The modern mind, Tim Parks, a novelist and critic, writes, \"is overwhelmingly inclined toward communication… It is not simply that one is interrupted; it is that one is actually inclined to interruption.\"",
+   "note": "本句成分丰富且具有典型训练价值。包含同位语、直接引语作宾语从句、表语从句、程度状语、方向状语等多种成分。特别是宾语从句以引号形式出现，以及表语从句的并列对比结构，是学生容易混淆的考点。适合作为成分划分和从句识别的综合练习句。"
+  },
+  {
+   "para": 2,
+   "sent": 6,
+   "en": "Deep reading requires not just time, but a special kind of time which can't be obtained merely by becoming more efficient.",
+   "note": "句子结构在四六级和考研阅读中高度典型:主句带宾语并列结构,加限制性定语从句修饰宾语中的核心名词,是常见的复杂句模式。定语从句使用\"which\"引导,修饰抽象名词,且从句中包含情态动词和被动语态,符合学术或议论文体的常见句式。掌握这类结构后,可以迁移到大量类似的长难句理解中。"
+  },
+  {
+   "para": 3,
+   "sent": 1,
+   "en": "In fact, \"becoming more efficient\" is part of the problem.",
+   "note": "主系表结构是四六级和考研中的常见句式，动名词短语作主语也是常考点。句首插入语\"Infact\"的用法在阅读和写作中频繁出现。但本句结构过于简单，没有从句或复杂修饰，作为典型例句的代表性中等偏上。"
+  },
+  {
+   "para": 3,
+   "sent": 3,
+   "en": "Immersive reading, by contrast, depends on being willing to risk inefficiency, goallessness, even time-wasting.",
+   "note": "\"主语+dependon+动名词短语\"是四六级和考研阅读中的高频句式，动名词作宾语、不定式作补语的嵌套结构也是常考考点。插入状语的使用符合学术语体特征，具有较强的迁移价值。"
+  },
+  {
+   "para": 3,
+   "sent": 5,
+   "en": "\"The future comes at us like empty bottles along an unstoppable and nearly infinite conveyor belt,\" writes Gary Eberle in his book Sacred Time, and \"we feel a pressure to fill these different-sized bottles (days, hours, minutes) as they pass, for if they get by without being filled, we will have wasted them.\"",
+   "note": "覆盖丰富的成分类型：直接引语作宾语、不定式短语作定语、时间状语从句、原因状语从句、条件状语从句、方式状语、动名词短语、代词指代关系，且包含倒装结构和嵌套从句的成分划分难点，适合综合训练"
+  },
+  {
+   "para": 4,
+   "sent": 3,
+   "en": "You'd think this might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us \"step outside time's flow\" into \"soul time.\"",
+   "note": "本句成分丰富且有多个训练点：宾语从句（省略that）、插入语识别、\"helpsbdosth\"结构中的宾语补足语、状语\"infact\"的定位。尤其是第二个主句，插入语和宾语从句的层层嵌套容易产生误判，适合作为成分划分的进阶练习。"
+  },
+  {
+   "para": 4,
+   "sent": 5,
+   "en": "\"Carry a book with you at all times\" can actually work, too – providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down.",
+   "note": "全句包含一个主句,主句后嵌套providing条件状语从句,该从句内部又嵌套sothat结果状语从句,sothat从句的表语后还带有fromwhich定语从句,形成三层嵌套加一个定语修饰的结构;providing从句与sothat从句之间、sothat从句与定语从句之间的归属关系需要仔细辨析,初学者容易混淆从属层级,需反复回读才能理清"
+  },
+  {
+   "para": 4,
+   "sent": 6,
+   "en": "On a really good day, it no longer feels as if you're \"making time to read,\" but just reading, and making time for everything else.",
+   "note": "本句覆盖了多种成分：主句有主语（\"it\"）、谓语（系动词\"feels\"）、时间状语（\"Onareallygoodday\"）、程度状语（\"nolonger\"）、表语（\"asif\"从句）；表语从句内部有主语（\"you\"）、三个并列谓语（含省略）、两个宾语（\"timetoread\"和\"timeforeverythingelse\"）、一个程度状语（\"just\"）；成分种类丰富，且包含系动词表语从句、并列省略、不定式作定语等多个值得练习的点。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "reading",
+   "level": "A1",
+   "pos": "n.",
+   "cn": "阅读",
+   "count": 17,
+   "freq": 42
+  },
+  {
+   "word": "pressure",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "心理压力",
+   "count": 2,
+   "freq": 55
+  },
+  {
+   "word": "actually",
+   "level": "A2",
+   "pos": "adv.",
+   "cn": "实际上，事实上（用于纠正或补充信息）",
+   "count": 2,
+   "freq": 42
+  },
+  {
+   "word": "regular",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "经常的",
+   "count": 2,
+   "freq": 21
+  },
+  {
+   "word": "efficiency",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "效率",
+   "count": 2,
+   "freq": 20
+  },
+  {
+   "word": "efficient",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "效率高的",
+   "count": 2,
+   "freq": 15
+  },
+  {
+   "word": "challenging",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "有挑战性的",
+   "count": 2,
+   "freq": 14
+  },
+  {
+   "word": "technique",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "技术",
+   "count": 2,
+   "freq": 14
+  },
+  {
+   "word": "would",
+   "level": "A1",
+   "pos": "aux.",
+   "cn": "（will 的过去式）将要，会",
+   "count": 1,
+   "freq": 304
+  },
+  {
+   "word": "demand",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "坚决要求",
+   "count": 1,
+   "freq": 63
+  },
+  {
+   "word": "online",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "在线的",
+   "count": 1,
+   "freq": 63
+  },
+  {
+   "word": "risk",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "风险",
+   "count": 1,
+   "freq": 62
+  },
+  {
+   "word": "approach",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "靠近，接近（在空间或时间上）",
+   "count": 1,
+   "freq": 51
+  },
+  {
+   "word": "simply",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "仅仅，只不过",
+   "count": 1,
+   "freq": 43
+  },
+  {
+   "word": "limit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "限度",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "physical",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "身体的",
+   "count": 1,
+   "freq": 40
+  },
+  {
+   "word": "promote",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "促进",
+   "count": 1,
+   "freq": 38
+  },
+  {
+   "word": "advance",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "前进",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "specific",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "具体的",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "judge",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "判断，评判",
+   "count": 1,
+   "freq": 27
+  },
+  {
+   "word": "web",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "网站",
+   "count": 1,
+   "freq": 27
+  },
+  {
+   "word": "tip",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "小费",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "critic",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "批评家",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "resource",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "资源",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "illustrate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "说明",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "willing",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "愿意的，乐意的",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "obtain",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "获得",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "contrast",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "对比",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "flow",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "流动",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "guarantee",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "保证",
+   "count": 1,
+   "freq": 17
+  },
+  {
+   "word": "fuel",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "燃料",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "pursue",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "追求",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "odd",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "奇怪的",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "ease",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "容易",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "complaint",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "抱怨",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "merely",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "仅仅，只不过",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "item",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "项目",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "sufficient",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "足够的",
+   "count": 1,
+   "freq": 10
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2016-english-two/section2-part-a-3/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2016-english-two/section2-part-a-3/"
+}

@@ -1,0 +1,595 @@
+{
+ "year": 2023,
+ "text": 4,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "Teenagers are paradoxical. That's a mild and detached way of saying something that parents often express with considerably stronger language. But the paradox is scientific as well as personal. In adolescence, helpless and dependent children who have relied on grown-ups for just about everything become independent people who can take care of themselves and help each other. At the same time, once cheerful and compliant children become rebellious teenage risk-takers.",
+   "zh": "青少年是矛盾的。这是一种温和而超然的说法，而父母们在表达同样的意思时往往会使用强烈得多的语言。但这种矛盾既是科学的，也是个人的。在青春期，几乎所有事情都依赖成年人的无助和依赖的儿童变成了能够照顾自己并互相帮助的独立个体。与此同时，曾经快乐顺从的孩子变成了叛逆的冒险少年。",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "Teenagers are paradoxical."
+    },
+    {
+     "id": "P1S2",
+     "en": "That's a mild and detached way of saying something that parents often express with considerably stronger language."
+    },
+    {
+     "id": "P1S3",
+     "en": "But the paradox is scientific as well as personal."
+    },
+    {
+     "id": "P1S4",
+     "en": "In adolescence, helpless and dependent children who have relied on grown-ups for just about everything become independent people who can take care of themselves and help each other."
+    },
+    {
+     "id": "P1S5",
+     "en": "At the same time, once cheerful and compliant children become rebellious teenage risk-takers."
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "A new study published in the journal Child Development, by Eveline Crone of the University of Leiden and colleagues, suggests that the positive and negative sides of teenagers go hand in hand. The study is part of a new wave of thinking about adolescence. For a long time, scientists and policy makers concentrated on the idea that teenagers were a problem that needed to be solved. The new work emphasizes that adolescence is a time of opportunity as well as risk.",
+   "zh": "莱顿大学的EvelineCrone及其同事在《儿童发展》期刊上发表的一项新研究表明，青少年的积极面和消极面是相伴而生的。这项研究是关于青春期思考新浪潮的一部分。长期以来，科学家和政策制定者专注于青少年是一个需要解决的问题这一观念。新的研究强调青春期既是机遇期也是风险期。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "A new study published in the journal Child Development, by Eveline Crone of the University of Leiden and colleagues, suggests that the positive and negative sides of teenagers go hand in hand."
+    },
+    {
+     "id": "P2S2",
+     "en": "The study is part of a new wave of thinking about adolescence."
+    },
+    {
+     "id": "P2S3",
+     "en": "For a long time, scientists and policy makers concentrated on the idea that teenagers were a problem that needed to be solved."
+    },
+    {
+     "id": "P2S4",
+     "en": "The new work emphasizes that adolescence is a time of opportunity as well as risk."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "The researchers studied \"prosocial\" and rebellious traits in more than 200 children and young adults, ranging from 11 to 28 years old. The participants filled out questionnaires about how often they did things that were altruistic and positive, like sacrificing their own interests to help a friend, or rebellious and negative, like getting drunk or staying out late.",
+   "zh": "研究人员对200多名年龄从11岁到28岁的儿童和年轻成人的亲社会特质和叛逆特质进行了研究。参与者填写了关于他们做利他和积极的事情(如牺牲自己的利益去帮助朋友)或叛逆和消极的事情(如喝醉或深夜不归)频率的问卷。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "The researchers studied \"prosocial\" and rebellious traits in more than 200 children and young adults, ranging from 11 to 28 years old."
+    },
+    {
+     "id": "P3S2",
+     "en": "The participants filled out questionnaires about how often they did things that were altruistic and positive, like sacrificing their own interests to help a friend, or rebellious and negative, like getting drunk or staying out late."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "Other studies have shown that rebellious behavior increases as you become a teenager and then fades away as you grow older. But the new study shows that, interestingly, the same pattern holds for prosocial behavior. Teenagers were more likely than younger children or adults to report that they did things like unselfishly helping a friend.",
+   "zh": "其他研究表明，叛逆行为在进入青少年时期时增加，然后随着年龄增长而减弱。但这项新研究显示，有趣的是，亲社会行为也呈现出同样的模式。青少年比年幼的儿童或成年人更有可能报告他们会做无私地帮助朋友之类的事情。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "Other studies have shown that rebellious behavior increases as you become a teenager and then fades away as you grow older."
+    },
+    {
+     "id": "P4S2",
+     "en": "But the new study shows that, interestingly, the same pattern holds for prosocial behavior."
+    },
+    {
+     "id": "P4S3",
+     "en": "Teenagers were more likely than younger children or adults to report that they did things like unselfishly helping a friend."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "Most significantly, there was a positive correlation between prosociality and rebelliousness. The teenagers who were more rebellious were also more likely to help others. The good and bad sides of adolescence seem to develop together.",
+   "zh": "最重要的是，亲社会性和叛逆性之间存在正相关关系。越叛逆的青少年也越有可能帮助他人。青春期的好坏两面似乎是共同发展的。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "Most significantly, there was a positive correlation between prosociality and rebelliousness."
+    },
+    {
+     "id": "P5S2",
+     "en": "The teenagers who were more rebellious were also more likely to help others."
+    },
+    {
+     "id": "P5S3",
+     "en": "The good and bad sides of adolescence seem to develop together."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "en": "Is there some common factor that underlies these apparently contradictory developments? One idea is that teenage behavior is related to what researchers call \"reward sensitivity.\" Decision-making always involves balancing rewards and risks, benefits and costs. \"Reward sensitivity\" measures how much reward it takes to outweigh risk.",
+   "zh": "是否存在某种共同因素作为这些看似矛盾的发展的基础？一种观点认为青少年行为与研究人员所说的奖赏敏感性有关。决策总是涉及平衡奖赏与风险、收益与成本。奖赏敏感性衡量的是需要多大的奖赏才能超过风险。",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "Is there some common factor that underlies these apparently contradictory developments?"
+    },
+    {
+     "id": "P6S2",
+     "en": "One idea is that teenage behavior is related to what researchers call \"reward sensitivity.\""
+    },
+    {
+     "id": "P6S3",
+     "en": "Decision-making always involves balancing rewards and risks, benefits and costs."
+    },
+    {
+     "id": "P6S4",
+     "en": "\"Reward sensitivity\" measures how much reward it takes to outweigh risk."
+    }
+   ]
+  },
+  {
+   "id": "P7",
+   "en": "Teenagers are particularly sensitive to social rewards—winning the game, impressing a new friend, getting that boy to notice you. Reward sensitivity, like prosocial behavior and risk-taking, seems to go up in adolescence and then down again as we age. Somehow, when you hit 30, the chance that something exciting and new will happen at that party just doesn't seem to outweigh the effort of getting up off the couch.",
+   "zh": "青少年对社会奖赏特别敏感——赢得比赛、给新朋友留下深刻印象、让那个男孩注意到你。奖赏敏感性和亲社会行为及冒险行为一样，似乎在青春期上升，然后随着我们年龄增长而再次下降。不知何故，当你到了30岁，那个聚会上可能会发生令人兴奋的新鲜事的机会似乎就不足以抵消从沙发上起身的努力了。",
+   "sentences": [
+    {
+     "id": "P7S1",
+     "en": "Teenagers are particularly sensitive to social rewards—winning the game, impressing a new friend, getting that boy to notice you."
+    },
+    {
+     "id": "P7S2",
+     "en": "Reward sensitivity, like prosocial behavior and risk-taking, seems to go up in adolescence and then down again as we age."
+    },
+    {
+     "id": "P7S3",
+     "en": "Somehow, when you hit 30, the chance that something exciting and new will happen at that party just doesn't seem to outweigh the effort of getting up off the couch."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 4,
+   "en": "In adolescence, helpless and dependent children who have relied on grown-ups for just about everything become independent people who can take care of themselves and help each other.",
+   "note": "主系表结构加定语从句修饰是四六级和考研阅读中的高频句式,尤其是用定语从句同时修饰主语和表语来对比过去与现在、起点与终点的写法非常典型。掌握这种结构后,可以迁移到大量描述变化、成长、对比的句子,实用性强。"
+  },
+  {
+   "para": 2,
+   "sent": 1,
+   "en": "A new study published in the journal Child Development, by Eveline Crone of the University of Leiden and colleagues, suggests that the positive and negative sides of teenagers go hand in hand.",
+   "note": "\"主句+that引导宾语从句\"是四六级和考研阅读中的高频句式,主句主语带后置定语也是常见结构;全句结构清晰、长度适中,是学术文本中典型的陈述句式,掌握后可大量迁移到类似语境。"
+  },
+  {
+   "para": 2,
+   "sent": 3,
+   "en": "For a long time, scientists and policy makers concentrated on the idea that teenagers were a problem that needed to be solved.",
+   "note": "\"名词+同位语从句\"和\"先行词+定语从句\"的嵌套组合在四六级和考研阅读中非常常见，是典型的学术性长句结构。掌握本句的拆解方法可以直接迁移到大量类似句式。结构代表性较高。"
+  },
+  {
+   "para": 3,
+   "sent": 1,
+   "en": "The researchers studied \"prosocial\" and rebellious traits in more than 200 children and young adults, ranging from 11 to 28 years old.",
+   "note": "\"主语+及物动词+宾语+介词短语状语+分词短语后置定语\"是四六级和考研阅读中极为常见的简单句扩展模式。介词短语补充说明动作范围、分词短语补充说明名词特征,这两种修饰手法在学术文章和新闻报道中频繁出现,掌握后可大量复用。"
+  },
+  {
+   "para": 3,
+   "sent": 2,
+   "en": "The participants filled out questionnaires about how often they did things that were altruistic and positive, like sacrificing their own interests to help a friend, or rebellious and negative, like getting drunk or staying out late.",
+   "note": "主句+宾语从句+定语从句的嵌套结构是四六级和考研阅读的典型句式；间接疑问句作介词宾语、that引导限制性定语从句修饰抽象名词、并列修饰成分的安排都是高频考点，掌握后可大量复用到类似长难句的理解中。"
+  },
+  {
+   "para": 5,
+   "sent": 2,
+   "en": "The teenagers who were more rebellious were also more likely to help others.",
+   "note": "本句是典型的\"主语+限制性定语从句+系表结构\"句式，这种\"先用定语从句限定主语范围、再对该群体进行描述\"的逻辑在四六级和考研阅读中极为常见。掌握这类句式后，学生可以迁移到大量类似结构的句子上，具有较高的代表性和复用价值。"
+  },
+  {
+   "para": 5,
+   "sent": 3,
+   "en": "The good and bad sides of adolescence seem to develop together.",
+   "note": "\"seemtodo\"结构是英语中常见的表达方式，常用于陈述观点或现象，在四六级和考研阅读中时有出现，具有一定的代表性，但整体句式过于简单，不够典型或高频到足以成为重点训练对象。"
+  },
+  {
+   "para": 6,
+   "sent": 4,
+   "en": "\"Reward sensitivity\" measures how much reward it takes to outweigh risk.",
+   "note": "本句的'主句+宾语从句'结构以及从句中的ittakestodo句型，在四六级和考研阅读中频繁出现，属于高频典型句式；掌握这类间接疑问句和形式主语用法后，可迁移至大量类似句子。"
+  },
+  {
+   "para": 7,
+   "sent": 1,
+   "en": "Teenagers are particularly sensitive to social rewards—winning the game, impressing a new friend, getting that boy to notice you.",
+   "note": "“主系表+介词短语补足+破折号举例说明”是阅读中很常见的说明型句式。掌握这种读法后，遇到类似的定义句、解释句时可以直接迁移。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "adolescence",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "青春期",
+   "count": 8,
+   "freq": 10
+  },
+  {
+   "word": "behavior",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "行为",
+   "count": 6,
+   "freq": 52
+  },
+  {
+   "word": "reward",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "报酬",
+   "count": 6,
+   "freq": 26
+  },
+  {
+   "word": "risk",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "风险",
+   "count": 3,
+   "freq": 62
+  },
+  {
+   "word": "negative",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "否定的",
+   "count": 3,
+   "freq": 32
+  },
+  {
+   "word": "positive",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "积极的",
+   "count": 3,
+   "freq": 27
+  },
+  {
+   "word": "researcher",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "研究人员",
+   "count": 2,
+   "freq": 112
+  },
+  {
+   "word": "likely",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "很可能的",
+   "count": 2,
+   "freq": 89
+  },
+  {
+   "word": "tend",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "倾向于，往往会",
+   "count": 2,
+   "freq": 71
+  },
+  {
+   "word": "trait",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "特征",
+   "count": 2,
+   "freq": 13
+  },
+  {
+   "word": "accord",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "（国家、团体间的）协议",
+   "count": 1,
+   "freq": 172
+  },
+  {
+   "word": "benefit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "好处",
+   "count": 1,
+   "freq": 88
+  },
+  {
+   "word": "scientific",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "科学的",
+   "count": 1,
+   "freq": 83
+  },
+  {
+   "word": "policy",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "政策",
+   "count": 1,
+   "freq": 69
+  },
+  {
+   "word": "measure",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "测量",
+   "count": 1,
+   "freq": 65
+  },
+  {
+   "word": "involve",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "包含",
+   "count": 1,
+   "freq": 61
+  },
+  {
+   "word": "journal",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "杂志",
+   "count": 1,
+   "freq": 57
+  },
+  {
+   "word": "publish",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "出版，发行（书籍、杂志等）",
+   "count": 1,
+   "freq": 52
+  },
+  {
+   "word": "opportunity",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "机会",
+   "count": 1,
+   "freq": 50
+  },
+  {
+   "word": "factor",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "因素",
+   "count": 1,
+   "freq": 47
+  },
+  {
+   "word": "pattern",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "模式",
+   "count": 1,
+   "freq": 47
+  },
+  {
+   "word": "emotional",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "情绪的",
+   "count": 1,
+   "freq": 34
+  },
+  {
+   "word": "thinking",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "思考",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "particularly",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "尤其，特别（强调某事物）",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "responsibility",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "责任",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "range",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "范围",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "balance",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "平衡",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "rely",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "依赖;依靠",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "explore",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "探索",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "mainly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "主要地",
+   "count": 1,
+   "freq": 26
+  },
+  {
+   "word": "colleague",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "同事",
+   "count": 1,
+   "freq": 23
+  },
+  {
+   "word": "emphasize",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "强调",
+   "count": 1,
+   "freq": 22
+  },
+  {
+   "word": "sensitive",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "敏感的",
+   "count": 1,
+   "freq": 21
+  },
+  {
+   "word": "participant",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "参与者",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "wave",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "波浪",
+   "count": 1,
+   "freq": 18
+  },
+  {
+   "word": "highlight",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "最精彩的部分",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "solve",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "解决（问题、困难）",
+   "count": 1,
+   "freq": 16
+  },
+  {
+   "word": "personality",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "个性",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "peak",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "山峰",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "apparently",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "显然，看来（根据外表或所见所闻判断）",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "relate",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "使有联系，把…联系起来",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "concentrate",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "集中注意力",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "recognition",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "认可",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "anxious",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "焦虑的",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "dependent",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "依靠的",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "cooperate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "合作",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "endeavor",
+   "level": "C1",
+   "pos": "v.",
+   "cn": "努力",
+   "count": 1,
+   "freq": 8
+  },
+  {
+   "word": "insight",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "洞察力",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2023-english-two/section2-part-a-4/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2023-english-two/section2-part-a-4/"
+}

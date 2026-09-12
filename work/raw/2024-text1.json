@@ -1,0 +1,766 @@
+{
+ "year": 2024,
+ "text": 1,
+ "paragraphs": [
+  {
+   "id": "P1",
+   "en": "In her new book Cogs and Monsters: What Economics Is, and What It Should Be, Diane Coyle, an economist at Cambridge University, argues that the digital economy requires new ways of thinking about progress. \"Whatever we mean by the economy growing, by things getting better, the gains will have to be more evenly shared than in the recent past,\" she writes. \"An economy of tech millionaires or billionaires and gig workers, with middle-income jobs undercut by automation, will not be politically sustainable.\"",
+   "zh": "在她的新书《齿轮与怪兽：经济学是什么，以及它应该是什么》中，剑桥大学经济学家DianeCoyle认为，数字经济需要关于进步的新思维方式。她写道：\"无论我们所说的经济增长、事物变得更好是什么意思，收益都必须比近期更加均匀地分享。一个由科技百万富翁或亿万富翁和零工工人组成的经济体，其中等收入工作被自动化削弱，将无法在政治上持续。\"",
+   "sentences": [
+    {
+     "id": "P1S1",
+     "en": "In her new book Cogs and Monsters: What Economics Is, and What It Should Be, Diane Coyle, an economist at Cambridge University, argues that the digital economy requires new ways of thinking about progress."
+    },
+    {
+     "id": "P1S2",
+     "en": "\"Whatever we mean by the economy growing, by things getting better, the gains will have to be more evenly shared than in the recent past,\" she writes."
+    },
+    {
+     "id": "P1S3",
+     "en": "\"An economy of tech millionaires or billionaires and gig workers, with middle-income jobs undercut by automation, will not be politically sustainable.\""
+    }
+   ]
+  },
+  {
+   "id": "P2",
+   "en": "Improving living standards and increasing prosperity for more people will require greater use of digital technologies to boost productivity in various sectors, including health care and construction, says Coyle. But people can't be expected to embrace the changes if they're not seeing the benefits—if they're just seeing good jobs being destroyed.",
+   "zh": "Coyle说，提高生活水平和让更多人增加繁荣将需要更多地使用数字技术来提高包括医疗保健和建筑在内的各个部门的生产力。但如果人们看不到好处——如果他们只是看到好工作被摧毁，就不能期望他们接受这些变化。",
+   "sentences": [
+    {
+     "id": "P2S1",
+     "en": "Improving living standards and increasing prosperity for more people will require greater use of digital technologies to boost productivity in various sectors, including health care and construction, says Coyle."
+    },
+    {
+     "id": "P2S2",
+     "en": "But people can't be expected to embrace the changes if they're not seeing the benefits—if they're just seeing good jobs being destroyed."
+    }
+   ]
+  },
+  {
+   "id": "P3",
+   "en": "In a recent interview, Coyle said she fears that tech's inequality problem could be a roadblock to deploying AI. \"We're talking about disruption,\" she says. \"These are transformative technologies that change the ways we spend our time every day, that change business models that succeed.\" To make such \"tremendous changes,\" she adds, you need social buy-in.",
+   "zh": "在最近的一次采访中，Coyle说她担心科技的不平等问题可能成为部署人工智能的障碍。她说:\"我们谈论的是颠覆。这些是变革性技术，改变了我们每天度过时间的方式，改变了成功的商业模式。\"她补充说，要做出这样的\"巨大变化\"，你需要社会认同。",
+   "sentences": [
+    {
+     "id": "P3S1",
+     "en": "In a recent interview, Coyle said she fears that tech's inequality problem could be a roadblock to deploying AI."
+    },
+    {
+     "id": "P3S2",
+     "en": "\"We're talking about disruption,\" she says."
+    },
+    {
+     "id": "P3S3",
+     "en": "\"These are transformative technologies that change the ways we spend our time every day, that change business models that succeed.\""
+    },
+    {
+     "id": "P3S4",
+     "en": "To make such \"tremendous changes,\" she adds, you need social buy-in."
+    }
+   ]
+  },
+  {
+   "id": "P4",
+   "en": "Instead, says Coyle, resentment is simmering among many as the benefits are perceived to go to elites in a handful of prosperous cities.",
+   "zh": "Coyle说，相反，随着收益被认为流向少数繁荣城市的精英，许多人的怨恨正在酝酿。",
+   "sentences": [
+    {
+     "id": "P4S1",
+     "en": "Instead, says Coyle, resentment is simmering among many as the benefits are perceived to go to elites in a handful of prosperous cities."
+    }
+   ]
+  },
+  {
+   "id": "P5",
+   "en": "According to the Brookings Institution, a short list of eight American cities that included San Francisco, San Jose, Boston, and Seattle had roughly 38% of all tech jobs by 2019. New AI technologies are particularly concentrated: Brookings's Mark Muro and Sifan Liu estimate that just 15 cities account for two-thirds of the AI assets and capabilities in the United States.",
+   "zh": "根据BrookingsInstitution的数据，到2019年，包括旧金山、圣何塞、波士顿和西雅图在内的八个美国城市的简短名单拥有大约38%的科技工作岗位。新的人工智能技术尤其集中:Brookings的MarkMuro和SifanLiu估计，仅15个城市就占据了美国三分之二的人工智能资产和能力。",
+   "sentences": [
+    {
+     "id": "P5S1",
+     "en": "According to the Brookings Institution, a short list of eight American cities that included San Francisco, San Jose, Boston, and Seattle had roughly 38% of all tech jobs by 2019."
+    },
+    {
+     "id": "P5S2",
+     "en": "New AI technologies are particularly concentrated: Brookings's Mark Muro and Sifan Liu estimate that just 15 cities account for two-thirds of the AI assets and capabilities in the United States."
+    }
+   ]
+  },
+  {
+   "id": "P6",
+   "en": "The dominance of a few cities in the invention and commercialization of AI means that geographical disparities in wealth will continue to soar. Not only will this foster political and social unrest, but it could, as Coyle suggests, hold back the sorts of AI technologies needed for regional economies to grow.",
+   "zh": "少数城市在人工智能发明和商业化方面的主导地位意味着地理上的财富差距将继续飙升。这不仅会助长政治和社会动荡，而且正如Coyle所说，它可能阻碍区域经济增长所需的各种人工智能技术。",
+   "sentences": [
+    {
+     "id": "P6S1",
+     "en": "The dominance of a few cities in the invention and commercialization of AI means that geographical disparities in wealth will continue to soar."
+    },
+    {
+     "id": "P6S2",
+     "en": "Not only will this foster political and social unrest, but it could, as Coyle suggests, hold back the sorts of AI technologies needed for regional economies to grow."
+    }
+   ]
+  },
+  {
+   "id": "P7",
+   "en": "Part of the solution could lie in somehow loosening the stranglehold that Big Tech has on defining the AI agenda. That will likely take increased federal funding for research independent of the tech giants.",
+   "zh": "解决方案的一部分可能在于以某种方式放松大型科技公司对定义人工智能议程的控制。这可能需要增加联邦资金，用于独立于科技巨头的研究。",
+   "sentences": [
+    {
+     "id": "P7S1",
+     "en": "Part of the solution could lie in somehow loosening the stranglehold that Big Tech has on defining the AI agenda."
+    },
+    {
+     "id": "P7S2",
+     "en": "That will likely take increased federal funding for research independent of the tech giants."
+    }
+   ]
+  },
+  {
+   "id": "P8",
+   "en": "A more immediate response is to broaden our digital imaginations to conceive of AI technologies that don't simply replace jobs but expand opportunities in the sectors that different parts of the country care most about, like health care, education, and manufacturing.",
+   "zh": "一个更直接的应对措施是拓宽我们的数字想象力，构想不是简单地取代工作而是在国家不同地区最关心的部门(如医疗保健、教育和制造业)扩大机会的人工智能技术。",
+   "sentences": [
+    {
+     "id": "P8S1",
+     "en": "A more immediate response is to broaden our digital imaginations to conceive of AI technologies that don't simply replace jobs but expand opportunities in the sectors that different parts of the country care most about, like health care, education, and manufacturing."
+    }
+   ]
+  }
+ ],
+ "insights": [
+  {
+   "para": 1,
+   "sent": 2,
+   "en": "\"Whatever we mean by the economy growing, by things getting better, the gains will have to be more evenly shared than in the recent past,\" she writes.",
+   "note": "本句覆盖主语、谓语、宾语、宾语从句、让步状语从句、方式状语、时间状语、比较状语等多种成分，且包含谓语省略、被动语态、情态助动词等易错点。引号内的长句作为宾语从句，对划分直接引语与间接成分有训练价值，适合作为综合练习句。"
+  },
+  {
+   "para": 2,
+   "sent": 1,
+   "en": "Improving living standards and increasing prosperity for more people will require greater use of digital technologies to boost productivity in various sectors, including health care and construction, says Coyle.",
+   "note": "覆盖倒装引述句、省略引导词的宾语从句、并列动名词短语作主语、不定式作目的状语等多种成分类型。倒装结构和省略that是学生常见的易错点,练习此句可提高识别主句主干和从句边界的能力,训练收益较高。"
+  },
+  {
+   "para": 2,
+   "sent": 2,
+   "en": "But people can't be expected to embrace the changes if they're not seeing the benefits—if they're just seeing good jobs being destroyed.",
+   "note": "本句成分丰富且具有典型训练价值：主句包含情态动词、被动语态、不定式宾语，适合练习复杂谓语的识别；两个条件状语从句考查从句识别能力；第二个从句的宾语补足语\"goodjobsbeingdestroyed\"是易错点，学习者容易误判为独立从句；整体覆盖主、谓、宾、条件状语等多种成分，且含有多个值得练习的语法难点。"
+  },
+  {
+   "para": 3,
+   "sent": 4,
+   "en": "To make such \"tremendous changes,\" she adds, you need social buy-in.",
+   "note": "简单句+不定式目的状语的组合在四六级和考研阅读中较为常见,具有一定代表性,但因无从句结构,典型性不如复合句。"
+  },
+  {
+   "para": 4,
+   "sent": 1,
+   "en": "Instead, says Coyle, resentment is simmering among many as the benefits are perceived to go to elites in a handful of prosperous cities.",
+   "note": "句子包含插入语、主动进行时谓语、被动语态谓语、主语补语、原因状语从句等多种成分，可以练习识别插入语对主干的干扰、被动结构中的补语识别、状语从句的定位，成分种类较丰富"
+  },
+  {
+   "para": 5,
+   "sent": 1,
+   "en": "According to the Brookings Institution, a short list of eight American cities that included San Francisco, San Jose, Boston, and Seattle had roughly 38% of all tech jobs by 2019.",
+   "note": "典型的真题句式:主语带定语从句修饰、句首介词短语作状语、核心陈述事实性数据,这种结构在四六级和考研阅读中极为常见,尤其是学术报告、统计数据类文本;掌握后可直接迁移到大量同类句子"
+  },
+  {
+   "para": 5,
+   "sent": 2,
+   "en": "New AI technologies are particularly concentrated: Brookings's Mark Muro and Sifan Liu estimate that just 15 cities account for two-thirds of the AI assets and capabilities in the United States.",
+   "note": "本句包含两个并列主句加一个宾语从句的组合,是四六级和考研阅读中常见的句式。通过冒号连接主句进行解释说明,以及\"estimatethat\"引导宾语从句的结构,都是学术和新闻文本的典型用法,掌握后可迁移到大量类似句子,具有较高的代表性。"
+  },
+  {
+   "para": 6,
+   "sent": 2,
+   "en": "Not only will this foster political and social unrest, but it could, as Coyle suggests, hold back the sorts of AI technologies needed for regional economies to grow.",
+   "note": "本句的\"notonly...but(also)\"并列结构、倒装句式、插入语从句都是四六级和考研真题中的高频句式。特别是\"notonly\"引起的倒装,以及插入语打断主句谓语,是考试中反复出现的典型结构。掌握本句的分析方法,可直接迁移到大量同类考题,代表性极强。"
+  },
+  {
+   "para": 7,
+   "sent": 2,
+   "en": "That will likely take increased federal funding for research independent of the tech giants.",
+   "note": "简单句的主谓宾结构配合后置定语修饰，是四六级和考研阅读中常见的句式。宾语中'名词+介词短语+形容词短语'的多层修饰模式在学术类文本中频繁出现，掌握后可迁移到类似长难句的理解中。但因无从句，句式复杂度未达到典型长难句水平，代表性中等偏上。"
+  }
+ ],
+ "vocab": [
+  {
+   "word": "tech",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "技术",
+   "count": 6,
+   "freq": 38
+  },
+  {
+   "word": "economy",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "经济",
+   "count": 5,
+   "freq": 73
+  },
+  {
+   "word": "digital",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "数字的",
+   "count": 4,
+   "freq": 72
+  },
+  {
+   "word": "benefit",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "好处",
+   "count": 3,
+   "freq": 88
+  },
+  {
+   "word": "accord",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "（国家、团体间的）协议",
+   "count": 2,
+   "freq": 172
+  },
+  {
+   "word": "argue",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "争论",
+   "count": 2,
+   "freq": 63
+  },
+  {
+   "word": "asset",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "资产",
+   "count": 2,
+   "freq": 23
+  },
+  {
+   "word": "sector",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "（经济或商业的）部门，行业",
+   "count": 2,
+   "freq": 19
+  },
+  {
+   "word": "prosperity",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "繁荣",
+   "count": 2,
+   "freq": 11
+  },
+  {
+   "word": "author",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "作者",
+   "count": 1,
+   "freq": 209
+  },
+  {
+   "word": "economic",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "经济的",
+   "count": 1,
+   "freq": 98
+  },
+  {
+   "word": "likely",
+   "level": "A2",
+   "pos": "adj.",
+   "cn": "很可能的",
+   "count": 1,
+   "freq": 89
+  },
+  {
+   "word": "federal",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "联邦（制）的",
+   "count": 1,
+   "freq": 81
+  },
+  {
+   "word": "effect",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "影响",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "growth",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "增长",
+   "count": 1,
+   "freq": 80
+  },
+  {
+   "word": "reduce",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "减少，降低（数量、大小、程度等）",
+   "count": 1,
+   "freq": 75
+  },
+  {
+   "word": "better",
+   "level": "A1",
+   "pos": "adj.",
+   "cn": "更好的（good 的比较级）",
+   "count": 1,
+   "freq": 70
+  },
+  {
+   "word": "concern",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "涉及",
+   "count": 1,
+   "freq": 60
+  },
+  {
+   "word": "political",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "政治的",
+   "count": 1,
+   "freq": 54
+  },
+  {
+   "word": "united",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "联合的",
+   "count": 1,
+   "freq": 52
+  },
+  {
+   "word": "opportunity",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "机会",
+   "count": 1,
+   "freq": 50
+  },
+  {
+   "word": "define",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "给……下定义",
+   "count": 1,
+   "freq": 46
+  },
+  {
+   "word": "fund",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "资金",
+   "count": 1,
+   "freq": 45
+  },
+  {
+   "word": "gain",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "获得;赢得",
+   "count": 1,
+   "freq": 43
+  },
+  {
+   "word": "simply",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "仅仅，只不过",
+   "count": 1,
+   "freq": 43
+  },
+  {
+   "word": "account",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "账户",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "career",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "职业",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "states",
+   "level": "A1",
+   "pos": "n.",
+   "cn": "国家",
+   "count": 1,
+   "freq": 42
+  },
+  {
+   "word": "project",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "项目",
+   "count": 1,
+   "freq": 40
+  },
+  {
+   "word": "affect",
+   "level": "B1",
+   "pos": "v.",
+   "cn": "影响",
+   "count": 1,
+   "freq": 39
+  },
+  {
+   "word": "institution",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "机构",
+   "count": 1,
+   "freq": 39
+  },
+  {
+   "word": "promote",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "促进",
+   "count": 1,
+   "freq": 38
+  },
+  {
+   "word": "response",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "回答",
+   "count": 1,
+   "freq": 37
+  },
+  {
+   "word": "productivity",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "生产率",
+   "count": 1,
+   "freq": 36
+  },
+  {
+   "word": "innovation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "创新;革新(指行为或过程)",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "thinking",
+   "level": "A2",
+   "pos": "n.",
+   "cn": "思考",
+   "count": 1,
+   "freq": 33
+  },
+  {
+   "word": "overall",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "总体的",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "particularly",
+   "level": "B2",
+   "pos": "adv.",
+   "cn": "尤其，特别（强调某事物）",
+   "count": 1,
+   "freq": 32
+  },
+  {
+   "word": "funding",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "资金",
+   "count": 1,
+   "freq": 31
+  },
+  {
+   "word": "balance",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "平衡",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "replace",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "替换，更换（用新的代替旧的）",
+   "count": 1,
+   "freq": 30
+  },
+  {
+   "word": "boost",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "提高",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "giant",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "巨大的",
+   "count": 1,
+   "freq": 28
+  },
+  {
+   "word": "solution",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "解决办法",
+   "count": 1,
+   "freq": 26
+  },
+  {
+   "word": "prospect",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "可能性",
+   "count": 1,
+   "freq": 25
+  },
+  {
+   "word": "construction",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "建造",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "enhance",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "提高",
+   "count": 1,
+   "freq": 24
+  },
+  {
+   "word": "manufacturing",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "制造业;生产",
+   "count": 1,
+   "freq": 22
+  },
+  {
+   "word": "efficiency",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "效率",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "various",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "各种各样的",
+   "count": 1,
+   "freq": 20
+  },
+  {
+   "word": "estimate",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "估计",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "expand",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "扩大;扩展;增长",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "perceive",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "理解，领悟（某事的性质或意义）",
+   "count": 1,
+   "freq": 19
+  },
+  {
+   "word": "automation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "自动化（用机器或计算机代替人工操作）",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "cooperation",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "合作",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "elite",
+   "level": "C1",
+   "pos": "n.",
+   "cn": "精英",
+   "count": 1,
+   "freq": 15
+  },
+  {
+   "word": "economist",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "经济学家",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "immediate",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "立即的，即刻的",
+   "count": 1,
+   "freq": 14
+  },
+  {
+   "word": "inequality",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "不平等",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "roughly",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "大约，大概",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "sustainable",
+   "level": "B2",
+   "pos": "adj.",
+   "cn": "可持续的",
+   "count": 1,
+   "freq": 13
+  },
+  {
+   "word": "equally",
+   "level": "B1",
+   "pos": "adv.",
+   "cn": "同样地",
+   "count": 1,
+   "freq": 12
+  },
+  {
+   "word": "embrace",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "拥抱",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "increased",
+   "level": "A2",
+   "pos": "v.",
+   "cn": "增加了",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "significance",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "重要性",
+   "count": 1,
+   "freq": 11
+  },
+  {
+   "word": "collaboration",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "合作",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "economics",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "经济学",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "foster",
+   "level": "B2",
+   "pos": "v.",
+   "cn": "培养",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "imagination",
+   "level": "B1",
+   "pos": "n.",
+   "cn": "想象力",
+   "count": 1,
+   "freq": 10
+  },
+  {
+   "word": "distribution",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "分配",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "increasing",
+   "level": "B1",
+   "pos": "adj.",
+   "cn": "越来越多的",
+   "count": 1,
+   "freq": 9
+  },
+  {
+   "word": "capability",
+   "level": "B2",
+   "pos": "n.",
+   "cn": "能力",
+   "count": 1,
+   "freq": 8
+  }
+ ],
+ "source": "https://english-exam\\.lazynote\\.cn/kaoyan/sections/2024-english-two/section2-part-a-1/",
+ "sent_base": "https://english-exam.lazynote.cn/kaoyan/paper/2024-english-two/section2-part-a-1/"
+}
