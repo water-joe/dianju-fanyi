@@ -1,0 +1,13 @@
+{
+  // Cloudflare Workers 静态资源部署配置。
+  // 站点是纯静态的（见 CLAUDE.md），源码在 site/ 子目录，所以这里把
+  // assets.directory 指过去；Workers Builds 跑 `npx wrangler deploy` 即可。
+  "name": "dianju-fanyi",
+  "compatibility_date": "2026-09-12",
+
+  "assets": {
+    // 站点根目录。index.html 里全是相对路径引用（style.css / app.js / data/*.js），
+    // 因此部署后挂在域名根路径下即可正常工作，不需要 base 配置。
+    "directory": "./site"
+  }
+}
