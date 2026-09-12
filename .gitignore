@@ -12,3 +12,6 @@ work/test/_tmp_*.js
 
 # 本机会话设置
 .claude/settings.local.json
+
+# wrangler 本机缓存（每次 deploy 自动生成，含 account id）
+.wrangler/
