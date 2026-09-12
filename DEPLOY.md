@@ -48,7 +48,7 @@ node $WR pages project create dianju-fanyi --production-branch=main --force
 ### 关键坑：wrangler 4.131.1 会把 Pages 命令「委派」给 Workers
 
 新版 wrangler 把 Pages 并入 Workers，`pages project create` 默认会委派过去，
-然后去 `wrangler.jsonc` 里找 Workers 的 `assets` 键，找不到就报：
+转去读 Workers 的 `assets` 配置键，没有就报：
 
 ```
 ✘ [ERROR] Missing entry-point to Worker script or to assets directory
@@ -82,18 +82,21 @@ Pages 是 `<项目名>.pages.dev`，**不含账号子域**。
 
 注意它和 Pages 项目**同名但不冲突**（不同命名空间），线上 200 的是 Pages 那个。
 
-### `wrangler.jsonc` 的现状与风险
+### 没有 `wrangler.jsonc`，这是有意的
 
-现在写的是 **Pages 方言**：
+项目里**不放** wrangler 配置文件。原因：
 
-```jsonc
-{ "name": "dianju-fanyi", "pages_build_output_dir": "./site" }
-```
+- `wrangler pages deploy` **完全不读它** —— 静态目录由命令行参数给出
+  （`--help` 里没有任何 `--config` 类选项），配置文件对本项目的部署毫无作用。
+- 它却会**误导 Workers 命令**：`wrangler deploy` / `wrangler versions upload`
+  只认 `assets.directory`，读到 Pages 的 `pages_build_output_dir` 会当没有静态目录，
+  报出 "Missing entry-point to Worker script or to assets directory"。
+  （曾用过一版 Pages 方言的 `wrangler.jsonc`，2026-09-12 已删除。）
+- 控制台里那个 Worker 每次构建都会去读它，留着等于持续误导。
 
-- `wrangler pages deploy` **不需要**它（目录由命令行参数给出），留着是为了将来接 Git 集成。
-- **但它会误导 Workers 命令**：`wrangler deploy` 只认 `assets.directory`，
-  读到 `pages_build_output_dir` 会当没有静态目录而报错。**别在本项目跑 `wrangler deploy`。**
-- 若将来改走 Workers，要换成 `assets: { directory: "./site" }`，但那样域名会带上 `waterbob662`。
+将来若真要走 Workers 或让 Pages 接 Git 自动构建，**再说** —— 届时按当时的
+wrangler 版本重新确认该写哪个键，不要照抄已删除的那版。
+（Pages 的 Git 集成也可以在控制台 UI 里直接填构建命令与输出目录，不需要配置文件。）
 
 ## 验证
 

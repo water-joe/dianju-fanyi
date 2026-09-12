@@ -1,8 +1,0 @@
-{
-  // Cloudflare Pages 配置。
-  // 站点是纯静态的（见 CLAUDE.md），源码在 site/ 子目录，因此这里声明
-  // 构建产物目录为 ./site；无需构建命令（没有打包步骤）。
-  "name": "dianju-fanyi",
-  "compatibility_date": "2026-09-12",
-  "pages_build_output_dir": "./site"
-}
